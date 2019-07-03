@@ -17,6 +17,7 @@ pregabalin         & 2575                     & Diabetic peripheral neuropathy  
 ropinirole         & 810                      & Parkinson Disease                    & Restless Legs Syndrome                                                                                             & 76                        \\
 sildenafil         & 6535                     & Pulmonary arterial hypertension      & Erectile dysfunction                                                                                               & 63                        \\
 thalidomide        & 9733                     & Multiple Myeloma                     & Erythema nodosum leprosum                                                                                          & 142                       \\
-sirolimus          & 31118                    & Renal Cell Carcinoma                 & \begin{tabular}[c]{@{}l@{}}Malignant lymphoma, lymphocytic, intermediate\\   differentiation, diffuse\end{tabular} & 166                      
+sirolimus          & 31118                    & Renal Cell Carcinoma                 & \begin{tabular}[c]{@{}l@{}}Malignant lymphoma, lymphocytic, intermediate\\   differentiation, diffuse\end{tabular} & 166                       \\
+total              & 289675                   &                                      &                                                                                                                    &                          
 \end{tabular}
 \end{table}
