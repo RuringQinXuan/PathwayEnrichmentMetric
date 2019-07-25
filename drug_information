@@ -1,0 +1,23 @@
+\begin{table}[]
+\begin{tabular}{lllll}
+drugname           & pubmed\_abstract\_number & indication1                          & indication2                                                                                                        & CTD\_known\_pathwaynumber \\
+auranofin          & 1078                     & Rheumatoid Arthritis                 & Non-small cell lung cancer recurrent                                                                               & 77                        \\
+zidovudine         & 12235                    & HIV Infections                       & Kidney Diseases                                                                                                    & 117                       \\
+buprenorphine      & 5764                     & Opiate Addiction                     & Chronic pain                                                                                                       & 77                        \\
+chloroquine        & 21276                    & Quartan malaria                      & Rheumatoid Arthritis                                                                                               & 103                       \\
+dipyridamole       & 10088                    & Chronic heart failure                & Atrial Fibrillation                                                                                                & 1                         \\
+dopamine           & 148128                   & Low Cardiac Output Syndrome          & Hypotension                                                                                                        & 68                        \\
+gabapentin         & 5484                     & Postherpetic neuralgia               & Restless Legs Syndrome                                                                                             & 21                        \\
+imatinib           & 12825                    & Leukemia, Myeloid, Accelerated Phase & Mastocytosis, Systemic                                                                                             & 128                       \\
+itraconazole       & 8493                     & Candidemia                           & Onychomycosis of fingernails                                                                                       & 43                        \\
+losartan           & 8837                     & Diabetic Nephropathy                 & Hypertensive urgency                                                                                               & 143                       \\
+hydroxychloroquine & 3683                     & Malaria, Vivax                       & Lupus Erythematosus, Systemic                                                                                      & 27                        \\
+plerixafor         & 1013                     & Multiple Myeloma                     &                                                                                                                    & 14                        \\
+pregabalin         & 2575                     & Diabetic peripheral neuropathy       & Fibromyalgia                                                                                                       & 27                        \\
+ropinirole         & 810                      & Parkinson Disease                    & Restless Legs Syndrome                                                                                             & 76                        \\
+sildenafil         & 6535                     & Pulmonary arterial hypertension      & Erectile dysfunction                                                                                               & 63                        \\
+thalidomide        & 9733                     & Multiple Myeloma                     & Erythema nodosum leprosum                                                                                          & 142                       \\
+sirolimus          & 31118                    & Renal Cell Carcinoma                 & \begin{tabular}[c]{@{}l@{}}Malignant lymphoma, lymphocytic, intermediate\\   differentiation, diffuse\end{tabular} & 166                       \\
+total              & 289675                   &                                      &                                                                                                                    &                          
+\end{tabular}
+\end{table}
