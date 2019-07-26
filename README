@@ -10,7 +10,7 @@ So if we want to do pathway enrichment, we need a gene set and a list of pathway
 
 The gene set come from a list of drug-related PubMed abstract files by text mining method.
 Thus we have drug-gene relation.
-The pathway list comes from KEGG(Kyoto Encyclopedia of Genes and Genomes: https://www.kegg.jp/).
+The pathway list comes from KEGG(Kyoto Encyclopedia of Genes and Genomes: https://www.kegg.jp/). total 301,in./data/pathway/standardKEGG_pathwaylist
 After pathway enrichment, we get gene-pathway relation.
 The pathway-disease relation is obvious.
 Thus, we get drug-gene-pathway-disease relation through this pipline.
@@ -24,8 +24,7 @@ CTD site:http://ctdbase.org/voc.go;jsessionid=D0CF3F567BB6478BDB9E1BA92D92EC69?t
 
 So based on the drug information, the drug-related abstracts are retrieval from the PubMed with drug name as keyword.
 Thus, we get the drug PubMed data.
-
-indicators=['IPF_gene','IPF_box','IPF_short','IPF_short_gene','IPF_short_box','IPF_gene_box','IPF_gene_box_short','P']
+indicators=['P','IPF_gene','IPF_node','IPF_short','IPF_short_gene','IPF_short_node','IPF_gene_node','IPF_gene_node_short']
 methods=['abstract','sentence','dependency','tees']
 drugs_file_dir='./data/drug/drug_name.txt'
 
