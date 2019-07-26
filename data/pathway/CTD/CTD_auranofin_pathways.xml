@@ -1,0 +1,1434 @@
+<?xml version="1.0"?>
+<table>
+<row>
+<Pathway>EGFR tyrosine kinase inhibitor resistance</Pathway>
+<PathwayId>KEGG:hsa01521</PathwayId>
+<P-value>1.65e-8</P-value>
+<CorrectedP-value>8.61e-6</CorrectedP-value>
+<AnnotatedGenesQuantity>5</AnnotatedGenesQuantity>
+<AnnotatedGenes>BAX|BCL2|IL6|JAK2|STAT3</AnnotatedGenes>
+<GenomeFrequency>79/43164 genes: 0.18%</GenomeFrequency>
+</row>
+<row>
+<Pathway>Endocrine resistance</Pathway>
+<PathwayId>KEGG:hsa01522</PathwayId>
+<P-value>2.54e-6</P-value>
+<CorrectedP-value>0.00133</CorrectedP-value>
+<AnnotatedGenesQuantity>4</AnnotatedGenesQuantity>
+<AnnotatedGenes>BAX|BCL2|CDKN1A|RB1</AnnotatedGenes>
+<GenomeFrequency>95/43164 genes: 0.22%</GenomeFrequency>
+</row>
+<row>
+<Pathway>Antifolate resistance</Pathway>
+<PathwayId>KEGG:hsa01523</PathwayId>
+<P-value>1.29e-10</P-value>
+<CorrectedP-value>6.72e-8</CorrectedP-value>
+<AnnotatedGenesQuantity>5</AnnotatedGenesQuantity>
+<AnnotatedGenes>CHUK|IL1B|IL6|RELA|TNF</AnnotatedGenes>
+<GenomeFrequency>31/43164 genes: 0.07%</GenomeFrequency>
+</row>
+<row>
+<Pathway>Platinum drug resistance</Pathway>
+<PathwayId>KEGG:hsa01524</PathwayId>
+<P-value>6.23e-15</P-value>
+<CorrectedP-value>3.26e-12</CorrectedP-value>
+<AnnotatedGenesQuantity>8</AnnotatedGenesQuantity>
+<AnnotatedGenes>BAK1|BAX|BCL2|CASP3|CASP8|CASP9|CDKN1A|SLC31A1</AnnotatedGenes>
+<GenomeFrequency>73/43164 genes: 0.17%</GenomeFrequency>
+</row>
+<row>
+<Pathway>MAPK signaling pathway</Pathway>
+<PathwayId>KEGG:hsa04010</PathwayId>
+<P-value>5.54e-6</P-value>
+<CorrectedP-value>0.00290</CorrectedP-value>
+<AnnotatedGenesQuantity>5</AnnotatedGenesQuantity>
+<AnnotatedGenes>CASP3|CHUK|IL1B|RELA|TNF</AnnotatedGenes>
+<GenomeFrequency>255/43164 genes: 0.59%</GenomeFrequency>
+</row>
+<row>
+<Pathway>Chemokine signaling pathway</Pathway>
+<PathwayId>KEGG:hsa04062</PathwayId>
+<P-value>2.77e-8</P-value>
+<CorrectedP-value>1.45e-5</CorrectedP-value>
+<AnnotatedGenesQuantity>6</AnnotatedGenesQuantity>
+<AnnotatedGenes>CHUK|JAK2|NFKBIA|NFKBIB|RELA|STAT3</AnnotatedGenes>
+<GenomeFrequency>182/43164 genes: 0.42%</GenomeFrequency>
+</row>
+<row>
+<Pathway>NF-kappa B signaling pathway</Pathway>
+<PathwayId>KEGG:hsa04064</PathwayId>
+<P-value>1.55e-20</P-value>
+<CorrectedP-value>8.10e-18</CorrectedP-value>
+<AnnotatedGenesQuantity>11</AnnotatedGenesQuantity>
+<AnnotatedGenes>BCL2|CHUK|IL1B|IRAK1|NFKBIA|PARP1|PTGS2|RELA|TICAM1|TLR4|TNF</AnnotatedGenes>
+<GenomeFrequency>94/43164 genes: 0.22%</GenomeFrequency>
+</row>
+<row>
+<Pathway>HIF-1 signaling pathway</Pathway>
+<PathwayId>KEGG:hsa04066</PathwayId>
+<P-value>9.35e-12</P-value>
+<CorrectedP-value>4.89e-9</CorrectedP-value>
+<AnnotatedGenesQuantity>7</AnnotatedGenesQuantity>
+<AnnotatedGenes>BCL2|CDKN1A|HMOX1|IL6|RELA|STAT3|TLR4</AnnotatedGenes>
+<GenomeFrequency>101/43164 genes: 0.23%</GenomeFrequency>
+</row>
+<row>
+<Pathway>FoxO signaling pathway</Pathway>
+<PathwayId>KEGG:hsa04068</PathwayId>
+<P-value>9.40e-6</P-value>
+<CorrectedP-value>0.00492</CorrectedP-value>
+<AnnotatedGenesQuantity>4</AnnotatedGenesQuantity>
+<AnnotatedGenes>CDKN1A|CHUK|IL6|STAT3</AnnotatedGenes>
+<GenomeFrequency>132/43164 genes: 0.31%</GenomeFrequency>
+</row>
+<row>
+<Pathway>Sphingolipid signaling pathway</Pathway>
+<PathwayId>KEGG:hsa04071</PathwayId>
+<P-value>6.03e-6</P-value>
+<CorrectedP-value>0.00315</CorrectedP-value>
+<AnnotatedGenesQuantity>4</AnnotatedGenesQuantity>
+<AnnotatedGenes>BAX|BCL2|RELA|TNF</AnnotatedGenes>
+<GenomeFrequency>118/43164 genes: 0.27%</GenomeFrequency>
+</row>
+<row>
+<Pathway>p53 signaling pathway</Pathway>
+<PathwayId>KEGG:hsa04115</PathwayId>
+<P-value>8.27e-9</P-value>
+<CorrectedP-value>4.32e-6</CorrectedP-value>
+<AnnotatedGenesQuantity>5</AnnotatedGenesQuantity>
+<AnnotatedGenes>BAX|CASP3|CASP8|CASP9|CDKN1A</AnnotatedGenes>
+<GenomeFrequency>69/43164 genes: 0.16%</GenomeFrequency>
+</row>
+<row>
+<Pathway>Phagosome</Pathway>
+<PathwayId>KEGG:hsa04145</PathwayId>
+<P-value>1.68e-5</P-value>
+<CorrectedP-value>0.00880</CorrectedP-value>
+<AnnotatedGenesQuantity>4</AnnotatedGenesQuantity>
+<AnnotatedGenes>HLA-DQA1|HLA-DRB1|ITGAM|TLR4</AnnotatedGenes>
+<GenomeFrequency>153/43164 genes: 0.35%</GenomeFrequency>
+</row>
+<row>
+<Pathway>PI3K-Akt signaling pathway</Pathway>
+<PathwayId>KEGG:hsa04151</PathwayId>
+<P-value>4.80e-11</P-value>
+<CorrectedP-value>2.51e-8</CorrectedP-value>
+<AnnotatedGenesQuantity>9</AnnotatedGenesQuantity>
+<AnnotatedGenes>BCL2|CASP9|CDKN1A|CHUK|IL6|JAK2|MCL1|RELA|TLR4</AnnotatedGenes>
+<GenomeFrequency>341/43164 genes: 0.79%</GenomeFrequency>
+</row>
+<row>
+<Pathway>Apoptosis</Pathway>
+<PathwayId>KEGG:hsa04210</PathwayId>
+<P-value>9.85e-21</P-value>
+<CorrectedP-value>5.15e-18</CorrectedP-value>
+<AnnotatedGenesQuantity>12</AnnotatedGenesQuantity>
+<AnnotatedGenes>BAK1|BAX|BCL2|CASP3|CASP8|CASP9|CHUK|MCL1|NFKBIA|PARP1|RELA|TNF</AnnotatedGenes>
+<GenomeFrequency>138/43164 genes: 0.32%</GenomeFrequency>
+</row>
+<row>
+<Pathway>Apoptosis - multiple species</Pathway>
+<PathwayId>KEGG:hsa04215</PathwayId>
+<P-value>7.37e-13</P-value>
+<CorrectedP-value>3.86e-10</CorrectedP-value>
+<AnnotatedGenesQuantity>6</AnnotatedGenesQuantity>
+<AnnotatedGenes>BAK1|BAX|BCL2|CASP3|CASP8|CASP9</AnnotatedGenes>
+<GenomeFrequency>33/43164 genes: 0.08%</GenomeFrequency>
+</row>
+<row>
+<Pathway>Osteoclast differentiation</Pathway>
+<PathwayId>KEGG:hsa04380</PathwayId>
+<P-value>1.94e-7</P-value>
+<CorrectedP-value>1.01e-4</CorrectedP-value>
+<AnnotatedGenesQuantity>5</AnnotatedGenesQuantity>
+<AnnotatedGenes>CHUK|IL1B|NFKBIA|RELA|TNF</AnnotatedGenes>
+<GenomeFrequency>129/43164 genes: 0.30%</GenomeFrequency>
+</row>
+<row>
+<Pathway>Toll-like receptor signaling pathway</Pathway>
+<PathwayId>KEGG:hsa04620</PathwayId>
+<P-value>2.86e-22</P-value>
+<CorrectedP-value>1.50e-19</CorrectedP-value>
+<AnnotatedGenesQuantity>12</AnnotatedGenesQuantity>
+<AnnotatedGenes>CASP8|CHUK|IL1B|IL6|IRAK1|IRF3|NFKBIA|RELA|TBK1|TICAM1|TLR4|TNF</AnnotatedGenes>
+<GenomeFrequency>104/43164 genes: 0.24%</GenomeFrequency>
+</row>
+<row>
+<Pathway>NOD-like receptor signaling pathway</Pathway>
+<PathwayId>KEGG:hsa04621</PathwayId>
+<P-value>6.23e-26</P-value>
+<CorrectedP-value>3.26e-23</CorrectedP-value>
+<AnnotatedGenesQuantity>15</AnnotatedGenesQuantity>
+<AnnotatedGenes>BCL2|CASP8|CHUK|IL1B|IL6|IRF3|NFKBIA|NFKBIB|RELA|TBK1|TICAM1|TLR4|TNF|TXN|TXN2</AnnotatedGenes>
+<GenomeFrequency>170/43164 genes: 0.39%</GenomeFrequency>
+</row>
+<row>
+<Pathway>RIG-I-like receptor signaling pathway</Pathway>
+<PathwayId>KEGG:hsa04622</PathwayId>
+<P-value>4.38e-15</P-value>
+<CorrectedP-value>2.29e-12</CorrectedP-value>
+<AnnotatedGenesQuantity>8</AnnotatedGenesQuantity>
+<AnnotatedGenes>CASP8|CHUK|IRF3|NFKBIA|NFKBIB|RELA|TBK1|TNF</AnnotatedGenes>
+<GenomeFrequency>70/43164 genes: 0.16%</GenomeFrequency>
+</row>
+<row>
+<Pathway>Cytosolic DNA-sensing pathway</Pathway>
+<PathwayId>KEGG:hsa04623</PathwayId>
+<P-value>1.81e-15</P-value>
+<CorrectedP-value>9.45e-13</CorrectedP-value>
+<AnnotatedGenesQuantity>8</AnnotatedGenesQuantity>
+<AnnotatedGenes>CHUK|IL1B|IL6|IRF3|NFKBIA|NFKBIB|RELA|TBK1</AnnotatedGenes>
+<GenomeFrequency>63/43164 genes: 0.15%</GenomeFrequency>
+</row>
+<row>
+<Pathway>Jak-STAT signaling pathway</Pathway>
+<PathwayId>KEGG:hsa04630</PathwayId>
+<P-value>2.03e-10</P-value>
+<CorrectedP-value>1.06e-7</CorrectedP-value>
+<AnnotatedGenesQuantity>7</AnnotatedGenesQuantity>
+<AnnotatedGenes>BCL2|CDKN1A|IL6|IL6ST|JAK2|MCL1|STAT3</AnnotatedGenes>
+<GenomeFrequency>156/43164 genes: 0.36%</GenomeFrequency>
+</row>
+<row>
+<Pathway>Hematopoietic cell lineage</Pathway>
+<PathwayId>KEGG:hsa04640</PathwayId>
+<P-value>5.89e-10</P-value>
+<CorrectedP-value>3.08e-7</CorrectedP-value>
+<AnnotatedGenesQuantity>6</AnnotatedGenesQuantity>
+<AnnotatedGenes>HLA-DQA1|HLA-DRB1|IL1B|IL6|ITGAM|TNF</AnnotatedGenes>
+<GenomeFrequency>96/43164 genes: 0.22%</GenomeFrequency>
+</row>
+<row>
+<Pathway>IL-17 signaling pathway</Pathway>
+<PathwayId>KEGG:hsa04657</PathwayId>
+<P-value>2.37e-18</P-value>
+<CorrectedP-value>1.24e-15</CorrectedP-value>
+<AnnotatedGenesQuantity>10</AnnotatedGenesQuantity>
+<AnnotatedGenes>CASP3|CASP8|CHUK|IL1B|IL6|NFKBIA|PTGS2|RELA|TBK1|TNF</AnnotatedGenes>
+<GenomeFrequency>93/43164 genes: 0.22%</GenomeFrequency>
+</row>
+<row>
+<Pathway>Th1 and Th2 cell differentiation</Pathway>
+<PathwayId>KEGG:hsa04658</PathwayId>
+<P-value>4.79e-12</P-value>
+<CorrectedP-value>2.51e-9</CorrectedP-value>
+<AnnotatedGenesQuantity>7</AnnotatedGenesQuantity>
+<AnnotatedGenes>CHUK|HLA-DQA1|HLA-DRB1|JAK2|NFKBIA|NFKBIB|RELA</AnnotatedGenes>
+<GenomeFrequency>92/43164 genes: 0.21%</GenomeFrequency>
+</row>
+<row>
+<Pathway>Th17 cell differentiation</Pathway>
+<PathwayId>KEGG:hsa04659</PathwayId>
+<P-value>6.89e-20</P-value>
+<CorrectedP-value>3.60e-17</CorrectedP-value>
+<AnnotatedGenesQuantity>11</AnnotatedGenesQuantity>
+<AnnotatedGenes>CHUK|HLA-DQA1|HLA-DRB1|IL1B|IL6|IL6ST|JAK2|NFKBIA|NFKBIB|RELA|STAT3</AnnotatedGenes>
+<GenomeFrequency>107/43164 genes: 0.25%</GenomeFrequency>
+</row>
+<row>
+<Pathway>T cell receptor signaling pathway</Pathway>
+<PathwayId>KEGG:hsa04660</PathwayId>
+<P-value>6.28e-8</P-value>
+<CorrectedP-value>3.29e-5</CorrectedP-value>
+<AnnotatedGenesQuantity>5</AnnotatedGenesQuantity>
+<AnnotatedGenes>CHUK|NFKBIA|NFKBIB|RELA|TNF</AnnotatedGenes>
+<GenomeFrequency>103/43164 genes: 0.24%</GenomeFrequency>
+</row>
+<row>
+<Pathway>B cell receptor signaling pathway</Pathway>
+<PathwayId>KEGG:hsa04662</PathwayId>
+<P-value>7.46e-7</P-value>
+<CorrectedP-value>3.90e-4</CorrectedP-value>
+<AnnotatedGenesQuantity>4</AnnotatedGenesQuantity>
+<AnnotatedGenes>CHUK|NFKBIA|NFKBIB|RELA</AnnotatedGenes>
+<GenomeFrequency>70/43164 genes: 0.16%</GenomeFrequency>
+</row>
+<row>
+<Pathway>TNF signaling pathway</Pathway>
+<PathwayId>KEGG:hsa04668</PathwayId>
+<P-value>1.44e-15</P-value>
+<CorrectedP-value>7.51e-13</CorrectedP-value>
+<AnnotatedGenesQuantity>9</AnnotatedGenesQuantity>
+<AnnotatedGenes>CASP3|CASP8|CHUK|IL1B|IL6|NFKBIA|PTGS2|RELA|TNF</AnnotatedGenes>
+<GenomeFrequency>108/43164 genes: 0.25%</GenomeFrequency>
+</row>
+<row>
+<Pathway>Intestinal immune network for IgA production</Pathway>
+<PathwayId>KEGG:hsa04672</PathwayId>
+<P-value>1.45e-5</P-value>
+<CorrectedP-value>0.00757</CorrectedP-value>
+<AnnotatedGenesQuantity>3</AnnotatedGenesQuantity>
+<AnnotatedGenes>HLA-DQA1|HLA-DRB1|IL6</AnnotatedGenes>
+<GenomeFrequency>47/43164 genes: 0.11%</GenomeFrequency>
+</row>
+<row>
+<Pathway>Neurotrophin signaling pathway</Pathway>
+<PathwayId>KEGG:hsa04722</PathwayId>
+<P-value>2.17e-9</P-value>
+<CorrectedP-value>1.13e-6</CorrectedP-value>
+<AnnotatedGenesQuantity>6</AnnotatedGenesQuantity>
+<AnnotatedGenes>BAX|BCL2|IRAK1|NFKBIA|NFKBIB|RELA</AnnotatedGenes>
+<GenomeFrequency>119/43164 genes: 0.28%</GenomeFrequency>
+</row>
+<row>
+<Pathway>Adipocytokine signaling pathway</Pathway>
+<PathwayId>KEGG:hsa04920</PathwayId>
+<P-value>6.00e-13</P-value>
+<CorrectedP-value>3.14e-10</CorrectedP-value>
+<AnnotatedGenesQuantity>7</AnnotatedGenesQuantity>
+<AnnotatedGenes>CHUK|JAK2|NFKBIA|NFKBIB|RELA|STAT3|TNF</AnnotatedGenes>
+<GenomeFrequency>69/43164 genes: 0.16%</GenomeFrequency>
+</row>
+<row>
+<Pathway>Insulin resistance</Pathway>
+<PathwayId>KEGG:hsa04931</PathwayId>
+<P-value>7.61e-8</P-value>
+<CorrectedP-value>3.98e-5</CorrectedP-value>
+<AnnotatedGenesQuantity>5</AnnotatedGenesQuantity>
+<AnnotatedGenes>IL6|NFKBIA|RELA|STAT3|TNF</AnnotatedGenes>
+<GenomeFrequency>107/43164 genes: 0.25%</GenomeFrequency>
+</row>
+<row>
+<Pathway>Non-alcoholic fatty liver disease (NAFLD)</Pathway>
+<PathwayId>KEGG:hsa04932</PathwayId>
+<P-value>1.47e-10</P-value>
+<CorrectedP-value>7.69e-8</CorrectedP-value>
+<AnnotatedGenesQuantity>7</AnnotatedGenesQuantity>
+<AnnotatedGenes>BAX|CASP3|CASP8|IL1B|IL6|RELA|TNF</AnnotatedGenes>
+<GenomeFrequency>149/43164 genes: 0.35%</GenomeFrequency>
+</row>
+<row>
+<Pathway>AGE-RAGE signaling pathway in diabetic complications</Pathway>
+<PathwayId>KEGG:hsa04933</PathwayId>
+<P-value>6.39e-16</P-value>
+<CorrectedP-value>3.34e-13</CorrectedP-value>
+<AnnotatedGenesQuantity>9</AnnotatedGenesQuantity>
+<AnnotatedGenes>BAX|BCL2|CASP3|IL1B|IL6|JAK2|RELA|STAT3|TNF</AnnotatedGenes>
+<GenomeFrequency>99/43164 genes: 0.23%</GenomeFrequency>
+</row>
+<row>
+<Pathway>Type I diabetes mellitus</Pathway>
+<PathwayId>KEGG:hsa04940</PathwayId>
+<P-value>1.02e-7</P-value>
+<CorrectedP-value>5.35e-5</CorrectedP-value>
+<AnnotatedGenesQuantity>4</AnnotatedGenesQuantity>
+<AnnotatedGenes>HLA-DQA1|HLA-DRB1|IL1B|TNF</AnnotatedGenes>
+<GenomeFrequency>43/43164 genes: 0.10%</GenomeFrequency>
+</row>
+<row>
+<Pathway>Alzheimer&apos;s disease</Pathway>
+<PathwayId>KEGG:hsa05010</PathwayId>
+<P-value>7.84e-7</P-value>
+<CorrectedP-value>4.10e-4</CorrectedP-value>
+<AnnotatedGenesQuantity>5</AnnotatedGenesQuantity>
+<AnnotatedGenes>CASP3|CASP8|CASP9|IL1B|TNF</AnnotatedGenes>
+<GenomeFrequency>171/43164 genes: 0.40%</GenomeFrequency>
+</row>
+<row>
+<Pathway>Amyotrophic lateral sclerosis (ALS)</Pathway>
+<PathwayId>KEGG:hsa05014</PathwayId>
+<P-value>6.53e-14</P-value>
+<CorrectedP-value>3.41e-11</CorrectedP-value>
+<AnnotatedGenesQuantity>7</AnnotatedGenesQuantity>
+<AnnotatedGenes>BAX|BCL2|CASP3|CASP9|GPX1|SOD1|TNF</AnnotatedGenes>
+<GenomeFrequency>51/43164 genes: 0.12%</GenomeFrequency>
+</row>
+<row>
+<Pathway>Huntington&apos;s disease</Pathway>
+<PathwayId>KEGG:hsa05016</PathwayId>
+<P-value>9.01e-10</P-value>
+<CorrectedP-value>4.71e-7</CorrectedP-value>
+<AnnotatedGenesQuantity>7</AnnotatedGenesQuantity>
+<AnnotatedGenes>BAX|CASP3|CASP8|CASP9|GPX1|PPIF|SOD1</AnnotatedGenes>
+<GenomeFrequency>193/43164 genes: 0.45%</GenomeFrequency>
+</row>
+<row>
+<Pathway>Prion diseases</Pathway>
+<PathwayId>KEGG:hsa05020</PathwayId>
+<P-value>4.37e-8</P-value>
+<CorrectedP-value>2.29e-5</CorrectedP-value>
+<AnnotatedGenesQuantity>4</AnnotatedGenesQuantity>
+<AnnotatedGenes>BAX|IL1B|IL6|SOD1</AnnotatedGenes>
+<GenomeFrequency>35/43164 genes: 0.08%</GenomeFrequency>
+</row>
+<row>
+<Pathway>Epithelial cell signaling in Helicobacter pylori infection</Pathway>
+<PathwayId>KEGG:hsa05120</PathwayId>
+<P-value>6.64e-7</P-value>
+<CorrectedP-value>3.47e-4</CorrectedP-value>
+<AnnotatedGenesQuantity>4</AnnotatedGenesQuantity>
+<AnnotatedGenes>CASP3|CHUK|NFKBIA|RELA</AnnotatedGenes>
+<GenomeFrequency>68/43164 genes: 0.16%</GenomeFrequency>
+</row>
+<row>
+<Pathway>Shigellosis</Pathway>
+<PathwayId>KEGG:hsa05131</PathwayId>
+<P-value>5.53e-7</P-value>
+<CorrectedP-value>2.89e-4</CorrectedP-value>
+<AnnotatedGenesQuantity>4</AnnotatedGenesQuantity>
+<AnnotatedGenes>CHUK|NFKBIA|NFKBIB|RELA</AnnotatedGenes>
+<GenomeFrequency>65/43164 genes: 0.15%</GenomeFrequency>
+</row>
+<row>
+<Pathway>Salmonella infection</Pathway>
+<PathwayId>KEGG:hsa05132</PathwayId>
+<P-value>1.71e-6</P-value>
+<CorrectedP-value>8.93e-4</CorrectedP-value>
+<AnnotatedGenesQuantity>4</AnnotatedGenesQuantity>
+<AnnotatedGenes>IL1B|IL6|RELA|TLR4</AnnotatedGenes>
+<GenomeFrequency>86/43164 genes: 0.20%</GenomeFrequency>
+</row>
+<row>
+<Pathway>Pertussis</Pathway>
+<PathwayId>KEGG:hsa05133</PathwayId>
+<P-value>2.83e-19</P-value>
+<CorrectedP-value>1.48e-16</CorrectedP-value>
+<AnnotatedGenesQuantity>10</AnnotatedGenesQuantity>
+<AnnotatedGenes>CASP3|IL1B|IL6|IRAK1|IRF3|ITGAM|RELA|TICAM1|TLR4|TNF</AnnotatedGenes>
+<GenomeFrequency>76/43164 genes: 0.18%</GenomeFrequency>
+</row>
+<row>
+<Pathway>Legionellosis</Pathway>
+<PathwayId>KEGG:hsa05134</PathwayId>
+<P-value>8.79e-21</P-value>
+<CorrectedP-value>4.60e-18</CorrectedP-value>
+<AnnotatedGenesQuantity>10</AnnotatedGenesQuantity>
+<AnnotatedGenes>CASP3|CASP8|CASP9|IL1B|IL6|ITGAM|NFKBIA|RELA|TLR4|TNF</AnnotatedGenes>
+<GenomeFrequency>55/43164 genes: 0.13%</GenomeFrequency>
+</row>
+<row>
+<Pathway>Leishmaniasis</Pathway>
+<PathwayId>KEGG:hsa05140</PathwayId>
+<P-value>2.60e-24</P-value>
+<CorrectedP-value>1.36e-21</CorrectedP-value>
+<AnnotatedGenesQuantity>12</AnnotatedGenesQuantity>
+<AnnotatedGenes>HLA-DQA1|HLA-DRB1|IL1B|IRAK1|ITGAM|JAK2|NFKBIA|NFKBIB|PTGS2|RELA|TLR4|TNF</AnnotatedGenes>
+<GenomeFrequency>72/43164 genes: 0.17%</GenomeFrequency>
+</row>
+<row>
+<Pathway>Chagas disease (American trypanosomiasis)</Pathway>
+<PathwayId>KEGG:hsa05142</PathwayId>
+<P-value>6.20e-18</P-value>
+<CorrectedP-value>3.24e-15</CorrectedP-value>
+<AnnotatedGenesQuantity>10</AnnotatedGenesQuantity>
+<AnnotatedGenes>CASP8|CHUK|IL1B|IL6|IRAK1|NFKBIA|RELA|TICAM1|TLR4|TNF</AnnotatedGenes>
+<GenomeFrequency>102/43164 genes: 0.24%</GenomeFrequency>
+</row>
+<row>
+<Pathway>African trypanosomiasis</Pathway>
+<PathwayId>KEGG:hsa05143</PathwayId>
+<P-value>5.39e-6</P-value>
+<CorrectedP-value>0.00282</CorrectedP-value>
+<AnnotatedGenesQuantity>3</AnnotatedGenesQuantity>
+<AnnotatedGenes>IL1B|IL6|TNF</AnnotatedGenes>
+<GenomeFrequency>34/43164 genes: 0.08%</GenomeFrequency>
+</row>
+<row>
+<Pathway>Malaria</Pathway>
+<PathwayId>KEGG:hsa05144</PathwayId>
+<P-value>1.75e-7</P-value>
+<CorrectedP-value>9.15e-5</CorrectedP-value>
+<AnnotatedGenesQuantity>4</AnnotatedGenesQuantity>
+<AnnotatedGenes>IL1B|IL6|TLR4|TNF</AnnotatedGenes>
+<GenomeFrequency>49/43164 genes: 0.11%</GenomeFrequency>
+</row>
+<row>
+<Pathway>Toxoplasmosis</Pathway>
+<PathwayId>KEGG:hsa05145</PathwayId>
+<P-value>4.01e-31</P-value>
+<CorrectedP-value>2.10e-28</CorrectedP-value>
+<AnnotatedGenesQuantity>16</AnnotatedGenesQuantity>
+<AnnotatedGenes>BCL2|CASP3|CASP8|CASP9|CHUK|HLA-DQA1|HLA-DRB1|IRAK1|JAK2|NFKBIA|NFKBIB|PPIF|RELA|STAT3|TLR4|TNF</AnnotatedGenes>
+<GenomeFrequency>113/43164 genes: 0.26%</GenomeFrequency>
+</row>
+<row>
+<Pathway>Amoebiasis</Pathway>
+<PathwayId>KEGG:hsa05146</PathwayId>
+<P-value>6.03e-12</P-value>
+<CorrectedP-value>3.15e-9</CorrectedP-value>
+<AnnotatedGenesQuantity>7</AnnotatedGenesQuantity>
+<AnnotatedGenes>CASP3|IL1B|IL6|ITGAM|RELA|TLR4|TNF</AnnotatedGenes>
+<GenomeFrequency>95/43164 genes: 0.22%</GenomeFrequency>
+</row>
+<row>
+<Pathway>Tuberculosis</Pathway>
+<PathwayId>KEGG:hsa05152</PathwayId>
+<P-value>1.27e-25</P-value>
+<CorrectedP-value>6.65e-23</CorrectedP-value>
+<AnnotatedGenesQuantity>15</AnnotatedGenesQuantity>
+<AnnotatedGenes>BAX|BCL2|CASP3|CASP8|CASP9|HLA-DQA1|HLA-DRB1|IL1B|IL6|IRAK1|ITGAM|JAK2|RELA|TLR4|TNF</AnnotatedGenes>
+<GenomeFrequency>178/43164 genes: 0.41%</GenomeFrequency>
+</row>
+<row>
+<Pathway>Hepatitis C</Pathway>
+<PathwayId>KEGG:hsa05160</PathwayId>
+<P-value>8.54e-15</P-value>
+<CorrectedP-value>4.46e-12</CorrectedP-value>
+<AnnotatedGenesQuantity>9</AnnotatedGenesQuantity>
+<AnnotatedGenes>CDKN1A|CHUK|IRF3|NFKBIA|RELA|STAT3|TBK1|TICAM1|TNF</AnnotatedGenes>
+<GenomeFrequency>131/43164 genes: 0.30%</GenomeFrequency>
+</row>
+<row>
+<Pathway>Hepatitis B</Pathway>
+<PathwayId>KEGG:hsa05161</PathwayId>
+<P-value>1.16e-31</P-value>
+<CorrectedP-value>6.04e-29</CorrectedP-value>
+<AnnotatedGenesQuantity>17</AnnotatedGenesQuantity>
+<AnnotatedGenes>BAX|BCL2|CASP3|CASP8|CASP9|CDKN1A|CHUK|IL6|IRF3|NFKBIA|RB1|RELA|STAT3|TBK1|TICAM1|TLR4|TNF</AnnotatedGenes>
+<GenomeFrequency>144/43164 genes: 0.33%</GenomeFrequency>
+</row>
+<row>
+<Pathway>Measles</Pathway>
+<PathwayId>KEGG:hsa05162</PathwayId>
+<P-value>6.23e-21</P-value>
+<CorrectedP-value>3.26e-18</CorrectedP-value>
+<AnnotatedGenesQuantity>12</AnnotatedGenesQuantity>
+<AnnotatedGenes>CHUK|IL1B|IL6|IRAK1|IRF3|JAK2|NFKBIA|NFKBIB|RELA|STAT3|TBK1|TLR4</AnnotatedGenes>
+<GenomeFrequency>133/43164 genes: 0.31%</GenomeFrequency>
+</row>
+<row>
+<Pathway>Influenza A</Pathway>
+<PathwayId>KEGG:hsa05164</PathwayId>
+<P-value>1.14e-23</P-value>
+<CorrectedP-value>5.98e-21</CorrectedP-value>
+<AnnotatedGenesQuantity>14</AnnotatedGenesQuantity>
+<AnnotatedGenes>CASP9|HLA-DQA1|HLA-DRB1|IL1B|IL6|IRF3|JAK2|NFKBIA|NFKBIB|RELA|TBK1|TICAM1|TLR4|TNF</AnnotatedGenes>
+<GenomeFrequency>173/43164 genes: 0.40%</GenomeFrequency>
+</row>
+<row>
+<Pathway>HTLV-I infection</Pathway>
+<PathwayId>KEGG:hsa05166</PathwayId>
+<P-value>7.29e-14</P-value>
+<CorrectedP-value>3.81e-11</CorrectedP-value>
+<AnnotatedGenesQuantity>10</AnnotatedGenesQuantity>
+<AnnotatedGenes>BAX|CDKN1A|CHUK|HLA-DQA1|HLA-DRB1|IL6|NFKBIA|RB1|RELA|TNF</AnnotatedGenes>
+<GenomeFrequency>256/43164 genes: 0.59%</GenomeFrequency>
+</row>
+<row>
+<Pathway>Herpes simplex infection</Pathway>
+<PathwayId>KEGG:hsa05168</PathwayId>
+<P-value>2.31e-25</P-value>
+<CorrectedP-value>1.21e-22</CorrectedP-value>
+<AnnotatedGenesQuantity>15</AnnotatedGenesQuantity>
+<AnnotatedGenes>CASP3|CASP8|CHUK|HLA-DQA1|HLA-DRB1|IL1B|IL6|IRF3|JAK2|NFKBIA|NFKBIB|RELA|TBK1|TICAM1|TNF</AnnotatedGenes>
+<GenomeFrequency>185/43164 genes: 0.43%</GenomeFrequency>
+</row>
+<row>
+<Pathway>Epstein-Barr virus infection</Pathway>
+<PathwayId>KEGG:hsa05169</PathwayId>
+<P-value>9.89e-21</P-value>
+<CorrectedP-value>5.17e-18</CorrectedP-value>
+<AnnotatedGenesQuantity>13</AnnotatedGenesQuantity>
+<AnnotatedGenes>BCL2|CDKN1A|CHUK|HLA-DQA1|HLA-DRB1|IRAK1|IRF3|NFKBIA|NFKBIB|RB1|RELA|STAT3|TBK1</AnnotatedGenes>
+<GenomeFrequency>200/43164 genes: 0.46%</GenomeFrequency>
+</row>
+<row>
+<Pathway>Pathways in cancer</Pathway>
+<PathwayId>KEGG:hsa05200</PathwayId>
+<P-value>7.40e-17</P-value>
+<CorrectedP-value>3.87e-14</CorrectedP-value>
+<AnnotatedGenesQuantity>13</AnnotatedGenesQuantity>
+<AnnotatedGenes>BAX|BCL2|CASP3|CASP8|CASP9|CDKN1A|CHUK|IL6|NFKBIA|PTGS2|RB1|RELA|STAT3</AnnotatedGenes>
+<GenomeFrequency>395/43164 genes: 0.92%</GenomeFrequency>
+</row>
+<row>
+<Pathway>Transcriptional misregulation in cancer</Pathway>
+<PathwayId>KEGG:hsa05202</PathwayId>
+<P-value>9.82e-7</P-value>
+<CorrectedP-value>5.14e-4</CorrectedP-value>
+<AnnotatedGenesQuantity>5</AnnotatedGenesQuantity>
+<AnnotatedGenes>CDKN1A|CEBPE|IL6|ITGAM|RELA</AnnotatedGenes>
+<GenomeFrequency>179/43164 genes: 0.41%</GenomeFrequency>
+</row>
+<row>
+<Pathway>Viral carcinogenesis</Pathway>
+<PathwayId>KEGG:hsa05203</PathwayId>
+<P-value>8.55e-17</P-value>
+<CorrectedP-value>4.47e-14</CorrectedP-value>
+<AnnotatedGenesQuantity>11</AnnotatedGenesQuantity>
+<AnnotatedGenes>BAK1|BAX|CASP3|CASP8|CDKN1A|IL6ST|IRF3|NFKBIA|RB1|RELA|STAT3</AnnotatedGenes>
+<GenomeFrequency>201/43164 genes: 0.47%</GenomeFrequency>
+</row>
+<row>
+<Pathway>Proteoglycans in cancer</Pathway>
+<PathwayId>KEGG:hsa05205</PathwayId>
+<P-value>1.82e-6</P-value>
+<CorrectedP-value>9.53e-4</CorrectedP-value>
+<AnnotatedGenesQuantity>5</AnnotatedGenesQuantity>
+<AnnotatedGenes>CASP3|CDKN1A|STAT3|TLR4|TNF</AnnotatedGenes>
+<GenomeFrequency>203/43164 genes: 0.47%</GenomeFrequency>
+</row>
+<row>
+<Pathway>MicroRNAs in cancer</Pathway>
+<PathwayId>KEGG:hsa05206</PathwayId>
+<P-value>5.67e-10</P-value>
+<CorrectedP-value>2.97e-7</CorrectedP-value>
+<AnnotatedGenesQuantity>8</AnnotatedGenesQuantity>
+<AnnotatedGenes>BAK1|BCL2|CASP3|CDKN1A|HMOX1|MCL1|PTGS2|STAT3</AnnotatedGenes>
+<GenomeFrequency>299/43164 genes: 0.69%</GenomeFrequency>
+</row>
+<row>
+<Pathway>Colorectal cancer</Pathway>
+<PathwayId>KEGG:hsa05210</PathwayId>
+<P-value>4.00e-7</P-value>
+<CorrectedP-value>2.09e-4</CorrectedP-value>
+<AnnotatedGenesQuantity>4</AnnotatedGenesQuantity>
+<AnnotatedGenes>BAX|BCL2|CASP3|CASP9</AnnotatedGenes>
+<GenomeFrequency>60/43164 genes: 0.14%</GenomeFrequency>
+</row>
+<row>
+<Pathway>Pancreatic cancer</Pathway>
+<PathwayId>KEGG:hsa05212</PathwayId>
+<P-value>5.63e-9</P-value>
+<CorrectedP-value>2.94e-6</CorrectedP-value>
+<AnnotatedGenesQuantity>5</AnnotatedGenesQuantity>
+<AnnotatedGenes>CASP9|CHUK|RB1|RELA|STAT3</AnnotatedGenes>
+<GenomeFrequency>64/43164 genes: 0.15%</GenomeFrequency>
+</row>
+<row>
+<Pathway>Prostate cancer</Pathway>
+<PathwayId>KEGG:hsa05215</PathwayId>
+<P-value>3.21e-12</P-value>
+<CorrectedP-value>1.68e-9</CorrectedP-value>
+<AnnotatedGenesQuantity>7</AnnotatedGenesQuantity>
+<AnnotatedGenes>BCL2|CASP9|CDKN1A|CHUK|NFKBIA|RB1|RELA</AnnotatedGenes>
+<GenomeFrequency>87/43164 genes: 0.20%</GenomeFrequency>
+</row>
+<row>
+<Pathway>Chronic myeloid leukemia</Pathway>
+<PathwayId>KEGG:hsa05220</PathwayId>
+<P-value>9.57e-9</P-value>
+<CorrectedP-value>5.00e-6</CorrectedP-value>
+<AnnotatedGenesQuantity>5</AnnotatedGenesQuantity>
+<AnnotatedGenes>CDKN1A|CHUK|NFKBIA|RB1|RELA</AnnotatedGenes>
+<GenomeFrequency>71/43164 genes: 0.16%</GenomeFrequency>
+</row>
+<row>
+<Pathway>Small cell lung cancer</Pathway>
+<PathwayId>KEGG:hsa05222</PathwayId>
+<P-value>2.49e-12</P-value>
+<CorrectedP-value>1.30e-9</CorrectedP-value>
+<AnnotatedGenesQuantity>7</AnnotatedGenesQuantity>
+<AnnotatedGenes>BCL2|CASP9|CHUK|NFKBIA|PTGS2|RB1|RELA</AnnotatedGenes>
+<GenomeFrequency>84/43164 genes: 0.19%</GenomeFrequency>
+</row>
+<row>
+<Pathway>Asthma</Pathway>
+<PathwayId>KEGG:hsa05310</PathwayId>
+<P-value>3.67e-6</P-value>
+<CorrectedP-value>0.00192</CorrectedP-value>
+<AnnotatedGenesQuantity>3</AnnotatedGenesQuantity>
+<AnnotatedGenes>HLA-DQA1|HLA-DRB1|TNF</AnnotatedGenes>
+<GenomeFrequency>30/43164 genes: 0.07%</GenomeFrequency>
+</row>
+<row>
+<Pathway>Inflammatory bowel disease (IBD)</Pathway>
+<PathwayId>KEGG:hsa05321</PathwayId>
+<P-value>2.35e-15</P-value>
+<CorrectedP-value>1.23e-12</CorrectedP-value>
+<AnnotatedGenesQuantity>8</AnnotatedGenesQuantity>
+<AnnotatedGenes>HLA-DQA1|HLA-DRB1|IL1B|IL6|RELA|STAT3|TLR4|TNF</AnnotatedGenes>
+<GenomeFrequency>65/43164 genes: 0.15%</GenomeFrequency>
+</row>
+<row>
+<Pathway>Rheumatoid arthritis</Pathway>
+<PathwayId>KEGG:hsa05323</PathwayId>
+<P-value>3.71e-10</P-value>
+<CorrectedP-value>1.94e-7</CorrectedP-value>
+<AnnotatedGenesQuantity>6</AnnotatedGenesQuantity>
+<AnnotatedGenes>HLA-DQA1|HLA-DRB1|IL1B|IL6|TLR4|TNF</AnnotatedGenes>
+<GenomeFrequency>89/43164 genes: 0.21%</GenomeFrequency>
+</row>
+<row>
+<Pathway>Allograft rejection</Pathway>
+<PathwayId>KEGG:hsa05330</PathwayId>
+<P-value>6.99e-6</P-value>
+<CorrectedP-value>0.00365</CorrectedP-value>
+<AnnotatedGenesQuantity>3</AnnotatedGenesQuantity>
+<AnnotatedGenes>HLA-DQA1|HLA-DRB1|TNF</AnnotatedGenes>
+<GenomeFrequency>37/43164 genes: 0.09%</GenomeFrequency>
+</row>
+<row>
+<Pathway>Graft-versus-host disease</Pathway>
+<PathwayId>KEGG:hsa05332</PathwayId>
+<P-value>5.63e-10</P-value>
+<CorrectedP-value>2.94e-7</CorrectedP-value>
+<AnnotatedGenesQuantity>5</AnnotatedGenesQuantity>
+<AnnotatedGenes>HLA-DQA1|HLA-DRB1|IL1B|IL6|TNF</AnnotatedGenes>
+<GenomeFrequency>41/43164 genes: 0.09%</GenomeFrequency>
+</row>
+<row>
+<Pathway>Viral myocarditis</Pathway>
+<PathwayId>KEGG:hsa05416</PathwayId>
+<P-value>2.64e-11</P-value>
+<CorrectedP-value>1.38e-8</CorrectedP-value>
+<AnnotatedGenesQuantity>6</AnnotatedGenesQuantity>
+<AnnotatedGenes>CASP3|CASP8|CASP9|HLA-DQA1|HLA-DRB1|MYH6</AnnotatedGenes>
+<GenomeFrequency>58/43164 genes: 0.13%</GenomeFrequency>
+</row>
+<row>
+<Pathway>Fluid shear stress and atherosclerosis</Pathway>
+<PathwayId>KEGG:hsa05418</PathwayId>
+<P-value>1.48e-12</P-value>
+<CorrectedP-value>7.73e-10</CorrectedP-value>
+<AnnotatedGenesQuantity>8</AnnotatedGenesQuantity>
+<AnnotatedGenes>BCL2|CHUK|HMOX1|IL1B|RELA|TNF|TXN|TXN2</AnnotatedGenes>
+<GenomeFrequency>142/43164 genes: 0.33%</GenomeFrequency>
+</row>
+<row>
+<Pathway>Apoptotic machinery</Pathway>
+<PathwayId>KEGG:hsa_M00685</PathwayId>
+<P-value>5.81e-6</P-value>
+<CorrectedP-value>0.00304</CorrectedP-value>
+<AnnotatedGenesQuantity>2</AnnotatedGenesQuantity>
+<AnnotatedGenes>CASP3|CASP9</AnnotatedGenes>
+<GenomeFrequency>4/43164 genes: 0.01%</GenomeFrequency>
+</row>
+<row>
+<Pathway>Toll-like receptor signaling</Pathway>
+<PathwayId>KEGG:hsa_M00686</PathwayId>
+<P-value>2.30e-12</P-value>
+<CorrectedP-value>1.20e-9</CorrectedP-value>
+<AnnotatedGenesQuantity>5</AnnotatedGenesQuantity>
+<AnnotatedGenes>CHUK|IRAK1|NFKBIA|RELA|TLR4</AnnotatedGenes>
+<GenomeFrequency>15/43164 genes: 0.03%</GenomeFrequency>
+</row>
+<row>
+<Pathway>Interleukin-6 signaling</Pathway>
+<PathwayId>REACT:R-HSA-1059683</PathwayId>
+<P-value>2.80e-10</P-value>
+<CorrectedP-value>1.47e-7</CorrectedP-value>
+<AnnotatedGenesQuantity>4</AnnotatedGenesQuantity>
+<AnnotatedGenes>IL6|IL6ST|JAK2|STAT3</AnnotatedGenes>
+<GenomeFrequency>11/43164 genes: 0.03%</GenomeFrequency>
+</row>
+<row>
+<Pathway>Apoptosis</Pathway>
+<PathwayId>REACT:R-HSA-109581</PathwayId>
+<P-value>6.95e-12</P-value>
+<CorrectedP-value>3.63e-9</CorrectedP-value>
+<AnnotatedGenesQuantity>8</AnnotatedGenesQuantity>
+<AnnotatedGenes>BAK1|BAX|BCL2|CASP3|CASP8|CASP9|TICAM1|TLR4</AnnotatedGenes>
+<GenomeFrequency>172/43164 genes: 0.40%</GenomeFrequency>
+</row>
+<row>
+<Pathway>Intrinsic Pathway for Apoptosis</Pathway>
+<PathwayId>REACT:R-HSA-109606</PathwayId>
+<P-value>4.66e-12</P-value>
+<CorrectedP-value>2.44e-9</CorrectedP-value>
+<AnnotatedGenesQuantity>6</AnnotatedGenesQuantity>
+<AnnotatedGenes>BAK1|BAX|BCL2|CASP3|CASP8|CASP9</AnnotatedGenes>
+<GenomeFrequency>44/43164 genes: 0.10%</GenomeFrequency>
+</row>
+<row>
+<Pathway>MAPK3 (ERK1) activation</Pathway>
+<PathwayId>REACT:R-HSA-110056</PathwayId>
+<P-value>1.10e-7</P-value>
+<CorrectedP-value>5.75e-5</CorrectedP-value>
+<AnnotatedGenesQuantity>3</AnnotatedGenesQuantity>
+<AnnotatedGenes>IL6|IL6ST|JAK2</AnnotatedGenes>
+<GenomeFrequency>10/43164 genes: 0.02%</GenomeFrequency>
+</row>
+<row>
+<Pathway>Activation of caspases through apoptosome-mediated cleavage</Pathway>
+<PathwayId>REACT:R-HSA-111459</PathwayId>
+<P-value>9.68e-6</P-value>
+<CorrectedP-value>0.00506</CorrectedP-value>
+<AnnotatedGenesQuantity>2</AnnotatedGenesQuantity>
+<AnnotatedGenes>CASP3|CASP9</AnnotatedGenes>
+<GenomeFrequency>5/43164 genes: 0.01%</GenomeFrequency>
+</row>
+<row>
+<Pathway>Cytochrome c-mediated apoptotic response</Pathway>
+<PathwayId>REACT:R-HSA-111461</PathwayId>
+<P-value>9.68e-6</P-value>
+<CorrectedP-value>0.00506</CorrectedP-value>
+<AnnotatedGenesQuantity>2</AnnotatedGenesQuantity>
+<AnnotatedGenes>CASP3|CASP9</AnnotatedGenes>
+<GenomeFrequency>5/43164 genes: 0.01%</GenomeFrequency>
+</row>
+<row>
+<Pathway>SMAC binds to IAPs</Pathway>
+<PathwayId>REACT:R-HSA-111463</PathwayId>
+<P-value>9.68e-6</P-value>
+<CorrectedP-value>0.00506</CorrectedP-value>
+<AnnotatedGenesQuantity>2</AnnotatedGenesQuantity>
+<AnnotatedGenes>CASP3|CASP9</AnnotatedGenes>
+<GenomeFrequency>5/43164 genes: 0.01%</GenomeFrequency>
+</row>
+<row>
+<Pathway>SMAC-mediated dissociation of IAP:caspase complexes</Pathway>
+<PathwayId>REACT:R-HSA-111464</PathwayId>
+<P-value>9.68e-6</P-value>
+<CorrectedP-value>0.00506</CorrectedP-value>
+<AnnotatedGenesQuantity>2</AnnotatedGenesQuantity>
+<AnnotatedGenes>CASP3|CASP9</AnnotatedGenes>
+<GenomeFrequency>5/43164 genes: 0.01%</GenomeFrequency>
+</row>
+<row>
+<Pathway>SMAC-mediated apoptotic response</Pathway>
+<PathwayId>REACT:R-HSA-111469</PathwayId>
+<P-value>9.68e-6</P-value>
+<CorrectedP-value>0.00506</CorrectedP-value>
+<AnnotatedGenesQuantity>2</AnnotatedGenesQuantity>
+<AnnotatedGenes>CASP3|CASP9</AnnotatedGenes>
+<GenomeFrequency>5/43164 genes: 0.01%</GenomeFrequency>
+</row>
+<row>
+<Pathway>RAF-independent MAPK1/3 activation</Pathway>
+<PathwayId>REACT:R-HSA-112409</PathwayId>
+<P-value>1.61e-6</P-value>
+<CorrectedP-value>8.41e-4</CorrectedP-value>
+<AnnotatedGenesQuantity>3</AnnotatedGenesQuantity>
+<AnnotatedGenes>IL6|IL6ST|JAK2</AnnotatedGenes>
+<GenomeFrequency>23/43164 genes: 0.05%</GenomeFrequency>
+</row>
+<row>
+<Pathway>MAPK1 (ERK2) activation</Pathway>
+<PathwayId>REACT:R-HSA-112411</PathwayId>
+<P-value>7.70e-8</P-value>
+<CorrectedP-value>4.03e-5</CorrectedP-value>
+<AnnotatedGenesQuantity>3</AnnotatedGenesQuantity>
+<AnnotatedGenes>IL6|IL6ST|JAK2</AnnotatedGenes>
+<GenomeFrequency>9/43164 genes: 0.02%</GenomeFrequency>
+</row>
+<row>
+<Pathway>Downstream signaling events of B Cell Receptor (BCR)</Pathway>
+<PathwayId>REACT:R-HSA-1168372</PathwayId>
+<P-value>4.44e-8</P-value>
+<CorrectedP-value>2.32e-5</CorrectedP-value>
+<AnnotatedGenesQuantity>6</AnnotatedGenesQuantity>
+<AnnotatedGenes>CASP9|CDKN1A|CHUK|NFKBIA|NFKBIB|RELA</AnnotatedGenes>
+<GenomeFrequency>197/43164 genes: 0.46%</GenomeFrequency>
+</row>
+<row>
+<Pathway>Activation of NF-kappaB in B cells</Pathway>
+<PathwayId>REACT:R-HSA-1169091</PathwayId>
+<P-value>6.64e-7</P-value>
+<CorrectedP-value>3.47e-4</CorrectedP-value>
+<AnnotatedGenesQuantity>4</AnnotatedGenesQuantity>
+<AnnotatedGenes>CHUK|NFKBIA|NFKBIB|RELA</AnnotatedGenes>
+<GenomeFrequency>68/43164 genes: 0.16%</GenomeFrequency>
+</row>
+<row>
+<Pathway>Cytokine Signaling in Immune system</Pathway>
+<PathwayId>REACT:R-HSA-1280215</PathwayId>
+<P-value>2.01e-22</P-value>
+<CorrectedP-value>1.05e-19</CorrectedP-value>
+<AnnotatedGenesQuantity>19</AnnotatedGenesQuantity>
+<AnnotatedGenes>BCL2|CASP3|CDKN1A|CHUK|HLA-DQA1|HLA-DRB1|HMOX1|IL1B|IL6|IL6ST|IRAK1|IRF3|ITGAM|JAK2|MCL1|PTGS2|RELA|STAT3|TNF</AnnotatedGenes>
+<GenomeFrequency>760/43164 genes: 1.76%</GenomeFrequency>
+</row>
+<row>
+<Pathway>Adaptive Immune System</Pathway>
+<PathwayId>REACT:R-HSA-1280218</PathwayId>
+<P-value>9.56e-8</P-value>
+<CorrectedP-value>5.00e-5</CorrectedP-value>
+<AnnotatedGenesQuantity>9</AnnotatedGenesQuantity>
+<AnnotatedGenes>CASP9|CDKN1A|CHUK|HLA-DQA1|HLA-DRB1|NFKBIA|NFKBIB|RELA|TLR4</AnnotatedGenes>
+<GenomeFrequency>818/43164 genes: 1.90%</GenomeFrequency>
+</row>
+<row>
+<Pathway>Ligand-dependent caspase activation</Pathway>
+<PathwayId>REACT:R-HSA-140534</PathwayId>
+<P-value>6.20e-7</P-value>
+<CorrectedP-value>3.24e-4</CorrectedP-value>
+<AnnotatedGenesQuantity>3</AnnotatedGenesQuantity>
+<AnnotatedGenes>CASP8|TICAM1|TLR4</AnnotatedGenes>
+<GenomeFrequency>17/43164 genes: 0.04%</GenomeFrequency>
+</row>
+<row>
+<Pathway>ZBP1(DAI) mediated induction of type I IFNs</Pathway>
+<PathwayId>REACT:R-HSA-1606322</PathwayId>
+<P-value>2.76e-16</P-value>
+<CorrectedP-value>1.44e-13</CorrectedP-value>
+<AnnotatedGenesQuantity>7</AnnotatedGenesQuantity>
+<AnnotatedGenes>CHUK|IRF3|NFKBIA|NFKBIB|RELA|TBK1|TICAM1</AnnotatedGenes>
+<GenomeFrequency>25/43164 genes: 0.06%</GenomeFrequency>
+</row>
+<row>
+<Pathway>IRF3 mediated activation of type 1 IFN</Pathway>
+<PathwayId>REACT:R-HSA-1606341</PathwayId>
+<P-value>9.68e-6</P-value>
+<CorrectedP-value>0.00506</CorrectedP-value>
+<AnnotatedGenesQuantity>2</AnnotatedGenesQuantity>
+<AnnotatedGenes>IRF3|TBK1</AnnotatedGenes>
+<GenomeFrequency>5/43164 genes: 0.01%</GenomeFrequency>
+</row>
+<row>
+<Pathway>Signal Transduction</Pathway>
+<PathwayId>REACT:R-HSA-162582</PathwayId>
+<P-value>1.12e-7</P-value>
+<CorrectedP-value>5.85e-5</CorrectedP-value>
+<AnnotatedGenesQuantity>14</AnnotatedGenesQuantity>
+<AnnotatedGenes>CASP3|CASP8|CASP9|CDKN1A|CHUK|IL6|IL6ST|IRAK1|JAK2|NFKBIA|PARP1|RELA|STAT3|TNF</AnnotatedGenes>
+<GenomeFrequency>2587/43164 genes: 5.99%</GenomeFrequency>
+</row>
+<row>
+<Pathway>Disease</Pathway>
+<PathwayId>REACT:R-HSA-1643685</PathwayId>
+<P-value>3.16e-11</P-value>
+<CorrectedP-value>1.65e-8</CorrectedP-value>
+<AnnotatedGenesQuantity>12</AnnotatedGenesQuantity>
+<AnnotatedGenes>ALB|CASP9|CDKN1A|CHUK|JAK2|NFKBIA|NFKBIB|RELA|STAT3|TICAM1|TLR4|TXNRD1</AnnotatedGenes>
+<GenomeFrequency>860/43164 genes: 1.99%</GenomeFrequency>
+</row>
+<row>
+<Pathway>Toll Like Receptor 4 (TLR4) Cascade</Pathway>
+<PathwayId>REACT:R-HSA-166016</PathwayId>
+<P-value>4.46e-19</P-value>
+<CorrectedP-value>2.33e-16</CorrectedP-value>
+<AnnotatedGenesQuantity>11</AnnotatedGenesQuantity>
+<AnnotatedGenes>CASP8|CHUK|IRAK1|IRF3|ITGAM|NFKBIA|NFKBIB|RELA|TBK1|TICAM1|TLR4</AnnotatedGenes>
+<GenomeFrequency>126/43164 genes: 0.29%</GenomeFrequency>
+</row>
+<row>
+<Pathway>Activated TLR4 signalling</Pathway>
+<PathwayId>REACT:R-HSA-166054</PathwayId>
+<P-value>2.15e-17</P-value>
+<CorrectedP-value>1.12e-14</CorrectedP-value>
+<AnnotatedGenesQuantity>10</AnnotatedGenesQuantity>
+<AnnotatedGenes>CASP8|CHUK|IRAK1|IRF3|NFKBIA|NFKBIB|RELA|TBK1|TICAM1|TLR4</AnnotatedGenes>
+<GenomeFrequency>115/43164 genes: 0.27%</GenomeFrequency>
+</row>
+<row>
+<Pathway>MyD88:Mal cascade initiated on plasma membrane</Pathway>
+<PathwayId>REACT:R-HSA-166058</PathwayId>
+<P-value>5.53e-10</P-value>
+<CorrectedP-value>2.89e-7</CorrectedP-value>
+<AnnotatedGenesQuantity>6</AnnotatedGenesQuantity>
+<AnnotatedGenes>CHUK|IRAK1|NFKBIA|NFKBIB|RELA|TLR4</AnnotatedGenes>
+<GenomeFrequency>95/43164 genes: 0.22%</GenomeFrequency>
+</row>
+<row>
+<Pathway>MyD88-independent TLR3/TLR4 cascade</Pathway>
+<PathwayId>REACT:R-HSA-166166</PathwayId>
+<P-value>4.54e-18</P-value>
+<CorrectedP-value>2.38e-15</CorrectedP-value>
+<AnnotatedGenesQuantity>10</AnnotatedGenesQuantity>
+<AnnotatedGenes>CASP8|CHUK|IRAK1|IRF3|NFKBIA|NFKBIB|RELA|TBK1|TICAM1|TLR4</AnnotatedGenes>
+<GenomeFrequency>99/43164 genes: 0.23%</GenomeFrequency>
+</row>
+<row>
+<Pathway>Signalling by NGF</Pathway>
+<PathwayId>REACT:R-HSA-166520</PathwayId>
+<P-value>9.22e-10</P-value>
+<CorrectedP-value>4.82e-7</CorrectedP-value>
+<AnnotatedGenesQuantity>9</AnnotatedGenesQuantity>
+<AnnotatedGenes>CASP3|CASP9|CDKN1A|CHUK|IRAK1|JAK2|NFKBIA|RELA|STAT3</AnnotatedGenes>
+<GenomeFrequency>477/43164 genes: 1.11%</GenomeFrequency>
+</row>
+<row>
+<Pathway>Toll Like Receptor 9 (TLR9) Cascade</Pathway>
+<PathwayId>REACT:R-HSA-168138</PathwayId>
+<P-value>7.00e-12</P-value>
+<CorrectedP-value>3.66e-9</CorrectedP-value>
+<AnnotatedGenesQuantity>7</AnnotatedGenesQuantity>
+<AnnotatedGenes>CHUK|IRAK1|NFKBIA|NFKBIB|RELA|TICAM1|TLR4</AnnotatedGenes>
+<GenomeFrequency>97/43164 genes: 0.22%</GenomeFrequency>
+</row>
+<row>
+<Pathway>Toll Like Receptor 10 (TLR10) Cascade</Pathway>
+<PathwayId>REACT:R-HSA-168142</PathwayId>
+<P-value>2.25e-8</P-value>
+<CorrectedP-value>1.17e-5</CorrectedP-value>
+<AnnotatedGenesQuantity>5</AnnotatedGenesQuantity>
+<AnnotatedGenes>CHUK|IRAK1|NFKBIA|NFKBIB|RELA</AnnotatedGenes>
+<GenomeFrequency>84/43164 genes: 0.19%</GenomeFrequency>
+</row>
+<row>
+<Pathway>Toll Like Receptor 3 (TLR3) Cascade</Pathway>
+<PathwayId>REACT:R-HSA-168164</PathwayId>
+<P-value>4.54e-18</P-value>
+<CorrectedP-value>2.38e-15</CorrectedP-value>
+<AnnotatedGenesQuantity>10</AnnotatedGenesQuantity>
+<AnnotatedGenes>CASP8|CHUK|IRAK1|IRF3|NFKBIA|NFKBIB|RELA|TBK1|TICAM1|TLR4</AnnotatedGenes>
+<GenomeFrequency>99/43164 genes: 0.23%</GenomeFrequency>
+</row>
+<row>
+<Pathway>Toll Like Receptor 5 (TLR5) Cascade</Pathway>
+<PathwayId>REACT:R-HSA-168176</PathwayId>
+<P-value>2.25e-8</P-value>
+<CorrectedP-value>1.17e-5</CorrectedP-value>
+<AnnotatedGenesQuantity>5</AnnotatedGenesQuantity>
+<AnnotatedGenes>CHUK|IRAK1|NFKBIA|NFKBIB|RELA</AnnotatedGenes>
+<GenomeFrequency>84/43164 genes: 0.19%</GenomeFrequency>
+</row>
+<row>
+<Pathway>Toll Like Receptor TLR1:TLR2 Cascade</Pathway>
+<PathwayId>REACT:R-HSA-168179</PathwayId>
+<P-value>5.53e-10</P-value>
+<CorrectedP-value>2.89e-7</CorrectedP-value>
+<AnnotatedGenesQuantity>6</AnnotatedGenesQuantity>
+<AnnotatedGenes>CHUK|IRAK1|NFKBIA|NFKBIB|RELA|TLR4</AnnotatedGenes>
+<GenomeFrequency>95/43164 genes: 0.22%</GenomeFrequency>
+</row>
+<row>
+<Pathway>Toll Like Receptor 7/8 (TLR7/8) Cascade</Pathway>
+<PathwayId>REACT:R-HSA-168181</PathwayId>
+<P-value>5.18e-12</P-value>
+<CorrectedP-value>2.71e-9</CorrectedP-value>
+<AnnotatedGenesQuantity>7</AnnotatedGenesQuantity>
+<AnnotatedGenes>CHUK|IRAK1|NFKBIA|NFKBIB|RELA|TICAM1|TLR4</AnnotatedGenes>
+<GenomeFrequency>93/43164 genes: 0.22%</GenomeFrequency>
+</row>
+<row>
+<Pathway>Toll Like Receptor TLR6:TLR2 Cascade</Pathway>
+<PathwayId>REACT:R-HSA-168188</PathwayId>
+<P-value>5.53e-10</P-value>
+<CorrectedP-value>2.89e-7</CorrectedP-value>
+<AnnotatedGenesQuantity>6</AnnotatedGenesQuantity>
+<AnnotatedGenes>CHUK|IRAK1|NFKBIA|NFKBIB|RELA|TLR4</AnnotatedGenes>
+<GenomeFrequency>95/43164 genes: 0.22%</GenomeFrequency>
+</row>
+<row>
+<Pathway>Innate Immune System</Pathway>
+<PathwayId>REACT:R-HSA-168249</PathwayId>
+<P-value>2.44e-15</P-value>
+<CorrectedP-value>1.28e-12</CorrectedP-value>
+<AnnotatedGenesQuantity>17</AnnotatedGenesQuantity>
+<AnnotatedGenes>BCL2|CASP8|CASP9|CDKN1A|CHUK|IL1B|IRAK1|IRF3|ITGAM|JAK2|NFKBIA|NFKBIB|RELA|TBK1|TICAM1|TLR4|TXN</AnnotatedGenes>
+<GenomeFrequency>1298/43164 genes: 3.01%</GenomeFrequency>
+</row>
+<row>
+<Pathway>Immune System</Pathway>
+<PathwayId>REACT:R-HSA-168256</PathwayId>
+<P-value>4.72e-25</P-value>
+<CorrectedP-value>2.47e-22</CorrectedP-value>
+<AnnotatedGenesQuantity>27</AnnotatedGenesQuantity>
+<AnnotatedGenes>BCL2|CASP3|CASP8|CASP9|CDKN1A|CHUK|HLA-DQA1|HLA-DRB1|HMOX1|IL1B|IL6|IL6ST|IRAK1|IRF3|ITGAM|JAK2|MCL1|NFKBIA|NFKBIB|PTGS2|RELA|STAT3|TBK1|TICAM1|TLR4|TNF|TXN</AnnotatedGenes>
+<GenomeFrequency>2118/43164 genes: 4.91%</GenomeFrequency>
+</row>
+<row>
+<Pathway>NOD1/2 Signaling Pathway</Pathway>
+<PathwayId>REACT:R-HSA-168638</PathwayId>
+<P-value>3.01e-8</P-value>
+<CorrectedP-value>1.57e-5</CorrectedP-value>
+<AnnotatedGenesQuantity>4</AnnotatedGenesQuantity>
+<AnnotatedGenes>CASP8|CASP9|CHUK|IRAK1</AnnotatedGenes>
+<GenomeFrequency>32/43164 genes: 0.07%</GenomeFrequency>
+</row>
+<row>
+<Pathway>Nucleotide-binding domain, leucine rich repeat containing receptor (NLR) signaling pathways</Pathway>
+<PathwayId>REACT:R-HSA-168643</PathwayId>
+<P-value>8.08e-12</P-value>
+<CorrectedP-value>4.22e-9</CorrectedP-value>
+<AnnotatedGenesQuantity>6</AnnotatedGenesQuantity>
+<AnnotatedGenes>BCL2|CASP8|CASP9|CHUK|IRAK1|TXN</AnnotatedGenes>
+<GenomeFrequency>48/43164 genes: 0.11%</GenomeFrequency>
+</row>
+<row>
+<Pathway>Toll-Like Receptors Cascades</Pathway>
+<PathwayId>REACT:R-HSA-168898</PathwayId>
+<P-value>4.02e-18</P-value>
+<CorrectedP-value>2.10e-15</CorrectedP-value>
+<AnnotatedGenesQuantity>11</AnnotatedGenesQuantity>
+<AnnotatedGenes>CASP8|CHUK|IRAK1|IRF3|ITGAM|NFKBIA|NFKBIB|RELA|TBK1|TICAM1|TLR4</AnnotatedGenes>
+<GenomeFrequency>153/43164 genes: 0.35%</GenomeFrequency>
+</row>
+<row>
+<Pathway>RIG-I/MDA5 mediated induction of IFN-alpha/beta pathways</Pathway>
+<PathwayId>REACT:R-HSA-168928</PathwayId>
+<P-value>2.49e-12</P-value>
+<CorrectedP-value>1.30e-9</CorrectedP-value>
+<AnnotatedGenesQuantity>7</AnnotatedGenesQuantity>
+<AnnotatedGenes>CASP8|CHUK|IRF3|NFKBIA|NFKBIB|RELA|TBK1</AnnotatedGenes>
+<GenomeFrequency>84/43164 genes: 0.19%</GenomeFrequency>
+</row>
+<row>
+<Pathway>RIP-mediated NFkB activation via ZBP1</Pathway>
+<PathwayId>REACT:R-HSA-1810476</PathwayId>
+<P-value>1.55e-11</P-value>
+<CorrectedP-value>8.11e-9</CorrectedP-value>
+<AnnotatedGenesQuantity>5</AnnotatedGenesQuantity>
+<AnnotatedGenes>CHUK|NFKBIA|NFKBIB|RELA|TICAM1</AnnotatedGenes>
+<GenomeFrequency>21/43164 genes: 0.05%</GenomeFrequency>
+</row>
+<row>
+<Pathway>Toll Like Receptor 2 (TLR2) Cascade</Pathway>
+<PathwayId>REACT:R-HSA-181438</PathwayId>
+<P-value>5.53e-10</P-value>
+<CorrectedP-value>2.89e-7</CorrectedP-value>
+<AnnotatedGenesQuantity>6</AnnotatedGenesQuantity>
+<AnnotatedGenes>CHUK|IRAK1|NFKBIA|NFKBIB|RELA|TLR4</AnnotatedGenes>
+<GenomeFrequency>95/43164 genes: 0.22%</GenomeFrequency>
+</row>
+<row>
+<Pathway>Cytosolic sensors of pathogen-associated DNA</Pathway>
+<PathwayId>REACT:R-HSA-1834949</PathwayId>
+<P-value>5.40e-13</P-value>
+<CorrectedP-value>2.82e-10</CorrectedP-value>
+<AnnotatedGenesQuantity>7</AnnotatedGenesQuantity>
+<AnnotatedGenes>CHUK|IRF3|NFKBIA|NFKBIB|RELA|TBK1|TICAM1</AnnotatedGenes>
+<GenomeFrequency>68/43164 genes: 0.16%</GenomeFrequency>
+</row>
+<row>
+<Pathway>p75NTR signals via NF-kB</Pathway>
+<PathwayId>REACT:R-HSA-193639</PathwayId>
+<P-value>6.20e-7</P-value>
+<CorrectedP-value>3.24e-4</CorrectedP-value>
+<AnnotatedGenesQuantity>3</AnnotatedGenesQuantity>
+<AnnotatedGenes>IRAK1|NFKBIA|RELA</AnnotatedGenes>
+<GenomeFrequency>17/43164 genes: 0.04%</GenomeFrequency>
+</row>
+<row>
+<Pathway>p75 NTR receptor-mediated signalling</Pathway>
+<PathwayId>REACT:R-HSA-193704</PathwayId>
+<P-value>2.76e-6</P-value>
+<CorrectedP-value>0.00145</CorrectedP-value>
+<AnnotatedGenesQuantity>4</AnnotatedGenesQuantity>
+<AnnotatedGenes>CASP3|IRAK1|NFKBIA|RELA</AnnotatedGenes>
+<GenomeFrequency>97/43164 genes: 0.22%</GenomeFrequency>
+</row>
+<row>
+<Pathway>AKT phosphorylates targets in the cytosol</Pathway>
+<PathwayId>REACT:R-HSA-198323</PathwayId>
+<P-value>2.62e-7</P-value>
+<CorrectedP-value>1.37e-4</CorrectedP-value>
+<AnnotatedGenesQuantity>3</AnnotatedGenesQuantity>
+<AnnotatedGenes>CASP9|CDKN1A|CHUK</AnnotatedGenes>
+<GenomeFrequency>13/43164 genes: 0.03%</GenomeFrequency>
+</row>
+<row>
+<Pathway>TCR signaling</Pathway>
+<PathwayId>REACT:R-HSA-202403</PathwayId>
+<P-value>1.47e-7</P-value>
+<CorrectedP-value>7.67e-5</CorrectedP-value>
+<AnnotatedGenesQuantity>5</AnnotatedGenesQuantity>
+<AnnotatedGenes>CHUK|HLA-DQA1|HLA-DRB1|NFKBIA|RELA</AnnotatedGenes>
+<GenomeFrequency>122/43164 genes: 0.28%</GenomeFrequency>
+</row>
+<row>
+<Pathway>Downstream TCR signaling</Pathway>
+<PathwayId>REACT:R-HSA-202424</PathwayId>
+<P-value>5.69e-8</P-value>
+<CorrectedP-value>2.98e-5</CorrectedP-value>
+<AnnotatedGenesQuantity>5</AnnotatedGenesQuantity>
+<AnnotatedGenes>CHUK|HLA-DQA1|HLA-DRB1|NFKBIA|RELA</AnnotatedGenes>
+<GenomeFrequency>101/43164 genes: 0.23%</GenomeFrequency>
+</row>
+<row>
+<Pathway>NF-kB is activated and signals survival</Pathway>
+<PathwayId>REACT:R-HSA-209560</PathwayId>
+<P-value>3.33e-7</P-value>
+<CorrectedP-value>1.74e-4</CorrectedP-value>
+<AnnotatedGenesQuantity>3</AnnotatedGenesQuantity>
+<AnnotatedGenes>IRAK1|NFKBIA|RELA</AnnotatedGenes>
+<GenomeFrequency>14/43164 genes: 0.03%</GenomeFrequency>
+</row>
+<row>
+<Pathway>Synthesis of 15-eicosatetraenoic acid derivatives</Pathway>
+<PathwayId>REACT:R-HSA-2142770</PathwayId>
+<P-value>1.45e-5</P-value>
+<CorrectedP-value>0.00759</CorrectedP-value>
+<AnnotatedGenesQuantity>2</AnnotatedGenesQuantity>
+<AnnotatedGenes>GPX1|PTGS2</AnnotatedGenes>
+<GenomeFrequency>6/43164 genes: 0.01%</GenomeFrequency>
+</row>
+<row>
+<Pathway>Cellular responses to stress</Pathway>
+<PathwayId>REACT:R-HSA-2262752</PathwayId>
+<P-value>1.68e-14</P-value>
+<CorrectedP-value>8.76e-12</CorrectedP-value>
+<AnnotatedGenesQuantity>12</AnnotatedGenesQuantity>
+<AnnotatedGenes>CDKN1A|GPX1|IL6|PRDX3|RB1|RELA|SOD1|STAT3|TXN|TXN2|TXNRD1|TXNRD2</AnnotatedGenes>
+<GenomeFrequency>451/43164 genes: 1.04%</GenomeFrequency>
+</row>
+<row>
+<Pathway>Fc epsilon receptor (FCERI) signaling</Pathway>
+<PathwayId>REACT:R-HSA-2454202</PathwayId>
+<P-value>2.01e-6</P-value>
+<CorrectedP-value>0.00105</CorrectedP-value>
+<AnnotatedGenesQuantity>6</AnnotatedGenesQuantity>
+<AnnotatedGenes>CASP9|CDKN1A|CHUK|JAK2|NFKBIA|RELA</AnnotatedGenes>
+<GenomeFrequency>378/43164 genes: 0.88%</GenomeFrequency>
+</row>
+<row>
+<Pathway>Senescence-Associated Secretory Phenotype (SASP)</Pathway>
+<PathwayId>REACT:R-HSA-2559582</PathwayId>
+<P-value>4.56e-6</P-value>
+<CorrectedP-value>0.00239</CorrectedP-value>
+<AnnotatedGenesQuantity>4</AnnotatedGenesQuantity>
+<AnnotatedGenes>CDKN1A|IL6|RELA|STAT3</AnnotatedGenes>
+<GenomeFrequency>110/43164 genes: 0.25%</GenomeFrequency>
+</row>
+<row>
+<Pathway>Cellular Senescence</Pathway>
+<PathwayId>REACT:R-HSA-2559583</PathwayId>
+<P-value>4.30e-8</P-value>
+<CorrectedP-value>2.25e-5</CorrectedP-value>
+<AnnotatedGenesQuantity>6</AnnotatedGenesQuantity>
+<AnnotatedGenes>CDKN1A|IL6|RB1|RELA|STAT3|TXN</AnnotatedGenes>
+<GenomeFrequency>196/43164 genes: 0.45%</GenomeFrequency>
+</row>
+<row>
+<Pathway>TRIF-mediated programmed cell death</Pathway>
+<PathwayId>REACT:R-HSA-2562578</PathwayId>
+<P-value>1.10e-7</P-value>
+<CorrectedP-value>5.75e-5</CorrectedP-value>
+<AnnotatedGenesQuantity>3</AnnotatedGenesQuantity>
+<AnnotatedGenes>CASP8|TICAM1|TLR4</AnnotatedGenes>
+<GenomeFrequency>10/43164 genes: 0.02%</GenomeFrequency>
+</row>
+<row>
+<Pathway>Detoxification of Reactive Oxygen Species</Pathway>
+<PathwayId>REACT:R-HSA-3299685</PathwayId>
+<P-value>7.18e-15</P-value>
+<CorrectedP-value>3.76e-12</CorrectedP-value>
+<AnnotatedGenesQuantity>7</AnnotatedGenesQuantity>
+<AnnotatedGenes>GPX1|PRDX3|SOD1|TXN|TXN2|TXNRD1|TXNRD2</AnnotatedGenes>
+<GenomeFrequency>38/43164 genes: 0.09%</GenomeFrequency>
+</row>
+<row>
+<Pathway>TAK1 activates NFkB by phosphorylation and activation of IKKs complex</Pathway>
+<PathwayId>REACT:R-HSA-445989</PathwayId>
+<P-value>9.00e-11</P-value>
+<CorrectedP-value>4.71e-8</CorrectedP-value>
+<AnnotatedGenesQuantity>5</AnnotatedGenesQuantity>
+<AnnotatedGenes>CHUK|IRAK1|NFKBIA|NFKBIB|RELA</AnnotatedGenes>
+<GenomeFrequency>29/43164 genes: 0.07%</GenomeFrequency>
+</row>
+<row>
+<Pathway>Interleukin-1 signaling</Pathway>
+<PathwayId>REACT:R-HSA-446652</PathwayId>
+<P-value>1.36e-5</P-value>
+<CorrectedP-value>0.00710</CorrectedP-value>
+<AnnotatedGenesQuantity>3</AnnotatedGenesQuantity>
+<AnnotatedGenes>CHUK|IL1B|IRAK1</AnnotatedGenes>
+<GenomeFrequency>46/43164 genes: 0.11%</GenomeFrequency>
+</row>
+<row>
+<Pathway>Signaling by Interleukins</Pathway>
+<PathwayId>REACT:R-HSA-449147</PathwayId>
+<P-value>3.92e-20</P-value>
+<CorrectedP-value>2.05e-17</CorrectedP-value>
+<AnnotatedGenesQuantity>16</AnnotatedGenesQuantity>
+<AnnotatedGenes>BCL2|CASP3|CDKN1A|CHUK|HMOX1|IL1B|IL6|IL6ST|IRAK1|ITGAM|JAK2|MCL1|PTGS2|RELA|STAT3|TNF</AnnotatedGenes>
+<GenomeFrequency>528/43164 genes: 1.22%</GenomeFrequency>
+</row>
+<row>
+<Pathway>Diseases of Immune System</Pathway>
+<PathwayId>REACT:R-HSA-5260271</PathwayId>
+<P-value>9.02e-14</P-value>
+<CorrectedP-value>4.72e-11</CorrectedP-value>
+<AnnotatedGenesQuantity>6</AnnotatedGenesQuantity>
+<AnnotatedGenes>CHUK|NFKBIA|NFKBIB|RELA|TICAM1|TLR4</AnnotatedGenes>
+<GenomeFrequency>24/43164 genes: 0.06%</GenomeFrequency>
+</row>
+<row>
+<Pathway>Caspase activation via extrinsic apoptotic signalling pathway</Pathway>
+<PathwayId>REACT:R-HSA-5357769</PathwayId>
+<P-value>7.45e-11</P-value>
+<CorrectedP-value>3.90e-8</CorrectedP-value>
+<AnnotatedGenesQuantity>5</AnnotatedGenesQuantity>
+<AnnotatedGenes>CASP3|CASP8|CASP9|TICAM1|TLR4</AnnotatedGenes>
+<GenomeFrequency>28/43164 genes: 0.06%</GenomeFrequency>
+</row>
+<row>
+<Pathway>Programmed Cell Death</Pathway>
+<PathwayId>REACT:R-HSA-5357801</PathwayId>
+<P-value>7.98e-12</P-value>
+<CorrectedP-value>4.17e-9</CorrectedP-value>
+<AnnotatedGenesQuantity>8</AnnotatedGenesQuantity>
+<AnnotatedGenes>BAK1|BAX|BCL2|CASP3|CASP8|CASP9|TICAM1|TLR4</AnnotatedGenes>
+<GenomeFrequency>175/43164 genes: 0.41%</GenomeFrequency>
+</row>
+<row>
+<Pathway>Regulation of TNFR1 signaling</Pathway>
+<PathwayId>REACT:R-HSA-5357905</PathwayId>
+<P-value>4.92e-6</P-value>
+<CorrectedP-value>0.00257</CorrectedP-value>
+<AnnotatedGenesQuantity>3</AnnotatedGenesQuantity>
+<AnnotatedGenes>CASP8|CHUK|TNF</AnnotatedGenes>
+<GenomeFrequency>33/43164 genes: 0.08%</GenomeFrequency>
+</row>
+<row>
+<Pathway>Diseases associated with the TLR signaling cascade</Pathway>
+<PathwayId>REACT:R-HSA-5602358</PathwayId>
+<P-value>9.02e-14</P-value>
+<CorrectedP-value>4.72e-11</CorrectedP-value>
+<AnnotatedGenesQuantity>6</AnnotatedGenesQuantity>
+<AnnotatedGenes>CHUK|NFKBIA|NFKBIB|RELA|TICAM1|TLR4</AnnotatedGenes>
+<GenomeFrequency>24/43164 genes: 0.06%</GenomeFrequency>
+</row>
+<row>
+<Pathway>IKBKG deficiency causes anhidrotic ectodermal dysplasia with immunodeficiency (EDA-ID) (via TLR)</Pathway>
+<PathwayId>REACT:R-HSA-5603027</PathwayId>
+<P-value>5.96e-11</P-value>
+<CorrectedP-value>3.12e-8</CorrectedP-value>
+<AnnotatedGenesQuantity>4</AnnotatedGenesQuantity>
+<AnnotatedGenes>CHUK|NFKBIA|NFKBIB|RELA</AnnotatedGenes>
+<GenomeFrequency>8/43164 genes: 0.02%</GenomeFrequency>
+</row>
+<row>
+<Pathway>IkBA variant leads to EDA-ID</Pathway>
+<PathwayId>REACT:R-HSA-5603029</PathwayId>
+<P-value>3.21e-8</P-value>
+<CorrectedP-value>1.68e-5</CorrectedP-value>
+<AnnotatedGenesQuantity>3</AnnotatedGenesQuantity>
+<AnnotatedGenes>CHUK|NFKBIA|RELA</AnnotatedGenes>
+<GenomeFrequency>7/43164 genes: 0.02%</GenomeFrequency>
+</row>
+<row>
+<Pathway>CLEC7A (Dectin-1) signaling</Pathway>
+<PathwayId>REACT:R-HSA-5607764</PathwayId>
+<P-value>5.69e-8</P-value>
+<CorrectedP-value>2.98e-5</CorrectedP-value>
+<AnnotatedGenesQuantity>5</AnnotatedGenesQuantity>
+<AnnotatedGenes>CASP8|CHUK|IL1B|NFKBIA|RELA</AnnotatedGenes>
+<GenomeFrequency>101/43164 genes: 0.23%</GenomeFrequency>
+</row>
+<row>
+<Pathway>C-type lectin receptors (CLRs)</Pathway>
+<PathwayId>REACT:R-HSA-5621481</PathwayId>
+<P-value>3.47e-7</P-value>
+<CorrectedP-value>1.81e-4</CorrectedP-value>
+<AnnotatedGenesQuantity>5</AnnotatedGenesQuantity>
+<AnnotatedGenes>CASP8|CHUK|IL1B|NFKBIA|RELA</AnnotatedGenes>
+<GenomeFrequency>145/43164 genes: 0.34%</GenomeFrequency>
+</row>
+<row>
+<Pathway>CLEC7A/inflammasome pathway</Pathway>
+<PathwayId>REACT:R-HSA-5660668</PathwayId>
+<P-value>1.84e-8</P-value>
+<CorrectedP-value>9.61e-6</CorrectedP-value>
+<AnnotatedGenesQuantity>3</AnnotatedGenesQuantity>
+<AnnotatedGenes>CASP8|IL1B|RELA</AnnotatedGenes>
+<GenomeFrequency>6/43164 genes: 0.01%</GenomeFrequency>
+</row>
+<row>
+<Pathway>Constitutive Signaling by AKT1 E17K in Cancer</Pathway>
+<PathwayId>REACT:R-HSA-5674400</PathwayId>
+<P-value>2.09e-6</P-value>
+<CorrectedP-value>0.00109</CorrectedP-value>
+<AnnotatedGenesQuantity>3</AnnotatedGenesQuantity>
+<AnnotatedGenes>CASP9|CDKN1A|CHUK</AnnotatedGenes>
+<GenomeFrequency>25/43164 genes: 0.06%</GenomeFrequency>
+</row>
+<row>
+<Pathway>Interleukin-6 family signaling</Pathway>
+<PathwayId>REACT:R-HSA-6783589</PathwayId>
+<P-value>1.47e-8</P-value>
+<CorrectedP-value>7.70e-6</CorrectedP-value>
+<AnnotatedGenesQuantity>4</AnnotatedGenesQuantity>
+<AnnotatedGenes>IL6|IL6ST|JAK2|STAT3</AnnotatedGenes>
+<GenomeFrequency>27/43164 genes: 0.06%</GenomeFrequency>
+</row>
+<row>
+<Pathway>Interleukin-10 signaling</Pathway>
+<PathwayId>REACT:R-HSA-6783783</PathwayId>
+<P-value>1.42e-9</P-value>
+<CorrectedP-value>7.45e-7</CorrectedP-value>
+<AnnotatedGenesQuantity>5</AnnotatedGenesQuantity>
+<AnnotatedGenes>IL1B|IL6|PTGS2|STAT3|TNF</AnnotatedGenes>
+<GenomeFrequency>49/43164 genes: 0.11%</GenomeFrequency>
+</row>
+<row>
+<Pathway>Interleukin-4 and 13 signaling</Pathway>
+<PathwayId>REACT:R-HSA-6785807</PathwayId>
+<P-value>1.42e-19</P-value>
+<CorrectedP-value>7.44e-17</CorrectedP-value>
+<AnnotatedGenesQuantity>11</AnnotatedGenesQuantity>
+<AnnotatedGenes>BCL2|CDKN1A|HMOX1|IL1B|IL6|ITGAM|JAK2|MCL1|PTGS2|STAT3|TNF</AnnotatedGenes>
+<GenomeFrequency>114/43164 genes: 0.26%</GenomeFrequency>
+</row>
+<row>
+<Pathway>Death Receptor Signalling</Pathway>
+<PathwayId>REACT:R-HSA-73887</PathwayId>
+<P-value>1.75e-5</P-value>
+<CorrectedP-value>0.00914</CorrectedP-value>
+<AnnotatedGenesQuantity>3</AnnotatedGenesQuantity>
+<AnnotatedGenes>CASP8|CHUK|TNF</AnnotatedGenes>
+<GenomeFrequency>50/43164 genes: 0.12%</GenomeFrequency>
+</row>
+<row>
+<Pathway>TNF signaling</Pathway>
+<PathwayId>REACT:R-HSA-75893</PathwayId>
+<P-value>1.11e-5</P-value>
+<CorrectedP-value>0.00578</CorrectedP-value>
+<AnnotatedGenesQuantity>3</AnnotatedGenesQuantity>
+<AnnotatedGenes>CASP8|CHUK|TNF</AnnotatedGenes>
+<GenomeFrequency>43/43164 genes: 0.10%</GenomeFrequency>
+</row>
+<row>
+<Pathway>Interferon gamma signaling</Pathway>
+<PathwayId>REACT:R-HSA-877300</PathwayId>
+<P-value>2.44e-6</P-value>
+<CorrectedP-value>0.00128</CorrectedP-value>
+<AnnotatedGenesQuantity>4</AnnotatedGenesQuantity>
+<AnnotatedGenes>HLA-DQA1|HLA-DRB1|IRF3|JAK2</AnnotatedGenes>
+<GenomeFrequency>94/43164 genes: 0.22%</GenomeFrequency>
+</row>
+<row>
+<Pathway>TRAF6 mediated NF-kB activation</Pathway>
+<PathwayId>REACT:R-HSA-933542</PathwayId>
+<P-value>1.06e-8</P-value>
+<CorrectedP-value>5.56e-6</CorrectedP-value>
+<AnnotatedGenesQuantity>4</AnnotatedGenesQuantity>
+<AnnotatedGenes>CHUK|NFKBIA|NFKBIB|RELA</AnnotatedGenes>
+<GenomeFrequency>25/43164 genes: 0.06%</GenomeFrequency>
+</row>
+<row>
+<Pathway>Activation of IRF3/IRF7 mediated by TBK1/IKK epsilon</Pathway>
+<PathwayId>REACT:R-HSA-936964</PathwayId>
+<P-value>2.58e-9</P-value>
+<CorrectedP-value>1.35e-6</CorrectedP-value>
+<AnnotatedGenesQuantity>4</AnnotatedGenesQuantity>
+<AnnotatedGenes>IRF3|TBK1|TICAM1|TLR4</AnnotatedGenes>
+<GenomeFrequency>18/43164 genes: 0.04%</GenomeFrequency>
+</row>
+<row>
+<Pathway>IKK complex recruitment mediated by RIP1</Pathway>
+<PathwayId>REACT:R-HSA-937041</PathwayId>
+<P-value>1.84e-6</P-value>
+<CorrectedP-value>9.61e-4</CorrectedP-value>
+<AnnotatedGenesQuantity>3</AnnotatedGenesQuantity>
+<AnnotatedGenes>CHUK|TICAM1|TLR4</AnnotatedGenes>
+<GenomeFrequency>24/43164 genes: 0.06%</GenomeFrequency>
+</row>
+<row>
+<Pathway>TRIF-mediated TLR3/TLR4 signaling</Pathway>
+<PathwayId>REACT:R-HSA-937061</PathwayId>
+<P-value>4.54e-18</P-value>
+<CorrectedP-value>2.38e-15</CorrectedP-value>
+<AnnotatedGenesQuantity>10</AnnotatedGenesQuantity>
+<AnnotatedGenes>CASP8|CHUK|IRAK1|IRF3|NFKBIA|NFKBIB|RELA|TBK1|TICAM1|TLR4</AnnotatedGenes>
+<GenomeFrequency>99/43164 genes: 0.23%</GenomeFrequency>
+</row>
+<row>
+<Pathway>TRAF6 mediated induction of NFkB and MAP kinases upon TLR7/8 or 9 activation</Pathway>
+<PathwayId>REACT:R-HSA-975138</PathwayId>
+<P-value>4.43e-12</P-value>
+<CorrectedP-value>2.32e-9</CorrectedP-value>
+<AnnotatedGenesQuantity>7</AnnotatedGenesQuantity>
+<AnnotatedGenes>CHUK|IRAK1|NFKBIA|NFKBIB|RELA|TICAM1|TLR4</AnnotatedGenes>
+<GenomeFrequency>91/43164 genes: 0.21%</GenomeFrequency>
+</row>
+<row>
+<Pathway>MyD88 dependent cascade initiated on endosome</Pathway>
+<PathwayId>REACT:R-HSA-975155</PathwayId>
+<P-value>5.18e-12</P-value>
+<CorrectedP-value>2.71e-9</CorrectedP-value>
+<AnnotatedGenesQuantity>7</AnnotatedGenesQuantity>
+<AnnotatedGenes>CHUK|IRAK1|NFKBIA|NFKBIB|RELA|TICAM1|TLR4</AnnotatedGenes>
+<GenomeFrequency>93/43164 genes: 0.22%</GenomeFrequency>
+</row>
+<row>
+<Pathway>MyD88 cascade initiated on plasma membrane</Pathway>
+<PathwayId>REACT:R-HSA-975871</PathwayId>
+<P-value>2.25e-8</P-value>
+<CorrectedP-value>1.17e-5</CorrectedP-value>
+<AnnotatedGenesQuantity>5</AnnotatedGenesQuantity>
+<AnnotatedGenes>CHUK|IRAK1|NFKBIA|NFKBIB|RELA</AnnotatedGenes>
+<GenomeFrequency>84/43164 genes: 0.19%</GenomeFrequency>
+</row>
+<row>
+<Pathway>Signaling by the B Cell Receptor (BCR)</Pathway>
+<PathwayId>REACT:R-HSA-983705</PathwayId>
+<P-value>1.23e-7</P-value>
+<CorrectedP-value>6.42e-5</CorrectedP-value>
+<AnnotatedGenesQuantity>6</AnnotatedGenesQuantity>
+<AnnotatedGenes>CASP9|CDKN1A|CHUK|NFKBIA|NFKBIB|RELA</AnnotatedGenes>
+<GenomeFrequency>234/43164 genes: 0.54%</GenomeFrequency>
+</row>
+</table>

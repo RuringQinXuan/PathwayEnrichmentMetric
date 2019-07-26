@@ -1,0 +1,678 @@
+<?xml version="1.0"?>
+<table>
+<row>
+<Pathway>Metabolism</Pathway>
+<PathwayId>REACT:R-HSA-1430728</PathwayId>
+<P-value>2.65e-27</P-value>
+<CorrectedP-value>1.08e-24</CorrectedP-value>
+<AnnotatedGenesQuantity>33</AnnotatedGenesQuantity>
+<AnnotatedGenes>AADAT|ABCB1|AKR7A3|CACNA1A|CACNA1D|CACNA2D2|CACNB3|CYP1A1|CYP2E1|FAU|G6PC|GOT1|GSTA2|GSTM1|HMOX1|HSP90AA1|KYAT1|MDH1|MDH2|NQO1|PON1|RPL27A|RPL5|RPL7|RPL9|RPS26|RPS27|RPS29|SLC7A5|SULT1A1|TKT|TXNRD1|UGDH</AnnotatedGenes>
+<GenomeFrequency>2172/43164 genes: 5.03%</GenomeFrequency>
+</row>
+<row>
+<Pathway>Metabolism of amino acids and derivatives</Pathway>
+<PathwayId>REACT:R-HSA-71291</PathwayId>
+<P-value>8.11e-17</P-value>
+<CorrectedP-value>3.31e-14</CorrectedP-value>
+<AnnotatedGenesQuantity>14</AnnotatedGenesQuantity>
+<AnnotatedGenes>AADAT|FAU|GOT1|KYAT1|NQO1|RPL27A|RPL5|RPL7|RPL9|RPS26|RPS27|RPS29|SLC7A5|TXNRD1</AnnotatedGenes>
+<GenomeFrequency>362/43164 genes: 0.84%</GenomeFrequency>
+</row>
+<row>
+<Pathway>Influenza Life Cycle</Pathway>
+<PathwayId>REACT:R-HSA-168255</PathwayId>
+<P-value>9.35e-15</P-value>
+<CorrectedP-value>3.82e-12</CorrectedP-value>
+<AnnotatedGenesQuantity>10</AnnotatedGenesQuantity>
+<AnnotatedGenes>CALR|FAU|HSP90AA1|RPL27A|RPL5|RPL7|RPL9|RPS26|RPS27|RPS29</AnnotatedGenes>
+<GenomeFrequency>146/43164 genes: 0.34%</GenomeFrequency>
+</row>
+<row>
+<Pathway>Influenza Infection</Pathway>
+<PathwayId>REACT:R-HSA-168254</PathwayId>
+<P-value>1.96e-14</P-value>
+<CorrectedP-value>7.98e-12</CorrectedP-value>
+<AnnotatedGenesQuantity>10</AnnotatedGenesQuantity>
+<AnnotatedGenes>CALR|FAU|HSP90AA1|RPL27A|RPL5|RPL7|RPL9|RPS26|RPS27|RPS29</AnnotatedGenes>
+<GenomeFrequency>157/43164 genes: 0.36%</GenomeFrequency>
+</row>
+<row>
+<Pathway>Formation of a pool of free 40S subunits</Pathway>
+<PathwayId>REACT:R-HSA-72689</PathwayId>
+<P-value>2.80e-14</P-value>
+<CorrectedP-value>1.14e-11</CorrectedP-value>
+<AnnotatedGenesQuantity>9</AnnotatedGenesQuantity>
+<AnnotatedGenes>EIF3I|FAU|RPL27A|RPL5|RPL7|RPL9|RPS26|RPS27|RPS29</AnnotatedGenes>
+<GenomeFrequency>105/43164 genes: 0.24%</GenomeFrequency>
+</row>
+<row>
+<Pathway>Neuronal System</Pathway>
+<PathwayId>REACT:R-HSA-112316</PathwayId>
+<P-value>6.39e-14</P-value>
+<CorrectedP-value>2.61e-11</CorrectedP-value>
+<AnnotatedGenesQuantity>12</AnnotatedGenesQuantity>
+<AnnotatedGenes>ARL6IP5|CACNA1A|CACNA1B|CACNA2D1|CACNA2D2|CACNB3|GABBR1|GABBR2|KCNH2|KCNJ1|KCNJ3|KCNJ6</AnnotatedGenes>
+<GenomeFrequency>349/43164 genes: 0.81%</GenomeFrequency>
+</row>
+<row>
+<Pathway>GTP hydrolysis and joining of the 60S ribosomal subunit</Pathway>
+<PathwayId>REACT:R-HSA-72706</PathwayId>
+<P-value>7.60e-14</P-value>
+<CorrectedP-value>3.10e-11</CorrectedP-value>
+<AnnotatedGenesQuantity>9</AnnotatedGenesQuantity>
+<AnnotatedGenes>EIF3I|FAU|RPL27A|RPL5|RPL7|RPL9|RPS26|RPS27|RPS29</AnnotatedGenes>
+<GenomeFrequency>117/43164 genes: 0.27%</GenomeFrequency>
+</row>
+<row>
+<Pathway>L13a-mediated translational silencing of Ceruloplasmin expression</Pathway>
+<PathwayId>REACT:R-HSA-156827</PathwayId>
+<P-value>7.60e-14</P-value>
+<CorrectedP-value>3.10e-11</CorrectedP-value>
+<AnnotatedGenesQuantity>9</AnnotatedGenesQuantity>
+<AnnotatedGenes>EIF3I|FAU|RPL27A|RPL5|RPL7|RPL9|RPS26|RPS27|RPS29</AnnotatedGenes>
+<GenomeFrequency>117/43164 genes: 0.27%</GenomeFrequency>
+</row>
+<row>
+<Pathway>Selenoamino acid metabolism</Pathway>
+<PathwayId>REACT:R-HSA-2408522</PathwayId>
+<P-value>1.12e-13</P-value>
+<CorrectedP-value>4.55e-11</CorrectedP-value>
+<AnnotatedGenesQuantity>9</AnnotatedGenesQuantity>
+<AnnotatedGenes>FAU|RPL27A|RPL5|RPL7|RPL9|RPS26|RPS27|RPS29|TXNRD1</AnnotatedGenes>
+<GenomeFrequency>122/43164 genes: 0.28%</GenomeFrequency>
+</row>
+<row>
+<Pathway>Cap-dependent Translation Initiation</Pathway>
+<PathwayId>REACT:R-HSA-72737</PathwayId>
+<P-value>1.39e-13</P-value>
+<CorrectedP-value>5.69e-11</CorrectedP-value>
+<AnnotatedGenesQuantity>9</AnnotatedGenesQuantity>
+<AnnotatedGenes>EIF3I|FAU|RPL27A|RPL5|RPL7|RPL9|RPS26|RPS27|RPS29</AnnotatedGenes>
+<GenomeFrequency>125/43164 genes: 0.29%</GenomeFrequency>
+</row>
+<row>
+<Pathway>Eukaryotic Translation Initiation</Pathway>
+<PathwayId>REACT:R-HSA-72613</PathwayId>
+<P-value>1.39e-13</P-value>
+<CorrectedP-value>5.69e-11</CorrectedP-value>
+<AnnotatedGenesQuantity>9</AnnotatedGenesQuantity>
+<AnnotatedGenes>EIF3I|FAU|RPL27A|RPL5|RPL7|RPL9|RPS26|RPS27|RPS29</AnnotatedGenes>
+<GenomeFrequency>125/43164 genes: 0.29%</GenomeFrequency>
+</row>
+<row>
+<Pathway>Infectious disease</Pathway>
+<PathwayId>REACT:R-HSA-5663205</PathwayId>
+<P-value>2.23e-13</P-value>
+<CorrectedP-value>9.10e-11</CorrectedP-value>
+<AnnotatedGenesQuantity>12</AnnotatedGenesQuantity>
+<AnnotatedGenes>CALR|FAU|HSP90AA1|RCC1|RPL27A|RPL5|RPL7|RPL9|RPS26|RPS27|RPS29|TXNRD1</AnnotatedGenes>
+<GenomeFrequency>388/43164 genes: 0.90%</GenomeFrequency>
+</row>
+<row>
+<Pathway>Influenza Viral RNA Transcription and Replication</Pathway>
+<PathwayId>REACT:R-HSA-168273</PathwayId>
+<P-value>3.23e-13</P-value>
+<CorrectedP-value>1.32e-10</CorrectedP-value>
+<AnnotatedGenesQuantity>9</AnnotatedGenesQuantity>
+<AnnotatedGenes>FAU|HSP90AA1|RPL27A|RPL5|RPL7|RPL9|RPS26|RPS27|RPS29</AnnotatedGenes>
+<GenomeFrequency>137/43164 genes: 0.32%</GenomeFrequency>
+</row>
+<row>
+<Pathway>Transmission across Chemical Synapses</Pathway>
+<PathwayId>REACT:R-HSA-112315</PathwayId>
+<P-value>5.07e-13</P-value>
+<CorrectedP-value>2.07e-10</CorrectedP-value>
+<AnnotatedGenesQuantity>10</AnnotatedGenesQuantity>
+<AnnotatedGenes>ARL6IP5|CACNA1A|CACNA1B|CACNA2D1|CACNA2D2|CACNB3|GABBR1|GABBR2|KCNJ3|KCNJ6</AnnotatedGenes>
+<GenomeFrequency>217/43164 genes: 0.50%</GenomeFrequency>
+</row>
+<row>
+<Pathway>Ribosome, eukaryotes</Pathway>
+<PathwayId>KEGG:hsa_M00177</PathwayId>
+<P-value>6.66e-13</P-value>
+<CorrectedP-value>2.72e-10</CorrectedP-value>
+<AnnotatedGenesQuantity>8</AnnotatedGenesQuantity>
+<AnnotatedGenes>FAU|RPL27A|RPL5|RPL7|RPL9|RPS26|RPS27|RPS29</AnnotatedGenes>
+<GenomeFrequency>91/43164 genes: 0.21%</GenomeFrequency>
+</row>
+<row>
+<Pathway>Peptide chain elongation</Pathway>
+<PathwayId>REACT:R-HSA-156902</PathwayId>
+<P-value>7.29e-13</P-value>
+<CorrectedP-value>2.97e-10</CorrectedP-value>
+<AnnotatedGenesQuantity>8</AnnotatedGenesQuantity>
+<AnnotatedGenes>FAU|RPL27A|RPL5|RPL7|RPL9|RPS26|RPS27|RPS29</AnnotatedGenes>
+<GenomeFrequency>92/43164 genes: 0.21%</GenomeFrequency>
+</row>
+<row>
+<Pathway>Viral mRNA Translation</Pathway>
+<PathwayId>REACT:R-HSA-192823</PathwayId>
+<P-value>7.29e-13</P-value>
+<CorrectedP-value>2.97e-10</CorrectedP-value>
+<AnnotatedGenesQuantity>8</AnnotatedGenesQuantity>
+<AnnotatedGenes>FAU|RPL27A|RPL5|RPL7|RPL9|RPS26|RPS27|RPS29</AnnotatedGenes>
+<GenomeFrequency>92/43164 genes: 0.21%</GenomeFrequency>
+</row>
+<row>
+<Pathway>Ribosome</Pathway>
+<PathwayId>KEGG:hsa03010</PathwayId>
+<P-value>8.82e-13</P-value>
+<CorrectedP-value>3.60e-10</CorrectedP-value>
+<AnnotatedGenesQuantity>9</AnnotatedGenesQuantity>
+<AnnotatedGenes>FAU|MRPL27|RPL27A|RPL5|RPL7|RPL9|RPS26|RPS27|RPS29</AnnotatedGenes>
+<GenomeFrequency>153/43164 genes: 0.35%</GenomeFrequency>
+</row>
+<row>
+<Pathway>Selenocysteine synthesis</Pathway>
+<PathwayId>REACT:R-HSA-2408557</PathwayId>
+<P-value>9.49e-13</P-value>
+<CorrectedP-value>3.87e-10</CorrectedP-value>
+<AnnotatedGenesQuantity>8</AnnotatedGenesQuantity>
+<AnnotatedGenes>FAU|RPL27A|RPL5|RPL7|RPL9|RPS26|RPS27|RPS29</AnnotatedGenes>
+<GenomeFrequency>95/43164 genes: 0.22%</GenomeFrequency>
+</row>
+<row>
+<Pathway>Eukaryotic Translation Termination</Pathway>
+<PathwayId>REACT:R-HSA-72764</PathwayId>
+<P-value>1.03e-12</P-value>
+<CorrectedP-value>4.22e-10</CorrectedP-value>
+<AnnotatedGenesQuantity>8</AnnotatedGenesQuantity>
+<AnnotatedGenes>FAU|RPL27A|RPL5|RPL7|RPL9|RPS26|RPS27|RPS29</AnnotatedGenes>
+<GenomeFrequency>96/43164 genes: 0.22%</GenomeFrequency>
+</row>
+<row>
+<Pathway>Eukaryotic Translation Elongation</Pathway>
+<PathwayId>REACT:R-HSA-156842</PathwayId>
+<P-value>1.13e-12</P-value>
+<CorrectedP-value>4.59e-10</CorrectedP-value>
+<AnnotatedGenesQuantity>8</AnnotatedGenesQuantity>
+<AnnotatedGenes>FAU|RPL27A|RPL5|RPL7|RPL9|RPS26|RPS27|RPS29</AnnotatedGenes>
+<GenomeFrequency>97/43164 genes: 0.22%</GenomeFrequency>
+</row>
+<row>
+<Pathway>Nonsense Mediated Decay (NMD) independent of the Exon Junction Complex (EJC)</Pathway>
+<PathwayId>REACT:R-HSA-975956</PathwayId>
+<P-value>1.33e-12</P-value>
+<CorrectedP-value>5.43e-10</CorrectedP-value>
+<AnnotatedGenesQuantity>8</AnnotatedGenesQuantity>
+<AnnotatedGenes>FAU|RPL27A|RPL5|RPL7|RPL9|RPS26|RPS27|RPS29</AnnotatedGenes>
+<GenomeFrequency>99/43164 genes: 0.23%</GenomeFrequency>
+</row>
+<row>
+<Pathway>Translation</Pathway>
+<PathwayId>REACT:R-HSA-72766</PathwayId>
+<P-value>1.57e-12</P-value>
+<CorrectedP-value>6.39e-10</CorrectedP-value>
+<AnnotatedGenesQuantity>9</AnnotatedGenesQuantity>
+<AnnotatedGenes>EIF3I|FAU|RPL27A|RPL5|RPL7|RPL9|RPS26|RPS27|RPS29</AnnotatedGenes>
+<GenomeFrequency>163/43164 genes: 0.38%</GenomeFrequency>
+</row>
+<row>
+<Pathway>SRP-dependent cotranslational protein targeting to membrane</Pathway>
+<PathwayId>REACT:R-HSA-1799339</PathwayId>
+<P-value>4.52e-12</P-value>
+<CorrectedP-value>1.84e-9</CorrectedP-value>
+<AnnotatedGenesQuantity>8</AnnotatedGenesQuantity>
+<AnnotatedGenes>FAU|RPL27A|RPL5|RPL7|RPL9|RPS26|RPS27|RPS29</AnnotatedGenes>
+<GenomeFrequency>115/43164 genes: 0.27%</GenomeFrequency>
+</row>
+<row>
+<Pathway>Depolarization of the Presynaptic Terminal Triggers the Opening of Calcium Channels</Pathway>
+<PathwayId>REACT:R-HSA-112308</PathwayId>
+<P-value>5.58e-12</P-value>
+<CorrectedP-value>2.28e-9</CorrectedP-value>
+<AnnotatedGenesQuantity>5</AnnotatedGenesQuantity>
+<AnnotatedGenes>CACNA1A|CACNA1B|CACNA2D1|CACNA2D2|CACNB3</AnnotatedGenes>
+<GenomeFrequency>13/43164 genes: 0.03%</GenomeFrequency>
+</row>
+<row>
+<Pathway>Nonsense-Mediated Decay (NMD)</Pathway>
+<PathwayId>REACT:R-HSA-927802</PathwayId>
+<P-value>6.38e-12</P-value>
+<CorrectedP-value>2.60e-9</CorrectedP-value>
+<AnnotatedGenesQuantity>8</AnnotatedGenesQuantity>
+<AnnotatedGenes>FAU|RPL27A|RPL5|RPL7|RPL9|RPS26|RPS27|RPS29</AnnotatedGenes>
+<GenomeFrequency>120/43164 genes: 0.28%</GenomeFrequency>
+</row>
+<row>
+<Pathway>Nonsense Mediated Decay (NMD) enhanced by the Exon Junction Complex (EJC)</Pathway>
+<PathwayId>REACT:R-HSA-975957</PathwayId>
+<P-value>6.38e-12</P-value>
+<CorrectedP-value>2.60e-9</CorrectedP-value>
+<AnnotatedGenesQuantity>8</AnnotatedGenesQuantity>
+<AnnotatedGenes>FAU|RPL27A|RPL5|RPL7|RPL9|RPS26|RPS27|RPS29</AnnotatedGenes>
+<GenomeFrequency>120/43164 genes: 0.28%</GenomeFrequency>
+</row>
+<row>
+<Pathway>Major pathway of rRNA processing in the nucleolus and cytosol</Pathway>
+<PathwayId>REACT:R-HSA-6791226</PathwayId>
+<P-value>1.59e-10</P-value>
+<CorrectedP-value>6.49e-8</CorrectedP-value>
+<AnnotatedGenesQuantity>8</AnnotatedGenesQuantity>
+<AnnotatedGenes>FAU|RPL27A|RPL5|RPL7|RPL9|RPS26|RPS27|RPS29</AnnotatedGenes>
+<GenomeFrequency>179/43164 genes: 0.41%</GenomeFrequency>
+</row>
+<row>
+<Pathway>rRNA processing in the nucleus and cytosol</Pathway>
+<PathwayId>REACT:R-HSA-8868773</PathwayId>
+<P-value>2.67e-10</P-value>
+<CorrectedP-value>1.09e-7</CorrectedP-value>
+<AnnotatedGenesQuantity>8</AnnotatedGenesQuantity>
+<AnnotatedGenes>FAU|RPL27A|RPL5|RPL7|RPL9|RPS26|RPS27|RPS29</AnnotatedGenes>
+<GenomeFrequency>191/43164 genes: 0.44%</GenomeFrequency>
+</row>
+<row>
+<Pathway>rRNA processing</Pathway>
+<PathwayId>REACT:R-HSA-72312</PathwayId>
+<P-value>4.00e-10</P-value>
+<CorrectedP-value>1.63e-7</CorrectedP-value>
+<AnnotatedGenesQuantity>8</AnnotatedGenesQuantity>
+<AnnotatedGenes>FAU|RPL27A|RPL5|RPL7|RPL9|RPS26|RPS27|RPS29</AnnotatedGenes>
+<GenomeFrequency>201/43164 genes: 0.47%</GenomeFrequency>
+</row>
+<row>
+<Pathway>Inwardly rectifying K+ channels</Pathway>
+<PathwayId>REACT:R-HSA-1296065</PathwayId>
+<P-value>7.23e-10</P-value>
+<CorrectedP-value>2.95e-7</CorrectedP-value>
+<AnnotatedGenesQuantity>5</AnnotatedGenesQuantity>
+<AnnotatedGenes>GABBR1|GABBR2|KCNJ1|KCNJ3|KCNJ6</AnnotatedGenes>
+<GenomeFrequency>31/43164 genes: 0.07%</GenomeFrequency>
+</row>
+<row>
+<Pathway>Chemical carcinogenesis</Pathway>
+<PathwayId>KEGG:hsa05204</PathwayId>
+<P-value>1.80e-9</P-value>
+<CorrectedP-value>7.34e-7</CorrectedP-value>
+<AnnotatedGenesQuantity>6</AnnotatedGenesQuantity>
+<AnnotatedGenes>CYP1A1|CYP2E1|GSTA2|GSTM1|KYAT1|SULT1A1</AnnotatedGenes>
+<GenomeFrequency>82/43164 genes: 0.19%</GenomeFrequency>
+</row>
+<row>
+<Pathway>Disease</Pathway>
+<PathwayId>REACT:R-HSA-1643685</PathwayId>
+<P-value>2.11e-9</P-value>
+<CorrectedP-value>8.62e-7</CorrectedP-value>
+<AnnotatedGenesQuantity>12</AnnotatedGenesQuantity>
+<AnnotatedGenes>CALR|FAU|HSP90AA1|RCC1|RPL27A|RPL5|RPL7|RPL9|RPS26|RPS27|RPS29|TXNRD1</AnnotatedGenes>
+<GenomeFrequency>860/43164 genes: 1.99%</GenomeFrequency>
+</row>
+<row>
+<Pathway>GABAergic synapse</Pathway>
+<PathwayId>KEGG:hsa04727</PathwayId>
+<P-value>2.77e-9</P-value>
+<CorrectedP-value>1.13e-6</CorrectedP-value>
+<AnnotatedGenesQuantity>6</AnnotatedGenesQuantity>
+<AnnotatedGenes>CACNA1A|CACNA1B|CACNA1D|GABBR1|GABBR2|KCNJ6</AnnotatedGenes>
+<GenomeFrequency>88/43164 genes: 0.20%</GenomeFrequency>
+</row>
+<row>
+<Pathway>Morphine addiction</Pathway>
+<PathwayId>KEGG:hsa05032</PathwayId>
+<P-value>3.39e-9</P-value>
+<CorrectedP-value>1.38e-6</CorrectedP-value>
+<AnnotatedGenesQuantity>6</AnnotatedGenesQuantity>
+<AnnotatedGenes>CACNA1A|CACNA1B|GABBR1|GABBR2|KCNJ3|KCNJ6</AnnotatedGenes>
+<GenomeFrequency>91/43164 genes: 0.21%</GenomeFrequency>
+</row>
+<row>
+<Pathway>Potassium Channels</Pathway>
+<PathwayId>REACT:R-HSA-1296071</PathwayId>
+<P-value>6.01e-9</P-value>
+<CorrectedP-value>2.45e-6</CorrectedP-value>
+<AnnotatedGenesQuantity>6</AnnotatedGenesQuantity>
+<AnnotatedGenes>GABBR1|GABBR2|KCNH2|KCNJ1|KCNJ3|KCNJ6</AnnotatedGenes>
+<GenomeFrequency>100/43164 genes: 0.23%</GenomeFrequency>
+</row>
+<row>
+<Pathway>Formation of the ternary complex, and subsequently, the 43S complex</Pathway>
+<PathwayId>REACT:R-HSA-72695</PathwayId>
+<P-value>1.19e-8</P-value>
+<CorrectedP-value>4.87e-6</CorrectedP-value>
+<AnnotatedGenesQuantity>5</AnnotatedGenesQuantity>
+<AnnotatedGenes>EIF3I|FAU|RPS26|RPS27|RPS29</AnnotatedGenes>
+<GenomeFrequency>53/43164 genes: 0.12%</GenomeFrequency>
+</row>
+<row>
+<Pathway>Metabolic pathways</Pathway>
+<PathwayId>KEGG:hsa01100</PathwayId>
+<P-value>1.67e-8</P-value>
+<CorrectedP-value>6.80e-6</CorrectedP-value>
+<AnnotatedGenesQuantity>13</AnnotatedGenesQuantity>
+<AnnotatedGenes>AADAT|CYP1A1|CYP2E1|G6PC|GOT1|HMOX1|KYAT1|MDH1|MDH2|NOS2|PON1|TKT|UGDH</AnnotatedGenes>
+<GenomeFrequency>1270/43164 genes: 2.94%</GenomeFrequency>
+</row>
+<row>
+<Pathway>Ribosomal scanning and start codon recognition</Pathway>
+<PathwayId>REACT:R-HSA-72702</PathwayId>
+<P-value>2.45e-8</P-value>
+<CorrectedP-value>1.00e-5</CorrectedP-value>
+<AnnotatedGenesQuantity>5</AnnotatedGenesQuantity>
+<AnnotatedGenes>EIF3I|FAU|RPS26|RPS27|RPS29</AnnotatedGenes>
+<GenomeFrequency>61/43164 genes: 0.14%</GenomeFrequency>
+</row>
+<row>
+<Pathway>Translation initiation complex formation</Pathway>
+<PathwayId>REACT:R-HSA-72649</PathwayId>
+<P-value>2.66e-8</P-value>
+<CorrectedP-value>1.09e-5</CorrectedP-value>
+<AnnotatedGenesQuantity>5</AnnotatedGenesQuantity>
+<AnnotatedGenes>EIF3I|FAU|RPS26|RPS27|RPS29</AnnotatedGenes>
+<GenomeFrequency>62/43164 genes: 0.14%</GenomeFrequency>
+</row>
+<row>
+<Pathway>Biological oxidations</Pathway>
+<PathwayId>REACT:R-HSA-211859</PathwayId>
+<P-value>2.74e-8</P-value>
+<CorrectedP-value>1.12e-5</CorrectedP-value>
+<AnnotatedGenesQuantity>7</AnnotatedGenesQuantity>
+<AnnotatedGenes>AKR7A3|CYP1A1|CYP2E1|GSTA2|GSTM1|SULT1A1|UGDH</AnnotatedGenes>
+<GenomeFrequency>223/43164 genes: 0.52%</GenomeFrequency>
+</row>
+<row>
+<Pathway>Activation of the mRNA upon binding of the cap-binding complex and eIFs, and subsequent binding to 43S</Pathway>
+<PathwayId>REACT:R-HSA-72662</PathwayId>
+<P-value>2.89e-8</P-value>
+<CorrectedP-value>1.18e-5</CorrectedP-value>
+<AnnotatedGenesQuantity>5</AnnotatedGenesQuantity>
+<AnnotatedGenes>EIF3I|FAU|RPS26|RPS27|RPS29</AnnotatedGenes>
+<GenomeFrequency>63/43164 genes: 0.15%</GenomeFrequency>
+</row>
+<row>
+<Pathway>Activation of G protein gated Potassium channels</Pathway>
+<PathwayId>REACT:R-HSA-1296041</PathwayId>
+<P-value>4.17e-8</P-value>
+<CorrectedP-value>1.70e-5</CorrectedP-value>
+<AnnotatedGenesQuantity>4</AnnotatedGenesQuantity>
+<AnnotatedGenes>GABBR1|GABBR2|KCNJ3|KCNJ6</AnnotatedGenes>
+<GenomeFrequency>25/43164 genes: 0.06%</GenomeFrequency>
+</row>
+<row>
+<Pathway>G protein gated Potassium channels</Pathway>
+<PathwayId>REACT:R-HSA-1296059</PathwayId>
+<P-value>4.17e-8</P-value>
+<CorrectedP-value>1.70e-5</CorrectedP-value>
+<AnnotatedGenesQuantity>4</AnnotatedGenesQuantity>
+<AnnotatedGenes>GABBR1|GABBR2|KCNJ3|KCNJ6</AnnotatedGenes>
+<GenomeFrequency>25/43164 genes: 0.06%</GenomeFrequency>
+</row>
+<row>
+<Pathway>Inhibition  of voltage gated Ca2+ channels via Gbeta/gamma subunits</Pathway>
+<PathwayId>REACT:R-HSA-997272</PathwayId>
+<P-value>4.17e-8</P-value>
+<CorrectedP-value>1.70e-5</CorrectedP-value>
+<AnnotatedGenesQuantity>4</AnnotatedGenesQuantity>
+<AnnotatedGenes>GABBR1|GABBR2|KCNJ3|KCNJ6</AnnotatedGenes>
+<GenomeFrequency>25/43164 genes: 0.06%</GenomeFrequency>
+</row>
+<row>
+<Pathway>Metabolism of xenobiotics by cytochrome P450</Pathway>
+<PathwayId>KEGG:hsa00980</PathwayId>
+<P-value>6.11e-8</P-value>
+<CorrectedP-value>2.49e-5</CorrectedP-value>
+<AnnotatedGenesQuantity>5</AnnotatedGenesQuantity>
+<AnnotatedGenes>AKR7A3|CYP1A1|CYP2E1|GSTA2|GSTM1</AnnotatedGenes>
+<GenomeFrequency>73/43164 genes: 0.17%</GenomeFrequency>
+</row>
+<row>
+<Pathway>Phase 2 - plateau phase</Pathway>
+<PathwayId>REACT:R-HSA-5576893</PathwayId>
+<P-value>6.73e-8</P-value>
+<CorrectedP-value>2.75e-5</CorrectedP-value>
+<AnnotatedGenesQuantity>4</AnnotatedGenesQuantity>
+<AnnotatedGenes>CACNA1D|CACNA2D1|CACNA2D2|CACNB3</AnnotatedGenes>
+<GenomeFrequency>28/43164 genes: 0.06%</GenomeFrequency>
+</row>
+<row>
+<Pathway>Oxytocin signaling pathway</Pathway>
+<PathwayId>KEGG:hsa04921</PathwayId>
+<P-value>7.39e-8</P-value>
+<CorrectedP-value>3.01e-5</CorrectedP-value>
+<AnnotatedGenesQuantity>6</AnnotatedGenesQuantity>
+<AnnotatedGenes>CACNA1D|CACNA2D1|CACNA2D2|CACNB3|KCNJ3|KCNJ6</AnnotatedGenes>
+<GenomeFrequency>152/43164 genes: 0.35%</GenomeFrequency>
+</row>
+<row>
+<Pathway>Hypertrophic cardiomyopathy (HCM)</Pathway>
+<PathwayId>KEGG:hsa05410</PathwayId>
+<P-value>1.17e-7</P-value>
+<CorrectedP-value>4.77e-5</CorrectedP-value>
+<AnnotatedGenesQuantity>5</AnnotatedGenesQuantity>
+<AnnotatedGenes>CACNA1D|CACNA2D1|CACNA2D2|CACNB3|IGF1</AnnotatedGenes>
+<GenomeFrequency>83/43164 genes: 0.19%</GenomeFrequency>
+</row>
+<row>
+<Pathway>Dilated cardiomyopathy</Pathway>
+<PathwayId>KEGG:hsa05414</PathwayId>
+<P-value>1.66e-7</P-value>
+<CorrectedP-value>6.78e-5</CorrectedP-value>
+<AnnotatedGenesQuantity>5</AnnotatedGenesQuantity>
+<AnnotatedGenes>CACNA1D|CACNA2D1|CACNA2D2|CACNB3|IGF1</AnnotatedGenes>
+<GenomeFrequency>89/43164 genes: 0.21%</GenomeFrequency>
+</row>
+<row>
+<Pathway>Estrogen signaling pathway</Pathway>
+<PathwayId>KEGG:hsa04915</PathwayId>
+<P-value>2.69e-7</P-value>
+<CorrectedP-value>1.10e-4</CorrectedP-value>
+<AnnotatedGenesQuantity>5</AnnotatedGenesQuantity>
+<AnnotatedGenes>GABBR1|GABBR2|HSP90AA1|KCNJ3|KCNJ6</AnnotatedGenes>
+<GenomeFrequency>98/43164 genes: 0.23%</GenomeFrequency>
+</row>
+<row>
+<Pathway>Activation of GABAB receptors</Pathway>
+<PathwayId>REACT:R-HSA-991365</PathwayId>
+<P-value>2.97e-7</P-value>
+<CorrectedP-value>1.21e-4</CorrectedP-value>
+<AnnotatedGenesQuantity>4</AnnotatedGenesQuantity>
+<AnnotatedGenes>GABBR1|GABBR2|KCNJ3|KCNJ6</AnnotatedGenes>
+<GenomeFrequency>40/43164 genes: 0.09%</GenomeFrequency>
+</row>
+<row>
+<Pathway>GABA B receptor activation</Pathway>
+<PathwayId>REACT:R-HSA-977444</PathwayId>
+<P-value>2.97e-7</P-value>
+<CorrectedP-value>1.21e-4</CorrectedP-value>
+<AnnotatedGenesQuantity>4</AnnotatedGenesQuantity>
+<AnnotatedGenes>GABBR1|GABBR2|KCNJ3|KCNJ6</AnnotatedGenes>
+<GenomeFrequency>40/43164 genes: 0.09%</GenomeFrequency>
+</row>
+<row>
+<Pathway>Retrograde endocannabinoid signaling</Pathway>
+<PathwayId>KEGG:hsa04723</PathwayId>
+<P-value>3.13e-7</P-value>
+<CorrectedP-value>1.28e-4</CorrectedP-value>
+<AnnotatedGenesQuantity>5</AnnotatedGenesQuantity>
+<AnnotatedGenes>CACNA1A|CACNA1B|CACNA1D|KCNJ3|KCNJ6</AnnotatedGenes>
+<GenomeFrequency>101/43164 genes: 0.23%</GenomeFrequency>
+</row>
+<row>
+<Pathway>Integration of energy metabolism</Pathway>
+<PathwayId>REACT:R-HSA-163685</PathwayId>
+<P-value>5.01e-7</P-value>
+<CorrectedP-value>2.04e-4</CorrectedP-value>
+<AnnotatedGenesQuantity>5</AnnotatedGenesQuantity>
+<AnnotatedGenes>CACNA1A|CACNA1D|CACNA2D2|CACNB3|TKT</AnnotatedGenes>
+<GenomeFrequency>111/43164 genes: 0.26%</GenomeFrequency>
+</row>
+<row>
+<Pathway>Cholinergic synapse</Pathway>
+<PathwayId>KEGG:hsa04725</PathwayId>
+<P-value>5.24e-7</P-value>
+<CorrectedP-value>2.14e-4</CorrectedP-value>
+<AnnotatedGenesQuantity>5</AnnotatedGenesQuantity>
+<AnnotatedGenes>CACNA1A|CACNA1B|CACNA1D|KCNJ3|KCNJ6</AnnotatedGenes>
+<GenomeFrequency>112/43164 genes: 0.26%</GenomeFrequency>
+</row>
+<row>
+<Pathway>Serotonergic synapse</Pathway>
+<PathwayId>KEGG:hsa04726</PathwayId>
+<P-value>5.24e-7</P-value>
+<CorrectedP-value>2.14e-4</CorrectedP-value>
+<AnnotatedGenesQuantity>5</AnnotatedGenesQuantity>
+<AnnotatedGenes>CACNA1A|CACNA1B|CACNA1D|KCNJ3|KCNJ6</AnnotatedGenes>
+<GenomeFrequency>112/43164 genes: 0.26%</GenomeFrequency>
+</row>
+<row>
+<Pathway>Phase 0 - rapid depolarisation</Pathway>
+<PathwayId>REACT:R-HSA-5576892</PathwayId>
+<P-value>5.75e-7</P-value>
+<CorrectedP-value>2.35e-4</CorrectedP-value>
+<AnnotatedGenesQuantity>4</AnnotatedGenesQuantity>
+<AnnotatedGenes>CACNA1D|CACNA2D1|CACNA2D2|CACNB3</AnnotatedGenes>
+<GenomeFrequency>47/43164 genes: 0.11%</GenomeFrequency>
+</row>
+<row>
+<Pathway>Tryptophan catabolism</Pathway>
+<PathwayId>REACT:R-HSA-71240</PathwayId>
+<P-value>7.23e-7</P-value>
+<CorrectedP-value>2.95e-4</CorrectedP-value>
+<AnnotatedGenesQuantity>3</AnnotatedGenesQuantity>
+<AnnotatedGenes>AADAT|KYAT1|SLC7A5</AnnotatedGenes>
+<GenomeFrequency>13/43164 genes: 0.03%</GenomeFrequency>
+</row>
+<row>
+<Pathway>Dopaminergic synapse</Pathway>
+<PathwayId>KEGG:hsa04728</PathwayId>
+<P-value>1.10e-6</P-value>
+<CorrectedP-value>4.47e-4</CorrectedP-value>
+<AnnotatedGenesQuantity>5</AnnotatedGenesQuantity>
+<AnnotatedGenes>CACNA1A|CACNA1B|CACNA1D|KCNJ3|KCNJ6</AnnotatedGenes>
+<GenomeFrequency>130/43164 genes: 0.30%</GenomeFrequency>
+</row>
+<row>
+<Pathway>GABA receptor activation</Pathway>
+<PathwayId>REACT:R-HSA-977443</PathwayId>
+<P-value>1.17e-6</P-value>
+<CorrectedP-value>4.79e-4</CorrectedP-value>
+<AnnotatedGenesQuantity>4</AnnotatedGenesQuantity>
+<AnnotatedGenes>GABBR1|GABBR2|KCNJ3|KCNJ6</AnnotatedGenes>
+<GenomeFrequency>56/43164 genes: 0.13%</GenomeFrequency>
+</row>
+<row>
+<Pathway>MAPK signaling pathway</Pathway>
+<PathwayId>KEGG:hsa04010</PathwayId>
+<P-value>1.54e-6</P-value>
+<CorrectedP-value>6.27e-4</CorrectedP-value>
+<AnnotatedGenesQuantity>6</AnnotatedGenesQuantity>
+<AnnotatedGenes>CACNA1A|CACNA1B|CACNA1D|CACNA2D1|CACNA2D2|CACNB3</AnnotatedGenes>
+<GenomeFrequency>255/43164 genes: 0.59%</GenomeFrequency>
+</row>
+<row>
+<Pathway>Cardiac conduction</Pathway>
+<PathwayId>REACT:R-HSA-5576891</PathwayId>
+<P-value>1.69e-6</P-value>
+<CorrectedP-value>6.92e-4</CorrectedP-value>
+<AnnotatedGenesQuantity>5</AnnotatedGenesQuantity>
+<AnnotatedGenes>CACNA1D|CACNA2D1|CACNA2D2|CACNB3|KCNH2</AnnotatedGenes>
+<GenomeFrequency>142/43164 genes: 0.33%</GenomeFrequency>
+</row>
+<row>
+<Pathway>Fluid shear stress and atherosclerosis</Pathway>
+<PathwayId>KEGG:hsa05418</PathwayId>
+<P-value>1.69e-6</P-value>
+<CorrectedP-value>6.92e-4</CorrectedP-value>
+<AnnotatedGenesQuantity>5</AnnotatedGenesQuantity>
+<AnnotatedGenes>GSTA2|GSTM1|HMOX1|HSP90AA1|NQO1</AnnotatedGenes>
+<GenomeFrequency>142/43164 genes: 0.33%</GenomeFrequency>
+</row>
+<row>
+<Pathway>Metabolism of proteins</Pathway>
+<PathwayId>REACT:R-HSA-392499</PathwayId>
+<P-value>2.01e-6</P-value>
+<CorrectedP-value>8.21e-4</CorrectedP-value>
+<AnnotatedGenesQuantity>12</AnnotatedGenesQuantity>
+<AnnotatedGenes>CALR|EIF3I|F10|FAU|IGF1|RPL27A|RPL5|RPL7|RPL9|RPS26|RPS27|RPS29</AnnotatedGenes>
+<GenomeFrequency>1623/43164 genes: 3.76%</GenomeFrequency>
+</row>
+<row>
+<Pathway>Arrhythmogenic right ventricular cardiomyopathy (ARVC)</Pathway>
+<PathwayId>KEGG:hsa05412</PathwayId>
+<P-value>3.23e-6</P-value>
+<CorrectedP-value>0.00132</CorrectedP-value>
+<AnnotatedGenesQuantity>4</AnnotatedGenesQuantity>
+<AnnotatedGenes>CACNA1D|CACNA2D1|CACNA2D2|CACNB3</AnnotatedGenes>
+<GenomeFrequency>72/43164 genes: 0.17%</GenomeFrequency>
+</row>
+<row>
+<Pathway>Cardiac muscle contraction</Pathway>
+<PathwayId>KEGG:hsa04260</PathwayId>
+<P-value>4.45e-6</P-value>
+<CorrectedP-value>0.00182</CorrectedP-value>
+<AnnotatedGenesQuantity>4</AnnotatedGenesQuantity>
+<AnnotatedGenes>CACNA1D|CACNA2D1|CACNA2D2|CACNB3</AnnotatedGenes>
+<GenomeFrequency>78/43164 genes: 0.18%</GenomeFrequency>
+</row>
+<row>
+<Pathway>Regulation of insulin secretion</Pathway>
+<PathwayId>REACT:R-HSA-422356</PathwayId>
+<P-value>4.93e-6</P-value>
+<CorrectedP-value>0.00201</CorrectedP-value>
+<AnnotatedGenesQuantity>4</AnnotatedGenesQuantity>
+<AnnotatedGenes>CACNA1A|CACNA1D|CACNA2D2|CACNB3</AnnotatedGenes>
+<GenomeFrequency>80/43164 genes: 0.19%</GenomeFrequency>
+</row>
+<row>
+<Pathway>Gene Expression</Pathway>
+<PathwayId>REACT:R-HSA-74160</PathwayId>
+<P-value>6.90e-6</P-value>
+<CorrectedP-value>0.00282</CorrectedP-value>
+<AnnotatedGenesQuantity>12</AnnotatedGenesQuantity>
+<AnnotatedGenes>EIF3I|FAU|HSP90AA1|RHEB|RPL27A|RPL5|RPL7|RPL9|RPS26|RPS27|RPS29|TXNRD1</AnnotatedGenes>
+<GenomeFrequency>1831/43164 genes: 4.24%</GenomeFrequency>
+</row>
+<row>
+<Pathway>Adrenaline,noradrenaline inhibits insulin secretion</Pathway>
+<PathwayId>REACT:R-HSA-400042</PathwayId>
+<P-value>8.16e-6</P-value>
+<CorrectedP-value>0.00333</CorrectedP-value>
+<AnnotatedGenesQuantity>3</AnnotatedGenesQuantity>
+<AnnotatedGenes>CACNA1D|CACNA2D2|CACNB3</AnnotatedGenes>
+<GenomeFrequency>28/43164 genes: 0.06%</GenomeFrequency>
+</row>
+<row>
+<Pathway>Muscle contraction</Pathway>
+<PathwayId>REACT:R-HSA-397014</PathwayId>
+<P-value>9.93e-6</P-value>
+<CorrectedP-value>0.00405</CorrectedP-value>
+<AnnotatedGenesQuantity>5</AnnotatedGenesQuantity>
+<AnnotatedGenes>CACNA1D|CACNA2D1|CACNA2D2|CACNB3|KCNH2</AnnotatedGenes>
+<GenomeFrequency>204/43164 genes: 0.47%</GenomeFrequency>
+</row>
+<row>
+<Pathway>Gluconeogenesis</Pathway>
+<PathwayId>REACT:R-HSA-70263</PathwayId>
+<P-value>1.23e-5</P-value>
+<CorrectedP-value>0.00502</CorrectedP-value>
+<AnnotatedGenesQuantity>3</AnnotatedGenesQuantity>
+<AnnotatedGenes>GOT1|MDH1|MDH2</AnnotatedGenes>
+<GenomeFrequency>32/43164 genes: 0.07%</GenomeFrequency>
+</row>
+<row>
+<Pathway>Phase II conjugation</Pathway>
+<PathwayId>REACT:R-HSA-156580</PathwayId>
+<P-value>1.56e-5</P-value>
+<CorrectedP-value>0.00638</CorrectedP-value>
+<AnnotatedGenesQuantity>4</AnnotatedGenesQuantity>
+<AnnotatedGenes>GSTA2|GSTM1|SULT1A1|UGDH</AnnotatedGenes>
+<GenomeFrequency>107/43164 genes: 0.25%</GenomeFrequency>
+</row>
+<row>
+<Pathway>Carbon metabolism</Pathway>
+<PathwayId>KEGG:hsa01200</PathwayId>
+<P-value>2.01e-5</P-value>
+<CorrectedP-value>0.00819</CorrectedP-value>
+<AnnotatedGenesQuantity>4</AnnotatedGenesQuantity>
+<AnnotatedGenes>GOT1|MDH1|MDH2|TKT</AnnotatedGenes>
+<GenomeFrequency>114/43164 genes: 0.26%</GenomeFrequency>
+</row>
+<row>
+<Pathway>Tryptophan metabolism</Pathway>
+<PathwayId>KEGG:hsa00380</PathwayId>
+<P-value>2.43e-5</P-value>
+<CorrectedP-value>0.00992</CorrectedP-value>
+<AnnotatedGenesQuantity>3</AnnotatedGenesQuantity>
+<AnnotatedGenes>AADAT|CYP1A1|KYAT1</AnnotatedGenes>
+<GenomeFrequency>40/43164 genes: 0.09%</GenomeFrequency>
+</row>
+</table>

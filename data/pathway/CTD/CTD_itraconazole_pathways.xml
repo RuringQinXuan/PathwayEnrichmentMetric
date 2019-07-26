@@ -1,0 +1,597 @@
+<?xml version="1.0"?>
+<table>
+<row>
+<Pathway>Cytochrome P450 - arranged by substrate type</Pathway>
+<PathwayId>REACT:R-HSA-211897</PathwayId>
+<P-value>2.95e-21</P-value>
+<CorrectedP-value>1.11e-18</CorrectedP-value>
+<AnnotatedGenesQuantity>10</AnnotatedGenesQuantity>
+<AnnotatedGenes>AHR|ARNT|CYP1A1|CYP24A1|CYP27B1|CYP2C19|CYP2C9|CYP3A4|CYP51A1|NCOA1</AnnotatedGenes>
+<GenomeFrequency>68/43164 genes: 0.16%</GenomeFrequency>
+</row>
+<row>
+<Pathway>Phase 1 - Functionalization of compounds</Pathway>
+<PathwayId>REACT:R-HSA-211945</PathwayId>
+<P-value>4.25e-19</P-value>
+<CorrectedP-value>1.60e-16</CorrectedP-value>
+<AnnotatedGenesQuantity>10</AnnotatedGenesQuantity>
+<AnnotatedGenes>AHR|ARNT|CYP1A1|CYP24A1|CYP27B1|CYP2C19|CYP2C9|CYP3A4|CYP51A1|NCOA1</AnnotatedGenes>
+<GenomeFrequency>109/43164 genes: 0.25%</GenomeFrequency>
+</row>
+<row>
+<Pathway>Biological oxidations</Pathway>
+<PathwayId>REACT:R-HSA-211859</PathwayId>
+<P-value>6.40e-18</P-value>
+<CorrectedP-value>2.41e-15</CorrectedP-value>
+<AnnotatedGenesQuantity>11</AnnotatedGenesQuantity>
+<AnnotatedGenes>AHR|ARNT|CYP1A1|CYP24A1|CYP27B1|CYP2C19|CYP2C9|CYP3A4|CYP51A1|GSTP1|NCOA1</AnnotatedGenes>
+<GenomeFrequency>223/43164 genes: 0.52%</GenomeFrequency>
+</row>
+<row>
+<Pathway>Xenobiotics</Pathway>
+<PathwayId>REACT:R-HSA-211981</PathwayId>
+<P-value>1.77e-14</P-value>
+<CorrectedP-value>6.67e-12</CorrectedP-value>
+<AnnotatedGenesQuantity>6</AnnotatedGenesQuantity>
+<AnnotatedGenes>AHR|ARNT|CYP1A1|CYP2C19|CYP2C9|CYP3A4</AnnotatedGenes>
+<GenomeFrequency>25/43164 genes: 0.06%</GenomeFrequency>
+</row>
+<row>
+<Pathway>Pathways in cancer</Pathway>
+<PathwayId>KEGG:hsa05200</PathwayId>
+<P-value>1.98e-13</P-value>
+<CorrectedP-value>7.47e-11</CorrectedP-value>
+<AnnotatedGenesQuantity>10</AnnotatedGenesQuantity>
+<AnnotatedGenes>AR|ARNT|BCL2|CCND1|CXCL8|GLI1|GSTP1|NFKBIA|SMO|STAT1</AnnotatedGenes>
+<GenomeFrequency>395/43164 genes: 0.92%</GenomeFrequency>
+</row>
+<row>
+<Pathway>Metabolism</Pathway>
+<PathwayId>REACT:R-HSA-1430728</PathwayId>
+<P-value>8.03e-12</P-value>
+<CorrectedP-value>3.03e-9</CorrectedP-value>
+<AnnotatedGenesQuantity>15</AnnotatedGenesQuantity>
+<AnnotatedGenes>ABCB1|ABCB11|ABCB4|AHR|ARNT|CYP1A1|CYP24A1|CYP27B1|CYP2C19|CYP2C9|CYP3A4|CYP51A1|GSTP1|NCOA1|NQO1</AnnotatedGenes>
+<GenomeFrequency>2172/43164 genes: 5.03%</GenomeFrequency>
+</row>
+<row>
+<Pathway>Cytokine-cytokine receptor interaction</Pathway>
+<PathwayId>KEGG:hsa04060</PathwayId>
+<P-value>1.95e-11</P-value>
+<CorrectedP-value>7.36e-9</CorrectedP-value>
+<AnnotatedGenesQuantity>8</AnnotatedGenesQuantity>
+<AnnotatedGenes>CCL5|CXCL10|CXCL8|IL4|IL5|KDR|TNF|TSLP</AnnotatedGenes>
+<GenomeFrequency>270/43164 genes: 0.63%</GenomeFrequency>
+</row>
+<row>
+<Pathway>Chemical carcinogenesis</Pathway>
+<PathwayId>KEGG:hsa05204</PathwayId>
+<P-value>3.40e-11</P-value>
+<CorrectedP-value>1.28e-8</CorrectedP-value>
+<AnnotatedGenesQuantity>6</AnnotatedGenesQuantity>
+<AnnotatedGenes>ARNT|CYP1A1|CYP2C19|CYP2C9|CYP3A4|GSTP1</AnnotatedGenes>
+<GenomeFrequency>82/43164 genes: 0.19%</GenomeFrequency>
+</row>
+<row>
+<Pathway>IL-17 signaling pathway</Pathway>
+<PathwayId>KEGG:hsa04657</PathwayId>
+<P-value>7.35e-11</P-value>
+<CorrectedP-value>2.77e-8</CorrectedP-value>
+<AnnotatedGenesQuantity>6</AnnotatedGenesQuantity>
+<AnnotatedGenes>CXCL10|CXCL8|IL4|IL5|NFKBIA|TNF</AnnotatedGenes>
+<GenomeFrequency>93/43164 genes: 0.22%</GenomeFrequency>
+</row>
+<row>
+<Pathway>Signaling by Interleukins</Pathway>
+<PathwayId>REACT:R-HSA-449147</PathwayId>
+<P-value>1.25e-10</P-value>
+<CorrectedP-value>4.72e-8</CorrectedP-value>
+<AnnotatedGenesQuantity>9</AnnotatedGenesQuantity>
+<AnnotatedGenes>BCL2|CCL5|CCND1|CXCL10|CXCL8|IL4|IL5|STAT1|TNF</AnnotatedGenes>
+<GenomeFrequency>528/43164 genes: 1.22%</GenomeFrequency>
+</row>
+<row>
+<Pathway>Toll-like receptor signaling pathway</Pathway>
+<PathwayId>KEGG:hsa04620</PathwayId>
+<P-value>1.46e-10</P-value>
+<CorrectedP-value>5.49e-8</CorrectedP-value>
+<AnnotatedGenesQuantity>6</AnnotatedGenesQuantity>
+<AnnotatedGenes>CCL5|CXCL10|CXCL8|NFKBIA|STAT1|TNF</AnnotatedGenes>
+<GenomeFrequency>104/43164 genes: 0.24%</GenomeFrequency>
+</row>
+<row>
+<Pathway>Interleukin-4 and 13 signaling</Pathway>
+<PathwayId>REACT:R-HSA-6785807</PathwayId>
+<P-value>2.55e-10</P-value>
+<CorrectedP-value>9.60e-8</CorrectedP-value>
+<AnnotatedGenesQuantity>6</AnnotatedGenesQuantity>
+<AnnotatedGenes>BCL2|CCND1|CXCL8|IL4|STAT1|TNF</AnnotatedGenes>
+<GenomeFrequency>114/43164 genes: 0.26%</GenomeFrequency>
+</row>
+<row>
+<Pathway>Interleukin-10 signaling</Pathway>
+<PathwayId>REACT:R-HSA-6783783</PathwayId>
+<P-value>3.01e-10</P-value>
+<CorrectedP-value>1.13e-7</CorrectedP-value>
+<AnnotatedGenesQuantity>5</AnnotatedGenesQuantity>
+<AnnotatedGenes>CCL5|CXCL10|CXCL8|IL4|TNF</AnnotatedGenes>
+<GenomeFrequency>49/43164 genes: 0.11%</GenomeFrequency>
+</row>
+<row>
+<Pathway>Hepatitis B</Pathway>
+<PathwayId>KEGG:hsa05161</PathwayId>
+<P-value>1.05e-9</P-value>
+<CorrectedP-value>3.95e-7</CorrectedP-value>
+<AnnotatedGenesQuantity>6</AnnotatedGenesQuantity>
+<AnnotatedGenes>BCL2|CCND1|CXCL8|NFKBIA|STAT1|TNF</AnnotatedGenes>
+<GenomeFrequency>144/43164 genes: 0.33%</GenomeFrequency>
+</row>
+<row>
+<Pathway>Jak-STAT signaling pathway</Pathway>
+<PathwayId>KEGG:hsa04630</PathwayId>
+<P-value>1.70e-9</P-value>
+<CorrectedP-value>6.39e-7</CorrectedP-value>
+<AnnotatedGenesQuantity>6</AnnotatedGenesQuantity>
+<AnnotatedGenes>BCL2|CCND1|IL4|IL5|STAT1|TSLP</AnnotatedGenes>
+<GenomeFrequency>156/43164 genes: 0.36%</GenomeFrequency>
+</row>
+<row>
+<Pathway>NOD-like receptor signaling pathway</Pathway>
+<PathwayId>KEGG:hsa04621</PathwayId>
+<P-value>2.84e-9</P-value>
+<CorrectedP-value>1.07e-6</CorrectedP-value>
+<AnnotatedGenesQuantity>6</AnnotatedGenesQuantity>
+<AnnotatedGenes>BCL2|CCL5|CXCL8|NFKBIA|STAT1|TNF</AnnotatedGenes>
+<GenomeFrequency>170/43164 genes: 0.39%</GenomeFrequency>
+</row>
+<row>
+<Pathway>Cytokine Signaling in Immune system</Pathway>
+<PathwayId>REACT:R-HSA-1280215</PathwayId>
+<P-value>3.03e-9</P-value>
+<CorrectedP-value>1.14e-6</CorrectedP-value>
+<AnnotatedGenesQuantity>9</AnnotatedGenesQuantity>
+<AnnotatedGenes>BCL2|CCL5|CCND1|CXCL10|CXCL8|IL4|IL5|STAT1|TNF</AnnotatedGenes>
+<GenomeFrequency>760/43164 genes: 1.76%</GenomeFrequency>
+</row>
+<row>
+<Pathway>Influenza A</Pathway>
+<PathwayId>KEGG:hsa05164</PathwayId>
+<P-value>3.16e-9</P-value>
+<CorrectedP-value>1.19e-6</CorrectedP-value>
+<AnnotatedGenesQuantity>6</AnnotatedGenesQuantity>
+<AnnotatedGenes>CCL5|CXCL10|CXCL8|NFKBIA|STAT1|TNF</AnnotatedGenes>
+<GenomeFrequency>173/43164 genes: 0.40%</GenomeFrequency>
+</row>
+<row>
+<Pathway>Endogenous sterols</Pathway>
+<PathwayId>REACT:R-HSA-211976</PathwayId>
+<P-value>5.03e-9</P-value>
+<CorrectedP-value>1.90e-6</CorrectedP-value>
+<AnnotatedGenesQuantity>4</AnnotatedGenesQuantity>
+<AnnotatedGenes>AHR|ARNT|CYP51A1|NCOA1</AnnotatedGenes>
+<GenomeFrequency>28/43164 genes: 0.06%</GenomeFrequency>
+</row>
+<row>
+<Pathway>Metabolism of lipids and lipoproteins</Pathway>
+<PathwayId>REACT:R-HSA-556833</PathwayId>
+<P-value>5.49e-9</P-value>
+<CorrectedP-value>2.07e-6</CorrectedP-value>
+<AnnotatedGenesQuantity>9</AnnotatedGenesQuantity>
+<AnnotatedGenes>ABCB11|ABCB4|AHR|ARNT|CYP1A1|CYP2C19|CYP2C9|CYP51A1|NCOA1</AnnotatedGenes>
+<GenomeFrequency>814/43164 genes: 1.89%</GenomeFrequency>
+</row>
+<row>
+<Pathway>Prostate cancer</Pathway>
+<PathwayId>KEGG:hsa05215</PathwayId>
+<P-value>5.71e-9</P-value>
+<CorrectedP-value>2.15e-6</CorrectedP-value>
+<AnnotatedGenesQuantity>5</AnnotatedGenesQuantity>
+<AnnotatedGenes>AR|BCL2|CCND1|GSTP1|NFKBIA</AnnotatedGenes>
+<GenomeFrequency>87/43164 genes: 0.20%</GenomeFrequency>
+</row>
+<row>
+<Pathway>AGE-RAGE signaling pathway in diabetic complications</Pathway>
+<PathwayId>KEGG:hsa04933</PathwayId>
+<P-value>1.10e-8</P-value>
+<CorrectedP-value>4.14e-6</CorrectedP-value>
+<AnnotatedGenesQuantity>5</AnnotatedGenesQuantity>
+<AnnotatedGenes>BCL2|CCND1|CXCL8|STAT1|TNF</AnnotatedGenes>
+<GenomeFrequency>99/43164 genes: 0.23%</GenomeFrequency>
+</row>
+<row>
+<Pathway>Immune System</Pathway>
+<PathwayId>REACT:R-HSA-168256</PathwayId>
+<P-value>1.70e-8</P-value>
+<CorrectedP-value>6.42e-6</CorrectedP-value>
+<AnnotatedGenesQuantity>12</AnnotatedGenesQuantity>
+<AnnotatedGenes>BCL2|CCL5|CCND1|CXCL10|CXCL8|GSTP1|IL4|IL5|MADCAM1|NFKBIA|STAT1|TNF</AnnotatedGenes>
+<GenomeFrequency>2118/43164 genes: 4.91%</GenomeFrequency>
+</row>
+<row>
+<Pathway>Synthesis of epoxy (EET) and dihydroxyeicosatrienoic acids (DHET)</Pathway>
+<PathwayId>REACT:R-HSA-2142670</PathwayId>
+<P-value>2.07e-8</P-value>
+<CorrectedP-value>7.79e-6</CorrectedP-value>
+<AnnotatedGenesQuantity>3</AnnotatedGenesQuantity>
+<AnnotatedGenes>CYP1A1|CYP2C19|CYP2C9</AnnotatedGenes>
+<GenomeFrequency>8/43164 genes: 0.02%</GenomeFrequency>
+</row>
+<row>
+<Pathway>Synthesis of (16-20)-hydroxyeicosatetraenoic acids (HETE)</Pathway>
+<PathwayId>REACT:R-HSA-2142816</PathwayId>
+<P-value>3.10e-8</P-value>
+<CorrectedP-value>1.17e-5</CorrectedP-value>
+<AnnotatedGenesQuantity>3</AnnotatedGenesQuantity>
+<AnnotatedGenes>CYP1A1|CYP2C19|CYP2C9</AnnotatedGenes>
+<GenomeFrequency>9/43164 genes: 0.02%</GenomeFrequency>
+</row>
+<row>
+<Pathway>PPARA activates gene expression</Pathway>
+<PathwayId>REACT:R-HSA-1989781</PathwayId>
+<P-value>3.41e-8</P-value>
+<CorrectedP-value>1.29e-5</CorrectedP-value>
+<AnnotatedGenesQuantity>5</AnnotatedGenesQuantity>
+<AnnotatedGenes>ABCB4|AHR|ARNT|CYP1A1|NCOA1</AnnotatedGenes>
+<GenomeFrequency>124/43164 genes: 0.29%</GenomeFrequency>
+</row>
+<row>
+<Pathway>Regulation of lipid metabolism by Peroxisome proliferator-activated receptor alpha (PPARalpha)</Pathway>
+<PathwayId>REACT:R-HSA-400206</PathwayId>
+<P-value>3.85e-8</P-value>
+<CorrectedP-value>1.45e-5</CorrectedP-value>
+<AnnotatedGenesQuantity>5</AnnotatedGenesQuantity>
+<AnnotatedGenes>ABCB4|AHR|ARNT|CYP1A1|NCOA1</AnnotatedGenes>
+<GenomeFrequency>127/43164 genes: 0.29%</GenomeFrequency>
+</row>
+<row>
+<Pathway>Hedgehog signaling pathway</Pathway>
+<PathwayId>KEGG:hsa04340</PathwayId>
+<P-value>4.34e-8</P-value>
+<CorrectedP-value>1.64e-5</CorrectedP-value>
+<AnnotatedGenesQuantity>4</AnnotatedGenesQuantity>
+<AnnotatedGenes>BCL2|CCND1|GLI1|SMO</AnnotatedGenes>
+<GenomeFrequency>47/43164 genes: 0.11%</GenomeFrequency>
+</row>
+<row>
+<Pathway>Fluid shear stress and atherosclerosis</Pathway>
+<PathwayId>KEGG:hsa05418</PathwayId>
+<P-value>6.73e-8</P-value>
+<CorrectedP-value>2.54e-5</CorrectedP-value>
+<AnnotatedGenesQuantity>5</AnnotatedGenesQuantity>
+<AnnotatedGenes>BCL2|GSTP1|KDR|NQO1|TNF</AnnotatedGenes>
+<GenomeFrequency>142/43164 genes: 0.33%</GenomeFrequency>
+</row>
+<row>
+<Pathway>Signal Transduction</Pathway>
+<PathwayId>REACT:R-HSA-162582</PathwayId>
+<P-value>1.53e-7</P-value>
+<CorrectedP-value>5.77e-5</CorrectedP-value>
+<AnnotatedGenesQuantity>12</AnnotatedGenesQuantity>
+<AnnotatedGenes>AR|CCL5|CCND1|CXCL10|CXCL8|GLI1|IL5|KDR|NFKBIA|SMO|STAT1|TNF</AnnotatedGenes>
+<GenomeFrequency>2587/43164 genes: 5.99%</GenomeFrequency>
+</row>
+<row>
+<Pathway>Inflammatory bowel disease (IBD)</Pathway>
+<PathwayId>KEGG:hsa05321</PathwayId>
+<P-value>1.63e-7</P-value>
+<CorrectedP-value>6.15e-5</CorrectedP-value>
+<AnnotatedGenesQuantity>4</AnnotatedGenesQuantity>
+<AnnotatedGenes>IL4|IL5|STAT1|TNF</AnnotatedGenes>
+<GenomeFrequency>65/43164 genes: 0.15%</GenomeFrequency>
+</row>
+<row>
+<Pathway>Drug metabolism - cytochrome P450</Pathway>
+<PathwayId>KEGG:hsa00982</PathwayId>
+<P-value>2.08e-7</P-value>
+<CorrectedP-value>7.84e-5</CorrectedP-value>
+<AnnotatedGenesQuantity>4</AnnotatedGenesQuantity>
+<AnnotatedGenes>CYP2C19|CYP2C9|CYP3A4|GSTP1</AnnotatedGenes>
+<GenomeFrequency>69/43164 genes: 0.16%</GenomeFrequency>
+</row>
+<row>
+<Pathway>RIG-I-like receptor signaling pathway</Pathway>
+<PathwayId>KEGG:hsa04622</PathwayId>
+<P-value>2.20e-7</P-value>
+<CorrectedP-value>8.31e-5</CorrectedP-value>
+<AnnotatedGenesQuantity>4</AnnotatedGenesQuantity>
+<AnnotatedGenes>CXCL10|CXCL8|NFKBIA|TNF</AnnotatedGenes>
+<GenomeFrequency>70/43164 genes: 0.16%</GenomeFrequency>
+</row>
+<row>
+<Pathway>Chemokine signaling pathway</Pathway>
+<PathwayId>KEGG:hsa04062</PathwayId>
+<P-value>2.32e-7</P-value>
+<CorrectedP-value>8.73e-5</CorrectedP-value>
+<AnnotatedGenesQuantity>5</AnnotatedGenesQuantity>
+<AnnotatedGenes>CCL5|CXCL10|CXCL8|NFKBIA|STAT1</AnnotatedGenes>
+<GenomeFrequency>182/43164 genes: 0.42%</GenomeFrequency>
+</row>
+<row>
+<Pathway>Bile secretion</Pathway>
+<PathwayId>KEGG:hsa04976</PathwayId>
+<P-value>2.33e-7</P-value>
+<CorrectedP-value>8.80e-5</CorrectedP-value>
+<AnnotatedGenesQuantity>4</AnnotatedGenesQuantity>
+<AnnotatedGenes>ABCB1|ABCB11|ABCB4|CYP3A4</AnnotatedGenes>
+<GenomeFrequency>71/43164 genes: 0.16%</GenomeFrequency>
+</row>
+<row>
+<Pathway>Leishmaniasis</Pathway>
+<PathwayId>KEGG:hsa05140</PathwayId>
+<P-value>2.47e-7</P-value>
+<CorrectedP-value>9.31e-5</CorrectedP-value>
+<AnnotatedGenesQuantity>4</AnnotatedGenesQuantity>
+<AnnotatedGenes>IL4|NFKBIA|STAT1|TNF</AnnotatedGenes>
+<GenomeFrequency>72/43164 genes: 0.17%</GenomeFrequency>
+</row>
+<row>
+<Pathway>Metabolism of xenobiotics by cytochrome P450</Pathway>
+<PathwayId>KEGG:hsa00980</PathwayId>
+<P-value>2.61e-7</P-value>
+<CorrectedP-value>9.84e-5</CorrectedP-value>
+<AnnotatedGenesQuantity>4</AnnotatedGenesQuantity>
+<AnnotatedGenes>CYP1A1|CYP2C9|CYP3A4|GSTP1</AnnotatedGenes>
+<GenomeFrequency>73/43164 genes: 0.17%</GenomeFrequency>
+</row>
+<row>
+<Pathway>Steroid biosynthesis</Pathway>
+<PathwayId>KEGG:hsa00100</PathwayId>
+<P-value>4.18e-7</P-value>
+<CorrectedP-value>1.58e-4</CorrectedP-value>
+<AnnotatedGenesQuantity>3</AnnotatedGenesQuantity>
+<AnnotatedGenes>CYP24A1|CYP27B1|CYP51A1</AnnotatedGenes>
+<GenomeFrequency>20/43164 genes: 0.05%</GenomeFrequency>
+</row>
+<row>
+<Pathway>Th1 and Th2 cell differentiation</Pathway>
+<PathwayId>KEGG:hsa04658</PathwayId>
+<P-value>6.64e-7</P-value>
+<CorrectedP-value>2.50e-4</CorrectedP-value>
+<AnnotatedGenesQuantity>4</AnnotatedGenesQuantity>
+<AnnotatedGenes>IL4|IL5|NFKBIA|STAT1</AnnotatedGenes>
+<GenomeFrequency>92/43164 genes: 0.21%</GenomeFrequency>
+</row>
+<row>
+<Pathway>NF-kappa B signaling pathway</Pathway>
+<PathwayId>KEGG:hsa04064</PathwayId>
+<P-value>7.24e-7</P-value>
+<CorrectedP-value>2.73e-4</CorrectedP-value>
+<AnnotatedGenesQuantity>4</AnnotatedGenesQuantity>
+<AnnotatedGenes>BCL2|CXCL8|NFKBIA|TNF</AnnotatedGenes>
+<GenomeFrequency>94/43164 genes: 0.22%</GenomeFrequency>
+</row>
+<row>
+<Pathway>Chagas disease (American trypanosomiasis)</Pathway>
+<PathwayId>KEGG:hsa05142</PathwayId>
+<P-value>1.00e-6</P-value>
+<CorrectedP-value>3.79e-4</CorrectedP-value>
+<AnnotatedGenesQuantity>4</AnnotatedGenesQuantity>
+<AnnotatedGenes>CCL5|CXCL8|NFKBIA|TNF</AnnotatedGenes>
+<GenomeFrequency>102/43164 genes: 0.24%</GenomeFrequency>
+</row>
+<row>
+<Pathway>T cell receptor signaling pathway</Pathway>
+<PathwayId>KEGG:hsa04660</PathwayId>
+<P-value>1.04e-6</P-value>
+<CorrectedP-value>3.94e-4</CorrectedP-value>
+<AnnotatedGenesQuantity>4</AnnotatedGenesQuantity>
+<AnnotatedGenes>IL4|IL5|NFKBIA|TNF</AnnotatedGenes>
+<GenomeFrequency>103/43164 genes: 0.24%</GenomeFrequency>
+</row>
+<row>
+<Pathway>Fatty acid, triacylglycerol, and ketone body metabolism</Pathway>
+<PathwayId>REACT:R-HSA-535734</PathwayId>
+<P-value>1.15e-6</P-value>
+<CorrectedP-value>4.35e-4</CorrectedP-value>
+<AnnotatedGenesQuantity>5</AnnotatedGenesQuantity>
+<AnnotatedGenes>ABCB4|AHR|ARNT|CYP1A1|NCOA1</AnnotatedGenes>
+<GenomeFrequency>252/43164 genes: 0.58%</GenomeFrequency>
+</row>
+<row>
+<Pathway>Th17 cell differentiation</Pathway>
+<PathwayId>KEGG:hsa04659</PathwayId>
+<P-value>1.22e-6</P-value>
+<CorrectedP-value>4.59e-4</CorrectedP-value>
+<AnnotatedGenesQuantity>4</AnnotatedGenesQuantity>
+<AnnotatedGenes>AHR|IL4|NFKBIA|STAT1</AnnotatedGenes>
+<GenomeFrequency>107/43164 genes: 0.25%</GenomeFrequency>
+</row>
+<row>
+<Pathway>TNF signaling pathway</Pathway>
+<PathwayId>KEGG:hsa04668</PathwayId>
+<P-value>1.26e-6</P-value>
+<CorrectedP-value>4.76e-4</CorrectedP-value>
+<AnnotatedGenesQuantity>4</AnnotatedGenesQuantity>
+<AnnotatedGenes>CCL5|CXCL10|NFKBIA|TNF</AnnotatedGenes>
+<GenomeFrequency>108/43164 genes: 0.25%</GenomeFrequency>
+</row>
+<row>
+<Pathway>Linoleic acid metabolism</Pathway>
+<PathwayId>KEGG:hsa00591</PathwayId>
+<P-value>1.33e-6</P-value>
+<CorrectedP-value>5.03e-4</CorrectedP-value>
+<AnnotatedGenesQuantity>3</AnnotatedGenesQuantity>
+<AnnotatedGenes>CYP2C19|CYP2C9|CYP3A4</AnnotatedGenes>
+<GenomeFrequency>29/43164 genes: 0.07%</GenomeFrequency>
+</row>
+<row>
+<Pathway>Asthma</Pathway>
+<PathwayId>KEGG:hsa05310</PathwayId>
+<P-value>1.48e-6</P-value>
+<CorrectedP-value>5.59e-4</CorrectedP-value>
+<AnnotatedGenesQuantity>3</AnnotatedGenesQuantity>
+<AnnotatedGenes>IL4|IL5|TNF</AnnotatedGenes>
+<GenomeFrequency>30/43164 genes: 0.07%</GenomeFrequency>
+</row>
+<row>
+<Pathway>Toxoplasmosis</Pathway>
+<PathwayId>KEGG:hsa05145</PathwayId>
+<P-value>1.51e-6</P-value>
+<CorrectedP-value>5.70e-4</CorrectedP-value>
+<AnnotatedGenesQuantity>4</AnnotatedGenesQuantity>
+<AnnotatedGenes>BCL2|NFKBIA|STAT1|TNF</AnnotatedGenes>
+<GenomeFrequency>113/43164 genes: 0.26%</GenomeFrequency>
+</row>
+<row>
+<Pathway>Hepatitis C</Pathway>
+<PathwayId>KEGG:hsa05160</PathwayId>
+<P-value>2.73e-6</P-value>
+<CorrectedP-value>0.00103</CorrectedP-value>
+<AnnotatedGenesQuantity>4</AnnotatedGenesQuantity>
+<AnnotatedGenes>CXCL8|NFKBIA|STAT1|TNF</AnnotatedGenes>
+<GenomeFrequency>131/43164 genes: 0.30%</GenomeFrequency>
+</row>
+<row>
+<Pathway>Allograft rejection</Pathway>
+<PathwayId>KEGG:hsa05330</PathwayId>
+<P-value>2.83e-6</P-value>
+<CorrectedP-value>0.00107</CorrectedP-value>
+<AnnotatedGenesQuantity>3</AnnotatedGenesQuantity>
+<AnnotatedGenes>IL4|IL5|TNF</AnnotatedGenes>
+<GenomeFrequency>37/43164 genes: 0.09%</GenomeFrequency>
+</row>
+<row>
+<Pathway>Measles</Pathway>
+<PathwayId>KEGG:hsa05162</PathwayId>
+<P-value>2.90e-6</P-value>
+<CorrectedP-value>0.00109</CorrectedP-value>
+<AnnotatedGenesQuantity>4</AnnotatedGenesQuantity>
+<AnnotatedGenes>CCND1|IL4|NFKBIA|STAT1</AnnotatedGenes>
+<GenomeFrequency>133/43164 genes: 0.31%</GenomeFrequency>
+</row>
+<row>
+<Pathway>ABC transporters</Pathway>
+<PathwayId>KEGG:hsa02010</PathwayId>
+<P-value>4.80e-6</P-value>
+<CorrectedP-value>0.00181</CorrectedP-value>
+<AnnotatedGenesQuantity>3</AnnotatedGenesQuantity>
+<AnnotatedGenes>ABCB1|ABCB11|ABCB4</AnnotatedGenes>
+<GenomeFrequency>44/43164 genes: 0.10%</GenomeFrequency>
+</row>
+<row>
+<Pathway>Intestinal immune network for IgA production</Pathway>
+<PathwayId>KEGG:hsa04672</PathwayId>
+<P-value>5.87e-6</P-value>
+<CorrectedP-value>0.00221</CorrectedP-value>
+<AnnotatedGenesQuantity>3</AnnotatedGenesQuantity>
+<AnnotatedGenes>IL4|IL5|MADCAM1</AnnotatedGenes>
+<GenomeFrequency>47/43164 genes: 0.11%</GenomeFrequency>
+</row>
+<row>
+<Pathway>Chemokine receptors bind chemokines</Pathway>
+<PathwayId>REACT:R-HSA-380108</PathwayId>
+<P-value>6.26e-6</P-value>
+<CorrectedP-value>0.00236</CorrectedP-value>
+<AnnotatedGenesQuantity>3</AnnotatedGenesQuantity>
+<AnnotatedGenes>CCL5|CXCL10|CXCL8</AnnotatedGenes>
+<GenomeFrequency>48/43164 genes: 0.11%</GenomeFrequency>
+</row>
+<row>
+<Pathway>Vitamins</Pathway>
+<PathwayId>REACT:R-HSA-211916</PathwayId>
+<P-value>7.97e-6</P-value>
+<CorrectedP-value>0.00301</CorrectedP-value>
+<AnnotatedGenesQuantity>2</AnnotatedGenesQuantity>
+<AnnotatedGenes>CYP24A1|CYP27B1</AnnotatedGenes>
+<GenomeFrequency>6/43164 genes: 0.01%</GenomeFrequency>
+</row>
+<row>
+<Pathway>Tuberculosis</Pathway>
+<PathwayId>KEGG:hsa05152</PathwayId>
+<P-value>9.19e-6</P-value>
+<CorrectedP-value>0.00346</CorrectedP-value>
+<AnnotatedGenesQuantity>4</AnnotatedGenesQuantity>
+<AnnotatedGenes>BCL2|CYP27B1|STAT1|TNF</AnnotatedGenes>
+<GenomeFrequency>178/43164 genes: 0.41%</GenomeFrequency>
+</row>
+<row>
+<Pathway>Legionellosis</Pathway>
+<PathwayId>KEGG:hsa05134</PathwayId>
+<P-value>9.46e-6</P-value>
+<CorrectedP-value>0.00357</CorrectedP-value>
+<AnnotatedGenesQuantity>3</AnnotatedGenesQuantity>
+<AnnotatedGenes>CXCL8|NFKBIA|TNF</AnnotatedGenes>
+<GenomeFrequency>55/43164 genes: 0.13%</GenomeFrequency>
+</row>
+<row>
+<Pathway>Herpes simplex infection</Pathway>
+<PathwayId>KEGG:hsa05168</PathwayId>
+<P-value>1.07e-5</P-value>
+<CorrectedP-value>0.00403</CorrectedP-value>
+<AnnotatedGenesQuantity>4</AnnotatedGenesQuantity>
+<AnnotatedGenes>CCL5|NFKBIA|STAT1|TNF</AnnotatedGenes>
+<GenomeFrequency>185/43164 genes: 0.43%</GenomeFrequency>
+</row>
+<row>
+<Pathway>Vitamin D (calciferol) metabolism</Pathway>
+<PathwayId>REACT:R-HSA-196791</PathwayId>
+<P-value>1.12e-5</P-value>
+<CorrectedP-value>0.00421</CorrectedP-value>
+<AnnotatedGenesQuantity>2</AnnotatedGenesQuantity>
+<AnnotatedGenes>CYP24A1|CYP27B1</AnnotatedGenes>
+<GenomeFrequency>7/43164 genes: 0.02%</GenomeFrequency>
+</row>
+<row>
+<Pathway>Arachidonic acid metabolism</Pathway>
+<PathwayId>REACT:R-HSA-2142753</PathwayId>
+<P-value>1.23e-5</P-value>
+<CorrectedP-value>0.00464</CorrectedP-value>
+<AnnotatedGenesQuantity>3</AnnotatedGenesQuantity>
+<AnnotatedGenes>CYP1A1|CYP2C19|CYP2C9</AnnotatedGenes>
+<GenomeFrequency>60/43164 genes: 0.14%</GenomeFrequency>
+</row>
+<row>
+<Pathway>Cytosolic DNA-sensing pathway</Pathway>
+<PathwayId>KEGG:hsa04623</PathwayId>
+<P-value>1.43e-5</P-value>
+<CorrectedP-value>0.00538</CorrectedP-value>
+<AnnotatedGenesQuantity>3</AnnotatedGenesQuantity>
+<AnnotatedGenes>CCL5|CXCL10|NFKBIA</AnnotatedGenes>
+<GenomeFrequency>63/43164 genes: 0.15%</GenomeFrequency>
+</row>
+<row>
+<Pathway>Aryl hydrocarbon receptor signalling</Pathway>
+<PathwayId>REACT:R-HSA-8937144</PathwayId>
+<P-value>1.49e-5</P-value>
+<CorrectedP-value>0.00560</CorrectedP-value>
+<AnnotatedGenesQuantity>2</AnnotatedGenesQuantity>
+<AnnotatedGenes>AHR|ARNT</AnnotatedGenes>
+<GenomeFrequency>8/43164 genes: 0.02%</GenomeFrequency>
+</row>
+<row>
+<Pathway>Proteoglycans in cancer</Pathway>
+<PathwayId>KEGG:hsa05205</PathwayId>
+<P-value>1.54e-5</P-value>
+<CorrectedP-value>0.00581</CorrectedP-value>
+<AnnotatedGenesQuantity>4</AnnotatedGenesQuantity>
+<AnnotatedGenes>CCND1|KDR|SMO|TNF</AnnotatedGenes>
+<GenomeFrequency>203/43164 genes: 0.47%</GenomeFrequency>
+</row>
+<row>
+<Pathway>Retinol metabolism</Pathway>
+<PathwayId>KEGG:hsa00830</PathwayId>
+<P-value>1.57e-5</P-value>
+<CorrectedP-value>0.00591</CorrectedP-value>
+<AnnotatedGenesQuantity>3</AnnotatedGenesQuantity>
+<AnnotatedGenes>CYP1A1|CYP2C9|CYP3A4</AnnotatedGenes>
+<GenomeFrequency>65/43164 genes: 0.15%</GenomeFrequency>
+</row>
+<row>
+<Pathway>Fc epsilon RI signaling pathway</Pathway>
+<PathwayId>KEGG:hsa04664</PathwayId>
+<P-value>1.72e-5</P-value>
+<CorrectedP-value>0.00647</CorrectedP-value>
+<AnnotatedGenesQuantity>3</AnnotatedGenesQuantity>
+<AnnotatedGenes>IL4|IL5|TNF</AnnotatedGenes>
+<GenomeFrequency>67/43164 genes: 0.16%</GenomeFrequency>
+</row>
+<row>
+<Pathway>Epithelial cell signaling in Helicobacter pylori infection</Pathway>
+<PathwayId>KEGG:hsa05120</PathwayId>
+<P-value>1.79e-5</P-value>
+<CorrectedP-value>0.00677</CorrectedP-value>
+<AnnotatedGenesQuantity>3</AnnotatedGenesQuantity>
+<AnnotatedGenes>CCL5|CXCL8|NFKBIA</AnnotatedGenes>
+<GenomeFrequency>68/43164 genes: 0.16%</GenomeFrequency>
+</row>
+</table>

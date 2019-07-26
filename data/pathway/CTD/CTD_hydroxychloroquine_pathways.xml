@@ -1,0 +1,426 @@
+<?xml version="1.0"?>
+<table>
+<row>
+<Pathway>Chagas disease (American trypanosomiasis)</Pathway>
+<PathwayId>KEGG:hsa05142</PathwayId>
+<P-value>6.86e-14</P-value>
+<CorrectedP-value>1.09e-11</CorrectedP-value>
+<AnnotatedGenesQuantity>6</AnnotatedGenesQuantity>
+<AnnotatedGenes>CCL2|CFLAR|CXCL8|FAS|IL1B|NOS2</AnnotatedGenes>
+<GenomeFrequency>102/43164 genes: 0.24%</GenomeFrequency>
+</row>
+<row>
+<Pathway>TNF signaling pathway</Pathway>
+<PathwayId>KEGG:hsa04668</PathwayId>
+<P-value>4.08e-11</P-value>
+<CorrectedP-value>6.48e-9</CorrectedP-value>
+<AnnotatedGenesQuantity>5</AnnotatedGenesQuantity>
+<AnnotatedGenes>CASP3|CCL2|CFLAR|FAS|IL1B</AnnotatedGenes>
+<GenomeFrequency>108/43164 genes: 0.25%</GenomeFrequency>
+</row>
+<row>
+<Pathway>Signaling by Interleukins</Pathway>
+<PathwayId>REACT:R-HSA-449147</PathwayId>
+<P-value>1.43e-9</P-value>
+<CorrectedP-value>2.27e-7</CorrectedP-value>
+<AnnotatedGenesQuantity>6</AnnotatedGenesQuantity>
+<AnnotatedGenes>CASP3|CCL2|CXCL8|IL1B|NOS2|SQSTM1</AnnotatedGenes>
+<GenomeFrequency>528/43164 genes: 1.22%</GenomeFrequency>
+</row>
+<row>
+<Pathway>Pertussis</Pathway>
+<PathwayId>KEGG:hsa05133</PathwayId>
+<P-value>2.90e-9</P-value>
+<CorrectedP-value>4.61e-7</CorrectedP-value>
+<AnnotatedGenesQuantity>4</AnnotatedGenesQuantity>
+<AnnotatedGenes>CASP3|CXCL8|IL1B|NOS2</AnnotatedGenes>
+<GenomeFrequency>76/43164 genes: 0.18%</GenomeFrequency>
+</row>
+<row>
+<Pathway>IL-17 signaling pathway</Pathway>
+<PathwayId>KEGG:hsa04657</PathwayId>
+<P-value>6.59e-9</P-value>
+<CorrectedP-value>1.05e-6</CorrectedP-value>
+<AnnotatedGenesQuantity>4</AnnotatedGenesQuantity>
+<AnnotatedGenes>CASP3|CCL2|CXCL8|IL1B</AnnotatedGenes>
+<GenomeFrequency>93/43164 genes: 0.22%</GenomeFrequency>
+</row>
+<row>
+<Pathway>Amoebiasis</Pathway>
+<PathwayId>KEGG:hsa05146</PathwayId>
+<P-value>7.18e-9</P-value>
+<CorrectedP-value>1.14e-6</CorrectedP-value>
+<AnnotatedGenesQuantity>4</AnnotatedGenesQuantity>
+<AnnotatedGenes>CASP3|CXCL8|IL1B|NOS2</AnnotatedGenes>
+<GenomeFrequency>95/43164 genes: 0.22%</GenomeFrequency>
+</row>
+<row>
+<Pathway>AGE-RAGE signaling pathway in diabetic complications</Pathway>
+<PathwayId>KEGG:hsa04933</PathwayId>
+<P-value>8.48e-9</P-value>
+<CorrectedP-value>1.35e-6</CorrectedP-value>
+<AnnotatedGenesQuantity>4</AnnotatedGenesQuantity>
+<AnnotatedGenes>CASP3|CCL2|CXCL8|IL1B</AnnotatedGenes>
+<GenomeFrequency>99/43164 genes: 0.23%</GenomeFrequency>
+</row>
+<row>
+<Pathway>Cytokine Signaling in Immune system</Pathway>
+<PathwayId>REACT:R-HSA-1280215</PathwayId>
+<P-value>1.25e-8</P-value>
+<CorrectedP-value>1.99e-6</CorrectedP-value>
+<AnnotatedGenesQuantity>6</AnnotatedGenesQuantity>
+<AnnotatedGenes>CASP3|CCL2|CXCL8|IL1B|NOS2|SQSTM1</AnnotatedGenes>
+<GenomeFrequency>760/43164 genes: 1.76%</GenomeFrequency>
+</row>
+<row>
+<Pathway>Interleukin-4 and 13 signaling</Pathway>
+<PathwayId>REACT:R-HSA-6785807</PathwayId>
+<P-value>1.50e-8</P-value>
+<CorrectedP-value>2.39e-6</CorrectedP-value>
+<AnnotatedGenesQuantity>4</AnnotatedGenesQuantity>
+<AnnotatedGenes>CCL2|CXCL8|IL1B|NOS2</AnnotatedGenes>
+<GenomeFrequency>114/43164 genes: 0.26%</GenomeFrequency>
+</row>
+<row>
+<Pathway>Caspase activation via extrinsic apoptotic signalling pathway</Pathway>
+<PathwayId>REACT:R-HSA-5357769</PathwayId>
+<P-value>4.02e-8</P-value>
+<CorrectedP-value>6.39e-6</CorrectedP-value>
+<AnnotatedGenesQuantity>3</AnnotatedGenesQuantity>
+<AnnotatedGenes>CASP3|CFLAR|FAS</AnnotatedGenes>
+<GenomeFrequency>28/43164 genes: 0.06%</GenomeFrequency>
+</row>
+<row>
+<Pathway>Non-alcoholic fatty liver disease (NAFLD)</Pathway>
+<PathwayId>KEGG:hsa04932</PathwayId>
+<P-value>4.42e-8</P-value>
+<CorrectedP-value>7.02e-6</CorrectedP-value>
+<AnnotatedGenesQuantity>4</AnnotatedGenesQuantity>
+<AnnotatedGenes>CASP3|CXCL8|FAS|IL1B</AnnotatedGenes>
+<GenomeFrequency>149/43164 genes: 0.35%</GenomeFrequency>
+</row>
+<row>
+<Pathway>NOD-like receptor signaling pathway</Pathway>
+<PathwayId>KEGG:hsa04621</PathwayId>
+<P-value>7.50e-8</P-value>
+<CorrectedP-value>1.19e-5</CorrectedP-value>
+<AnnotatedGenesQuantity>4</AnnotatedGenesQuantity>
+<AnnotatedGenes>CCL2|CXCL8|IL1B|TXNIP</AnnotatedGenes>
+<GenomeFrequency>170/43164 genes: 0.39%</GenomeFrequency>
+</row>
+<row>
+<Pathway>Apoptosis</Pathway>
+<PathwayId>REACT:R-HSA-109581</PathwayId>
+<P-value>7.86e-8</P-value>
+<CorrectedP-value>1.25e-5</CorrectedP-value>
+<AnnotatedGenesQuantity>4</AnnotatedGenesQuantity>
+<AnnotatedGenes>CASP3|CFLAR|FAS|OCLN</AnnotatedGenes>
+<GenomeFrequency>172/43164 genes: 0.40%</GenomeFrequency>
+</row>
+<row>
+<Pathway>Influenza A</Pathway>
+<PathwayId>KEGG:hsa05164</PathwayId>
+<P-value>8.05e-8</P-value>
+<CorrectedP-value>1.28e-5</CorrectedP-value>
+<AnnotatedGenesQuantity>4</AnnotatedGenesQuantity>
+<AnnotatedGenes>CCL2|CXCL8|FAS|IL1B</AnnotatedGenes>
+<GenomeFrequency>173/43164 genes: 0.40%</GenomeFrequency>
+</row>
+<row>
+<Pathway>Programmed Cell Death</Pathway>
+<PathwayId>REACT:R-HSA-5357801</PathwayId>
+<P-value>8.43e-8</P-value>
+<CorrectedP-value>1.34e-5</CorrectedP-value>
+<AnnotatedGenesQuantity>4</AnnotatedGenesQuantity>
+<AnnotatedGenes>CASP3|CFLAR|FAS|OCLN</AnnotatedGenes>
+<GenomeFrequency>175/43164 genes: 0.41%</GenomeFrequency>
+</row>
+<row>
+<Pathway>Herpes simplex infection</Pathway>
+<PathwayId>KEGG:hsa05168</PathwayId>
+<P-value>1.05e-7</P-value>
+<CorrectedP-value>1.67e-5</CorrectedP-value>
+<AnnotatedGenesQuantity>4</AnnotatedGenesQuantity>
+<AnnotatedGenes>CASP3|CCL2|FAS|IL1B</AnnotatedGenes>
+<GenomeFrequency>185/43164 genes: 0.43%</GenomeFrequency>
+</row>
+<row>
+<Pathway>Immune System</Pathway>
+<PathwayId>REACT:R-HSA-168256</PathwayId>
+<P-value>1.88e-7</P-value>
+<CorrectedP-value>2.99e-5</CorrectedP-value>
+<AnnotatedGenesQuantity>7</AnnotatedGenesQuantity>
+<AnnotatedGenes>CASP3|CCL2|CXCL8|IL1B|NOS2|SQSTM1|TXNIP</AnnotatedGenes>
+<GenomeFrequency>2118/43164 genes: 4.91%</GenomeFrequency>
+</row>
+<row>
+<Pathway>Interleukin-10 signaling</Pathway>
+<PathwayId>REACT:R-HSA-6783783</PathwayId>
+<P-value>2.25e-7</P-value>
+<CorrectedP-value>3.58e-5</CorrectedP-value>
+<AnnotatedGenesQuantity>3</AnnotatedGenesQuantity>
+<AnnotatedGenes>CCL2|CXCL8|IL1B</AnnotatedGenes>
+<GenomeFrequency>49/43164 genes: 0.11%</GenomeFrequency>
+</row>
+<row>
+<Pathway>Malaria</Pathway>
+<PathwayId>KEGG:hsa05144</PathwayId>
+<P-value>2.25e-7</P-value>
+<CorrectedP-value>3.58e-5</CorrectedP-value>
+<AnnotatedGenesQuantity>3</AnnotatedGenesQuantity>
+<AnnotatedGenes>CCL2|CXCL8|IL1B</AnnotatedGenes>
+<GenomeFrequency>49/43164 genes: 0.11%</GenomeFrequency>
+</row>
+<row>
+<Pathway>Legionellosis</Pathway>
+<PathwayId>KEGG:hsa05134</PathwayId>
+<P-value>3.21e-7</P-value>
+<CorrectedP-value>5.10e-5</CorrectedP-value>
+<AnnotatedGenesQuantity>3</AnnotatedGenesQuantity>
+<AnnotatedGenes>CASP3|CXCL8|IL1B</AnnotatedGenes>
+<GenomeFrequency>55/43164 genes: 0.13%</GenomeFrequency>
+</row>
+<row>
+<Pathway>Cytokine-cytokine receptor interaction</Pathway>
+<PathwayId>KEGG:hsa04060</PathwayId>
+<P-value>4.77e-7</P-value>
+<CorrectedP-value>7.59e-5</CorrectedP-value>
+<AnnotatedGenesQuantity>4</AnnotatedGenesQuantity>
+<AnnotatedGenes>CCL2|CXCL8|FAS|IL1B</AnnotatedGenes>
+<GenomeFrequency>270/43164 genes: 0.63%</GenomeFrequency>
+</row>
+<row>
+<Pathway>Salmonella infection</Pathway>
+<PathwayId>KEGG:hsa05132</PathwayId>
+<P-value>1.25e-6</P-value>
+<CorrectedP-value>1.98e-4</CorrectedP-value>
+<AnnotatedGenesQuantity>3</AnnotatedGenesQuantity>
+<AnnotatedGenes>CXCL8|IL1B|NOS2</AnnotatedGenes>
+<GenomeFrequency>86/43164 genes: 0.20%</GenomeFrequency>
+</row>
+<row>
+<Pathway>Rheumatoid arthritis</Pathway>
+<PathwayId>KEGG:hsa05323</PathwayId>
+<P-value>1.38e-6</P-value>
+<CorrectedP-value>2.20e-4</CorrectedP-value>
+<AnnotatedGenesQuantity>3</AnnotatedGenesQuantity>
+<AnnotatedGenes>CCL2|CXCL8|IL1B</AnnotatedGenes>
+<GenomeFrequency>89/43164 genes: 0.21%</GenomeFrequency>
+</row>
+<row>
+<Pathway>NF-kappa B signaling pathway</Pathway>
+<PathwayId>KEGG:hsa04064</PathwayId>
+<P-value>1.63e-6</P-value>
+<CorrectedP-value>2.59e-4</CorrectedP-value>
+<AnnotatedGenesQuantity>3</AnnotatedGenesQuantity>
+<AnnotatedGenes>CFLAR|CXCL8|IL1B</AnnotatedGenes>
+<GenomeFrequency>94/43164 genes: 0.22%</GenomeFrequency>
+</row>
+<row>
+<Pathway>Pathways in cancer</Pathway>
+<PathwayId>KEGG:hsa05200</PathwayId>
+<P-value>2.17e-6</P-value>
+<CorrectedP-value>3.44e-4</CorrectedP-value>
+<AnnotatedGenesQuantity>4</AnnotatedGenesQuantity>
+<AnnotatedGenes>CASP3|CXCL8|FAS|NOS2</AnnotatedGenes>
+<GenomeFrequency>395/43164 genes: 0.92%</GenomeFrequency>
+</row>
+<row>
+<Pathway>Apoptotic cleavage of cell adhesion  proteins</Pathway>
+<PathwayId>REACT:R-HSA-351906</PathwayId>
+<P-value>3.24e-6</P-value>
+<CorrectedP-value>5.16e-4</CorrectedP-value>
+<AnnotatedGenesQuantity>2</AnnotatedGenesQuantity>
+<AnnotatedGenes>CASP3|OCLN</AnnotatedGenes>
+<GenomeFrequency>11/43164 genes: 0.03%</GenomeFrequency>
+</row>
+<row>
+<Pathway>CASP8 activity is inhibited</Pathway>
+<PathwayId>REACT:R-HSA-5218900</PathwayId>
+<P-value>3.24e-6</P-value>
+<CorrectedP-value>5.16e-4</CorrectedP-value>
+<AnnotatedGenesQuantity>2</AnnotatedGenesQuantity>
+<AnnotatedGenes>CFLAR|FAS</AnnotatedGenes>
+<GenomeFrequency>11/43164 genes: 0.03%</GenomeFrequency>
+</row>
+<row>
+<Pathway>Dimerization of procaspase-8</Pathway>
+<PathwayId>REACT:R-HSA-69416</PathwayId>
+<P-value>3.24e-6</P-value>
+<CorrectedP-value>5.16e-4</CorrectedP-value>
+<AnnotatedGenesQuantity>2</AnnotatedGenesQuantity>
+<AnnotatedGenes>CFLAR|FAS</AnnotatedGenes>
+<GenomeFrequency>11/43164 genes: 0.03%</GenomeFrequency>
+</row>
+<row>
+<Pathway>Regulation by c-FLIP</Pathway>
+<PathwayId>REACT:R-HSA-3371378</PathwayId>
+<P-value>3.24e-6</P-value>
+<CorrectedP-value>5.16e-4</CorrectedP-value>
+<AnnotatedGenesQuantity>2</AnnotatedGenesQuantity>
+<AnnotatedGenes>CFLAR|FAS</AnnotatedGenes>
+<GenomeFrequency>11/43164 genes: 0.03%</GenomeFrequency>
+</row>
+<row>
+<Pathway>Hepatitis C</Pathway>
+<PathwayId>KEGG:hsa05160</PathwayId>
+<P-value>4.43e-6</P-value>
+<CorrectedP-value>7.04e-4</CorrectedP-value>
+<AnnotatedGenesQuantity>3</AnnotatedGenesQuantity>
+<AnnotatedGenes>CLDN1|CXCL8|OCLN</AnnotatedGenes>
+<GenomeFrequency>131/43164 genes: 0.30%</GenomeFrequency>
+</row>
+<row>
+<Pathway>Apoptosis</Pathway>
+<PathwayId>KEGG:hsa04210</PathwayId>
+<P-value>5.18e-6</P-value>
+<CorrectedP-value>8.23e-4</CorrectedP-value>
+<AnnotatedGenesQuantity>3</AnnotatedGenesQuantity>
+<AnnotatedGenes>CASP3|CFLAR|FAS</AnnotatedGenes>
+<GenomeFrequency>138/43164 genes: 0.32%</GenomeFrequency>
+</row>
+<row>
+<Pathway>Regulation of necroptotic cell death</Pathway>
+<PathwayId>REACT:R-HSA-5675482</PathwayId>
+<P-value>5.36e-6</P-value>
+<CorrectedP-value>8.53e-4</CorrectedP-value>
+<AnnotatedGenesQuantity>2</AnnotatedGenesQuantity>
+<AnnotatedGenes>CFLAR|FAS</AnnotatedGenes>
+<GenomeFrequency>14/43164 genes: 0.03%</GenomeFrequency>
+</row>
+<row>
+<Pathway>Fluid shear stress and atherosclerosis</Pathway>
+<PathwayId>KEGG:hsa05418</PathwayId>
+<P-value>5.64e-6</P-value>
+<CorrectedP-value>8.97e-4</CorrectedP-value>
+<AnnotatedGenesQuantity>3</AnnotatedGenesQuantity>
+<AnnotatedGenes>CCL2|IL1B|SQSTM1</AnnotatedGenes>
+<GenomeFrequency>142/43164 genes: 0.33%</GenomeFrequency>
+</row>
+<row>
+<Pathway>Hepatitis B</Pathway>
+<PathwayId>KEGG:hsa05161</PathwayId>
+<P-value>5.88e-6</P-value>
+<CorrectedP-value>9.35e-4</CorrectedP-value>
+<AnnotatedGenesQuantity>3</AnnotatedGenesQuantity>
+<AnnotatedGenes>CASP3|CXCL8|FAS</AnnotatedGenes>
+<GenomeFrequency>144/43164 genes: 0.33%</GenomeFrequency>
+</row>
+<row>
+<Pathway>Regulated Necrosis</Pathway>
+<PathwayId>REACT:R-HSA-5218859</PathwayId>
+<P-value>7.07e-6</P-value>
+<CorrectedP-value>0.00112</CorrectedP-value>
+<AnnotatedGenesQuantity>2</AnnotatedGenesQuantity>
+<AnnotatedGenes>CFLAR|FAS</AnnotatedGenes>
+<GenomeFrequency>16/43164 genes: 0.04%</GenomeFrequency>
+</row>
+<row>
+<Pathway>RIPK1-mediated regulated necrosis</Pathway>
+<PathwayId>REACT:R-HSA-5213460</PathwayId>
+<P-value>7.07e-6</P-value>
+<CorrectedP-value>0.00112</CorrectedP-value>
+<AnnotatedGenesQuantity>2</AnnotatedGenesQuantity>
+<AnnotatedGenes>CFLAR|FAS</AnnotatedGenes>
+<GenomeFrequency>16/43164 genes: 0.04%</GenomeFrequency>
+</row>
+<row>
+<Pathway>Ligand-dependent caspase activation</Pathway>
+<PathwayId>REACT:R-HSA-140534</PathwayId>
+<P-value>8.01e-6</P-value>
+<CorrectedP-value>0.00127</CorrectedP-value>
+<AnnotatedGenesQuantity>2</AnnotatedGenesQuantity>
+<AnnotatedGenes>CFLAR|FAS</AnnotatedGenes>
+<GenomeFrequency>17/43164 genes: 0.04%</GenomeFrequency>
+</row>
+<row>
+<Pathway>Alzheimer&apos;s disease</Pathway>
+<PathwayId>KEGG:hsa05010</PathwayId>
+<P-value>9.85e-6</P-value>
+<CorrectedP-value>0.00157</CorrectedP-value>
+<AnnotatedGenesQuantity>3</AnnotatedGenesQuantity>
+<AnnotatedGenes>CASP3|FAS|IL1B</AnnotatedGenes>
+<GenomeFrequency>171/43164 genes: 0.40%</GenomeFrequency>
+</row>
+<row>
+<Pathway>Tuberculosis</Pathway>
+<PathwayId>KEGG:hsa05152</PathwayId>
+<P-value>1.11e-5</P-value>
+<CorrectedP-value>0.00177</CorrectedP-value>
+<AnnotatedGenesQuantity>3</AnnotatedGenesQuantity>
+<AnnotatedGenes>CASP3|IL1B|NOS2</AnnotatedGenes>
+<GenomeFrequency>178/43164 genes: 0.41%</GenomeFrequency>
+</row>
+<row>
+<Pathway>ATF4 activates genes</Pathway>
+<PathwayId>REACT:R-HSA-380994</PathwayId>
+<P-value>2.07e-5</P-value>
+<CorrectedP-value>0.00328</CorrectedP-value>
+<AnnotatedGenesQuantity>2</AnnotatedGenesQuantity>
+<AnnotatedGenes>CCL2|CXCL8</AnnotatedGenes>
+<GenomeFrequency>27/43164 genes: 0.06%</GenomeFrequency>
+</row>
+<row>
+<Pathway>PERK regulates gene expression</Pathway>
+<PathwayId>REACT:R-HSA-381042</PathwayId>
+<P-value>2.56e-5</P-value>
+<CorrectedP-value>0.00407</CorrectedP-value>
+<AnnotatedGenesQuantity>2</AnnotatedGenesQuantity>
+<AnnotatedGenes>CCL2|CXCL8</AnnotatedGenes>
+<GenomeFrequency>30/43164 genes: 0.07%</GenomeFrequency>
+</row>
+<row>
+<Pathway>MAPK signaling pathway</Pathway>
+<PathwayId>KEGG:hsa04010</PathwayId>
+<P-value>3.25e-5</P-value>
+<CorrectedP-value>0.00516</CorrectedP-value>
+<AnnotatedGenesQuantity>3</AnnotatedGenesQuantity>
+<AnnotatedGenes>CASP3|FAS|IL1B</AnnotatedGenes>
+<GenomeFrequency>255/43164 genes: 0.59%</GenomeFrequency>
+</row>
+<row>
+<Pathway>African trypanosomiasis</Pathway>
+<PathwayId>KEGG:hsa05143</PathwayId>
+<P-value>3.30e-5</P-value>
+<CorrectedP-value>0.00524</CorrectedP-value>
+<AnnotatedGenesQuantity>2</AnnotatedGenesQuantity>
+<AnnotatedGenes>FAS|IL1B</AnnotatedGenes>
+<GenomeFrequency>34/43164 genes: 0.08%</GenomeFrequency>
+</row>
+<row>
+<Pathway>Apoptotic cleavage of cellular proteins</Pathway>
+<PathwayId>REACT:R-HSA-111465</PathwayId>
+<P-value>4.35e-5</P-value>
+<CorrectedP-value>0.00692</CorrectedP-value>
+<AnnotatedGenesQuantity>2</AnnotatedGenesQuantity>
+<AnnotatedGenes>CASP3|OCLN</AnnotatedGenes>
+<GenomeFrequency>39/43164 genes: 0.09%</GenomeFrequency>
+</row>
+<row>
+<Pathway>Graft-versus-host disease</Pathway>
+<PathwayId>KEGG:hsa05332</PathwayId>
+<P-value>4.82e-5</P-value>
+<CorrectedP-value>0.00766</CorrectedP-value>
+<AnnotatedGenesQuantity>2</AnnotatedGenesQuantity>
+<AnnotatedGenes>FAS|IL1B</AnnotatedGenes>
+<GenomeFrequency>41/43164 genes: 0.09%</GenomeFrequency>
+</row>
+<row>
+<Pathway>Type I diabetes mellitus</Pathway>
+<PathwayId>KEGG:hsa04940</PathwayId>
+<P-value>5.30e-5</P-value>
+<CorrectedP-value>0.00843</CorrectedP-value>
+<AnnotatedGenesQuantity>2</AnnotatedGenesQuantity>
+<AnnotatedGenes>FAS|IL1B</AnnotatedGenes>
+<GenomeFrequency>43/43164 genes: 0.10%</GenomeFrequency>
+</row>
+<row>
+<Pathway>Interleukin-1 signaling</Pathway>
+<PathwayId>REACT:R-HSA-446652</PathwayId>
+<P-value>6.07e-5</P-value>
+<CorrectedP-value>0.00966</CorrectedP-value>
+<AnnotatedGenesQuantity>2</AnnotatedGenesQuantity>
+<AnnotatedGenes>IL1B|SQSTM1</AnnotatedGenes>
+<GenomeFrequency>46/43164 genes: 0.11%</GenomeFrequency>
+</row>
+</table>

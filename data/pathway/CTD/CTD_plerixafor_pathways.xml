@@ -1,0 +1,282 @@
+<?xml version="1.0"?>
+<table>
+<row>
+<Pathway>Pathways in cancer</Pathway>
+<PathwayId>KEGG:hsa05200</PathwayId>
+<P-value>1.31e-13</P-value>
+<CorrectedP-value>3.86e-11</CorrectedP-value>
+<AnnotatedGenesQuantity>8</AnnotatedGenesQuantity>
+<AnnotatedGenes>AKT1|CDH1|CXCL12|CXCR4|KITLG|MMP1|MMP9|VEGFA</AnnotatedGenes>
+<GenomeFrequency>395/43164 genes: 0.92%</GenomeFrequency>
+</row>
+<row>
+<Pathway>Degradation of the extracellular matrix</Pathway>
+<PathwayId>REACT:R-HSA-1474228</PathwayId>
+<P-value>2.11e-10</P-value>
+<CorrectedP-value>6.21e-8</CorrectedP-value>
+<AnnotatedGenesQuantity>5</AnnotatedGenesQuantity>
+<AnnotatedGenes>ADAMTS1|CDH1|CTSV|MMP1|MMP9</AnnotatedGenes>
+<GenomeFrequency>112/43164 genes: 0.26%</GenomeFrequency>
+</row>
+<row>
+<Pathway>Bladder cancer</Pathway>
+<PathwayId>KEGG:hsa05219</PathwayId>
+<P-value>6.96e-10</P-value>
+<CorrectedP-value>2.05e-7</CorrectedP-value>
+<AnnotatedGenesQuantity>4</AnnotatedGenesQuantity>
+<AnnotatedGenes>CDH1|MMP1|MMP9|VEGFA</AnnotatedGenes>
+<GenomeFrequency>41/43164 genes: 0.09%</GenomeFrequency>
+</row>
+<row>
+<Pathway>Immune System</Pathway>
+<PathwayId>REACT:R-HSA-168256</PathwayId>
+<P-value>2.59e-9</P-value>
+<CorrectedP-value>7.63e-7</CorrectedP-value>
+<AnnotatedGenesQuantity>9</AnnotatedGenesQuantity>
+<AnnotatedGenes>AKT1|CDH1|CTSV|KITLG|MMP1|MMP9|NOS3|TNFAIP6|VEGFA</AnnotatedGenes>
+<GenomeFrequency>2118/43164 genes: 4.91%</GenomeFrequency>
+</row>
+<row>
+<Pathway>Signal Transduction</Pathway>
+<PathwayId>REACT:R-HSA-162582</PathwayId>
+<P-value>1.50e-8</P-value>
+<CorrectedP-value>4.40e-6</CorrectedP-value>
+<AnnotatedGenesQuantity>9</AnnotatedGenesQuantity>
+<AnnotatedGenes>AKT1|CDH1|CXCL12|CXCR4|KITLG|MMP9|NOS3|PGR|VEGFA</AnnotatedGenes>
+<GenomeFrequency>2587/43164 genes: 5.99%</GenomeFrequency>
+</row>
+<row>
+<Pathway>Extracellular matrix organization</Pathway>
+<PathwayId>REACT:R-HSA-1474244</PathwayId>
+<P-value>2.84e-8</P-value>
+<CorrectedP-value>8.34e-6</CorrectedP-value>
+<AnnotatedGenesQuantity>5</AnnotatedGenesQuantity>
+<AnnotatedGenes>ADAMTS1|CDH1|CTSV|MMP1|MMP9</AnnotatedGenes>
+<GenomeFrequency>297/43164 genes: 0.69%</GenomeFrequency>
+</row>
+<row>
+<Pathway>Interleukin-4 and 13 signaling</Pathway>
+<PathwayId>REACT:R-HSA-6785807</PathwayId>
+<P-value>4.53e-8</P-value>
+<CorrectedP-value>1.33e-5</CorrectedP-value>
+<AnnotatedGenesQuantity>4</AnnotatedGenesQuantity>
+<AnnotatedGenes>AKT1|MMP1|MMP9|VEGFA</AnnotatedGenes>
+<GenomeFrequency>114/43164 genes: 0.26%</GenomeFrequency>
+</row>
+<row>
+<Pathway>Fluid shear stress and atherosclerosis</Pathway>
+<PathwayId>KEGG:hsa05418</PathwayId>
+<P-value>1.10e-7</P-value>
+<CorrectedP-value>3.22e-5</CorrectedP-value>
+<AnnotatedGenesQuantity>4</AnnotatedGenesQuantity>
+<AnnotatedGenes>AKT1|MMP9|NOS3|VEGFA</AnnotatedGenes>
+<GenomeFrequency>142/43164 genes: 0.33%</GenomeFrequency>
+</row>
+<row>
+<Pathway>Activation of Matrix Metalloproteinases</Pathway>
+<PathwayId>REACT:R-HSA-1592389</PathwayId>
+<P-value>1.47e-7</P-value>
+<CorrectedP-value>4.33e-5</CorrectedP-value>
+<AnnotatedGenesQuantity>3</AnnotatedGenesQuantity>
+<AnnotatedGenes>CTSV|MMP1|MMP9</AnnotatedGenes>
+<GenomeFrequency>33/43164 genes: 0.08%</GenomeFrequency>
+</row>
+<row>
+<Pathway>Signaling by Interleukins</Pathway>
+<PathwayId>REACT:R-HSA-449147</PathwayId>
+<P-value>4.91e-7</P-value>
+<CorrectedP-value>1.44e-4</CorrectedP-value>
+<AnnotatedGenesQuantity>5</AnnotatedGenesQuantity>
+<AnnotatedGenes>AKT1|KITLG|MMP1|MMP9|VEGFA</AnnotatedGenes>
+<GenomeFrequency>528/43164 genes: 1.22%</GenomeFrequency>
+</row>
+<row>
+<Pathway>Rap1 signaling pathway</Pathway>
+<PathwayId>KEGG:hsa04015</PathwayId>
+<P-value>5.25e-7</P-value>
+<CorrectedP-value>1.54e-4</CorrectedP-value>
+<AnnotatedGenesQuantity>4</AnnotatedGenesQuantity>
+<AnnotatedGenes>AKT1|CDH1|KITLG|VEGFA</AnnotatedGenes>
+<GenomeFrequency>210/43164 genes: 0.49%</GenomeFrequency>
+</row>
+<row>
+<Pathway>VEGF signaling pathway</Pathway>
+<PathwayId>KEGG:hsa04370</PathwayId>
+<P-value>8.74e-7</P-value>
+<CorrectedP-value>2.57e-4</CorrectedP-value>
+<AnnotatedGenesQuantity>3</AnnotatedGenesQuantity>
+<AnnotatedGenes>AKT1|NOS3|VEGFA</AnnotatedGenes>
+<GenomeFrequency>59/43164 genes: 0.14%</GenomeFrequency>
+</row>
+<row>
+<Pathway>Cytokine-cytokine receptor interaction</Pathway>
+<PathwayId>KEGG:hsa04060</PathwayId>
+<P-value>1.43e-6</P-value>
+<CorrectedP-value>4.19e-4</CorrectedP-value>
+<AnnotatedGenesQuantity>4</AnnotatedGenesQuantity>
+<AnnotatedGenes>CXCL12|CXCR4|KITLG|VEGFA</AnnotatedGenes>
+<GenomeFrequency>270/43164 genes: 0.63%</GenomeFrequency>
+</row>
+<row>
+<Pathway>Innate Immune System</Pathway>
+<PathwayId>REACT:R-HSA-168249</PathwayId>
+<P-value>1.78e-6</P-value>
+<CorrectedP-value>5.25e-4</CorrectedP-value>
+<AnnotatedGenesQuantity>6</AnnotatedGenesQuantity>
+<AnnotatedGenes>AKT1|CTSV|KITLG|MMP9|NOS3|TNFAIP6</AnnotatedGenes>
+<GenomeFrequency>1298/43164 genes: 3.01%</GenomeFrequency>
+</row>
+<row>
+<Pathway>Cytokine Signaling in Immune system</Pathway>
+<PathwayId>REACT:R-HSA-1280215</PathwayId>
+<P-value>2.93e-6</P-value>
+<CorrectedP-value>8.62e-4</CorrectedP-value>
+<AnnotatedGenesQuantity>5</AnnotatedGenesQuantity>
+<AnnotatedGenes>AKT1|KITLG|MMP1|MMP9|VEGFA</AnnotatedGenes>
+<GenomeFrequency>760/43164 genes: 1.76%</GenomeFrequency>
+</row>
+<row>
+<Pathway>Rheumatoid arthritis</Pathway>
+<PathwayId>KEGG:hsa05323</PathwayId>
+<P-value>3.03e-6</P-value>
+<CorrectedP-value>8.92e-4</CorrectedP-value>
+<AnnotatedGenesQuantity>3</AnnotatedGenesQuantity>
+<AnnotatedGenes>CXCL12|MMP1|VEGFA</AnnotatedGenes>
+<GenomeFrequency>89/43164 genes: 0.21%</GenomeFrequency>
+</row>
+<row>
+<Pathway>VEGFA-VEGFR2 Pathway</Pathway>
+<PathwayId>REACT:R-HSA-4420097</PathwayId>
+<P-value>3.16e-6</P-value>
+<CorrectedP-value>9.29e-4</CorrectedP-value>
+<AnnotatedGenesQuantity>4</AnnotatedGenesQuantity>
+<AnnotatedGenes>AKT1|KITLG|NOS3|VEGFA</AnnotatedGenes>
+<GenomeFrequency>330/43164 genes: 0.76%</GenomeFrequency>
+</row>
+<row>
+<Pathway>Signaling by VEGF</Pathway>
+<PathwayId>REACT:R-HSA-194138</PathwayId>
+<P-value>3.48e-6</P-value>
+<CorrectedP-value>0.00102</CorrectedP-value>
+<AnnotatedGenesQuantity>4</AnnotatedGenesQuantity>
+<AnnotatedGenes>AKT1|KITLG|NOS3|VEGFA</AnnotatedGenes>
+<GenomeFrequency>338/43164 genes: 0.78%</GenomeFrequency>
+</row>
+<row>
+<Pathway>PI3K-Akt signaling pathway</Pathway>
+<PathwayId>KEGG:hsa04151</PathwayId>
+<P-value>3.60e-6</P-value>
+<CorrectedP-value>0.00106</CorrectedP-value>
+<AnnotatedGenesQuantity>4</AnnotatedGenesQuantity>
+<AnnotatedGenes>AKT1|KITLG|NOS3|VEGFA</AnnotatedGenes>
+<GenomeFrequency>341/43164 genes: 0.79%</GenomeFrequency>
+</row>
+<row>
+<Pathway>Estrogen signaling pathway</Pathway>
+<PathwayId>KEGG:hsa04915</PathwayId>
+<P-value>4.06e-6</P-value>
+<CorrectedP-value>0.00119</CorrectedP-value>
+<AnnotatedGenesQuantity>3</AnnotatedGenesQuantity>
+<AnnotatedGenes>AKT1|MMP9|NOS3</AnnotatedGenes>
+<GenomeFrequency>98/43164 genes: 0.23%</GenomeFrequency>
+</row>
+<row>
+<Pathway>AGE-RAGE signaling pathway in diabetic complications</Pathway>
+<PathwayId>KEGG:hsa04933</PathwayId>
+<P-value>4.18e-6</P-value>
+<CorrectedP-value>0.00123</CorrectedP-value>
+<AnnotatedGenesQuantity>3</AnnotatedGenesQuantity>
+<AnnotatedGenes>AKT1|NOS3|VEGFA</AnnotatedGenes>
+<GenomeFrequency>99/43164 genes: 0.23%</GenomeFrequency>
+</row>
+<row>
+<Pathway>HIF-1 signaling pathway</Pathway>
+<PathwayId>KEGG:hsa04066</PathwayId>
+<P-value>4.44e-6</P-value>
+<CorrectedP-value>0.00131</CorrectedP-value>
+<AnnotatedGenesQuantity>3</AnnotatedGenesQuantity>
+<AnnotatedGenes>AKT1|NOS3|VEGFA</AnnotatedGenes>
+<GenomeFrequency>101/43164 genes: 0.23%</GenomeFrequency>
+</row>
+<row>
+<Pathway>Disease</Pathway>
+<PathwayId>REACT:R-HSA-1643685</PathwayId>
+<P-value>5.35e-6</P-value>
+<CorrectedP-value>0.00157</CorrectedP-value>
+<AnnotatedGenesQuantity>5</AnnotatedGenesQuantity>
+<AnnotatedGenes>ADAMTS1|AKT1|CDH1|CXCR4|KITLG</AnnotatedGenes>
+<GenomeFrequency>860/43164 genes: 1.99%</GenomeFrequency>
+</row>
+<row>
+<Pathway>Leukocyte transendothelial migration</Pathway>
+<PathwayId>KEGG:hsa04670</PathwayId>
+<P-value>6.39e-6</P-value>
+<CorrectedP-value>0.00188</CorrectedP-value>
+<AnnotatedGenesQuantity>3</AnnotatedGenesQuantity>
+<AnnotatedGenes>CXCL12|CXCR4|MMP9</AnnotatedGenes>
+<GenomeFrequency>114/43164 genes: 0.26%</GenomeFrequency>
+</row>
+<row>
+<Pathway>eNOS activation</Pathway>
+<PathwayId>REACT:R-HSA-203615</PathwayId>
+<P-value>6.44e-6</P-value>
+<CorrectedP-value>0.00189</CorrectedP-value>
+<AnnotatedGenesQuantity>2</AnnotatedGenesQuantity>
+<AnnotatedGenes>AKT1|NOS3</AnnotatedGenes>
+<GenomeFrequency>12/43164 genes: 0.03%</GenomeFrequency>
+</row>
+<row>
+<Pathway>Tetrahydrobiopterin (BH4) synthesis, recycling, salvage and regulation</Pathway>
+<PathwayId>REACT:R-HSA-1474151</PathwayId>
+<P-value>6.44e-6</P-value>
+<CorrectedP-value>0.00189</CorrectedP-value>
+<AnnotatedGenesQuantity>2</AnnotatedGenesQuantity>
+<AnnotatedGenes>AKT1|NOS3</AnnotatedGenes>
+<GenomeFrequency>12/43164 genes: 0.03%</GenomeFrequency>
+</row>
+<row>
+<Pathway>Apelin signaling pathway</Pathway>
+<PathwayId>KEGG:hsa04371</PathwayId>
+<P-value>1.13e-5</P-value>
+<CorrectedP-value>0.00333</CorrectedP-value>
+<AnnotatedGenesQuantity>3</AnnotatedGenesQuantity>
+<AnnotatedGenes>AKT1|CDH1|NOS3</AnnotatedGenes>
+<GenomeFrequency>138/43164 genes: 0.32%</GenomeFrequency>
+</row>
+<row>
+<Pathway>eNOS activation and regulation</Pathway>
+<PathwayId>REACT:R-HSA-203765</PathwayId>
+<P-value>2.25e-5</P-value>
+<CorrectedP-value>0.00661</CorrectedP-value>
+<AnnotatedGenesQuantity>2</AnnotatedGenesQuantity>
+<AnnotatedGenes>AKT1|NOS3</AnnotatedGenes>
+<GenomeFrequency>22/43164 genes: 0.05%</GenomeFrequency>
+</row>
+<row>
+<Pathway>Metabolism of nitric oxide</Pathway>
+<PathwayId>REACT:R-HSA-202131</PathwayId>
+<P-value>2.25e-5</P-value>
+<CorrectedP-value>0.00661</CorrectedP-value>
+<AnnotatedGenesQuantity>2</AnnotatedGenesQuantity>
+<AnnotatedGenes>AKT1|NOS3</AnnotatedGenes>
+<GenomeFrequency>22/43164 genes: 0.05%</GenomeFrequency>
+</row>
+<row>
+<Pathway>Chemokine signaling pathway</Pathway>
+<PathwayId>KEGG:hsa04062</PathwayId>
+<P-value>2.59e-5</P-value>
+<CorrectedP-value>0.00763</CorrectedP-value>
+<AnnotatedGenesQuantity>3</AnnotatedGenesQuantity>
+<AnnotatedGenes>AKT1|CXCL12|CXCR4</AnnotatedGenes>
+<GenomeFrequency>182/43164 genes: 0.42%</GenomeFrequency>
+</row>
+<row>
+<Pathway>Nuclear signaling by ERBB4</Pathway>
+<PathwayId>REACT:R-HSA-1251985</PathwayId>
+<P-value>2.92e-5</P-value>
+<CorrectedP-value>0.00858</CorrectedP-value>
+<AnnotatedGenesQuantity>2</AnnotatedGenesQuantity>
+<AnnotatedGenes>CXCL12|PGR</AnnotatedGenes>
+<GenomeFrequency>25/43164 genes: 0.06%</GenomeFrequency>
+</row>
+</table>

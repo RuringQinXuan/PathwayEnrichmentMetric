@@ -1,0 +1,327 @@
+<?xml version="1.0"?>
+<table>
+<row>
+<Pathway>MAPK signaling pathway</Pathway>
+<PathwayId>KEGG:hsa04010</PathwayId>
+<P-value>1.16e-10</P-value>
+<CorrectedP-value>3.16e-8</CorrectedP-value>
+<AnnotatedGenesQuantity>6</AnnotatedGenesQuantity>
+<AnnotatedGenes>CACNA1C|CACNA2D1|CASP3|FOS|TGFB1|TNF</AnnotatedGenes>
+<GenomeFrequency>255/43164 genes: 0.59%</GenomeFrequency>
+</row>
+<row>
+<Pathway>Amphetamine addiction</Pathway>
+<PathwayId>KEGG:hsa05031</PathwayId>
+<P-value>5.57e-9</P-value>
+<CorrectedP-value>1.52e-6</CorrectedP-value>
+<AnnotatedGenesQuantity>4</AnnotatedGenesQuantity>
+<AnnotatedGenes>CACNA1C|FOS|STX1A|TH</AnnotatedGenes>
+<GenomeFrequency>68/43164 genes: 0.16%</GenomeFrequency>
+</row>
+<row>
+<Pathway>Hypertrophic cardiomyopathy (HCM)</Pathway>
+<PathwayId>KEGG:hsa05410</PathwayId>
+<P-value>1.25e-8</P-value>
+<CorrectedP-value>3.42e-6</CorrectedP-value>
+<AnnotatedGenesQuantity>4</AnnotatedGenesQuantity>
+<AnnotatedGenes>CACNA1C|CACNA2D1|TGFB1|TNF</AnnotatedGenes>
+<GenomeFrequency>83/43164 genes: 0.19%</GenomeFrequency>
+</row>
+<row>
+<Pathway>Dilated cardiomyopathy</Pathway>
+<PathwayId>KEGG:hsa05414</PathwayId>
+<P-value>1.66e-8</P-value>
+<CorrectedP-value>4.54e-6</CorrectedP-value>
+<AnnotatedGenesQuantity>4</AnnotatedGenesQuantity>
+<AnnotatedGenes>CACNA1C|CACNA2D1|TGFB1|TNF</AnnotatedGenes>
+<GenomeFrequency>89/43164 genes: 0.21%</GenomeFrequency>
+</row>
+<row>
+<Pathway>Dopaminergic synapse</Pathway>
+<PathwayId>KEGG:hsa04728</PathwayId>
+<P-value>7.68e-8</P-value>
+<CorrectedP-value>2.10e-5</CorrectedP-value>
+<AnnotatedGenesQuantity>4</AnnotatedGenesQuantity>
+<AnnotatedGenes>CACNA1C|DRD2|FOS|TH</AnnotatedGenes>
+<GenomeFrequency>130/43164 genes: 0.30%</GenomeFrequency>
+</row>
+<row>
+<Pathway>Hepatitis B</Pathway>
+<PathwayId>KEGG:hsa05161</PathwayId>
+<P-value>1.16e-7</P-value>
+<CorrectedP-value>3.16e-5</CorrectedP-value>
+<AnnotatedGenesQuantity>4</AnnotatedGenesQuantity>
+<AnnotatedGenes>CASP3|FOS|TGFB1|TNF</AnnotatedGenes>
+<GenomeFrequency>144/43164 genes: 0.33%</GenomeFrequency>
+</row>
+<row>
+<Pathway>Signaling by Interleukins</Pathway>
+<PathwayId>REACT:R-HSA-449147</PathwayId>
+<P-value>4.91e-7</P-value>
+<CorrectedP-value>1.34e-4</CorrectedP-value>
+<AnnotatedGenesQuantity>5</AnnotatedGenesQuantity>
+<AnnotatedGenes>CASP3|FOS|STX1A|TGFB1|TNF</AnnotatedGenes>
+<GenomeFrequency>528/43164 genes: 1.22%</GenomeFrequency>
+</row>
+<row>
+<Pathway>Colorectal cancer</Pathway>
+<PathwayId>KEGG:hsa05210</PathwayId>
+<P-value>9.19e-7</P-value>
+<CorrectedP-value>2.51e-4</CorrectedP-value>
+<AnnotatedGenesQuantity>3</AnnotatedGenesQuantity>
+<AnnotatedGenes>CASP3|FOS|TGFB1</AnnotatedGenes>
+<GenomeFrequency>60/43164 genes: 0.14%</GenomeFrequency>
+</row>
+<row>
+<Pathway>Neuroactive ligand-receptor interaction</Pathway>
+<PathwayId>KEGG:hsa04080</PathwayId>
+<P-value>1.58e-6</P-value>
+<CorrectedP-value>4.31e-4</CorrectedP-value>
+<AnnotatedGenesQuantity>4</AnnotatedGenesQuantity>
+<AnnotatedGenes>ADRA2A|CNR1|DRD2|P2RX3</AnnotatedGenes>
+<GenomeFrequency>277/43164 genes: 0.64%</GenomeFrequency>
+</row>
+<row>
+<Pathway>Leishmaniasis</Pathway>
+<PathwayId>KEGG:hsa05140</PathwayId>
+<P-value>1.60e-6</P-value>
+<CorrectedP-value>4.36e-4</CorrectedP-value>
+<AnnotatedGenesQuantity>3</AnnotatedGenesQuantity>
+<AnnotatedGenes>FOS|TGFB1|TNF</AnnotatedGenes>
+<GenomeFrequency>72/43164 genes: 0.17%</GenomeFrequency>
+</row>
+<row>
+<Pathway>Pertussis</Pathway>
+<PathwayId>KEGG:hsa05133</PathwayId>
+<P-value>1.88e-6</P-value>
+<CorrectedP-value>5.14e-4</CorrectedP-value>
+<AnnotatedGenesQuantity>3</AnnotatedGenesQuantity>
+<AnnotatedGenes>CASP3|FOS|TNF</AnnotatedGenes>
+<GenomeFrequency>76/43164 genes: 0.18%</GenomeFrequency>
+</row>
+<row>
+<Pathway>Regulation of insulin secretion</Pathway>
+<PathwayId>REACT:R-HSA-422356</PathwayId>
+<P-value>2.20e-6</P-value>
+<CorrectedP-value>6.00e-4</CorrectedP-value>
+<AnnotatedGenesQuantity>3</AnnotatedGenesQuantity>
+<AnnotatedGenes>ADRA2A|CACNA1C|STX1A</AnnotatedGenes>
+<GenomeFrequency>80/43164 genes: 0.19%</GenomeFrequency>
+</row>
+<row>
+<Pathway>Class A/1 (Rhodopsin-like receptors)</Pathway>
+<PathwayId>REACT:R-HSA-373076</PathwayId>
+<P-value>2.87e-6</P-value>
+<CorrectedP-value>7.83e-4</CorrectedP-value>
+<AnnotatedGenesQuantity>4</AnnotatedGenesQuantity>
+<AnnotatedGenes>ADRA2A|CNR1|DRD2|TAC1</AnnotatedGenes>
+<GenomeFrequency>322/43164 genes: 0.75%</GenomeFrequency>
+</row>
+<row>
+<Pathway>Cytokine Signaling in Immune system</Pathway>
+<PathwayId>REACT:R-HSA-1280215</PathwayId>
+<P-value>2.93e-6</P-value>
+<CorrectedP-value>8.00e-4</CorrectedP-value>
+<AnnotatedGenesQuantity>5</AnnotatedGenesQuantity>
+<AnnotatedGenes>CASP3|FOS|STX1A|TGFB1|TNF</AnnotatedGenes>
+<GenomeFrequency>760/43164 genes: 1.76%</GenomeFrequency>
+</row>
+<row>
+<Pathway>Rheumatoid arthritis</Pathway>
+<PathwayId>KEGG:hsa05323</PathwayId>
+<P-value>3.03e-6</P-value>
+<CorrectedP-value>8.28e-4</CorrectedP-value>
+<AnnotatedGenesQuantity>3</AnnotatedGenesQuantity>
+<AnnotatedGenes>FOS|TGFB1|TNF</AnnotatedGenes>
+<GenomeFrequency>89/43164 genes: 0.21%</GenomeFrequency>
+</row>
+<row>
+<Pathway>IL-17 signaling pathway</Pathway>
+<PathwayId>KEGG:hsa04657</PathwayId>
+<P-value>3.46e-6</P-value>
+<CorrectedP-value>9.46e-4</CorrectedP-value>
+<AnnotatedGenesQuantity>3</AnnotatedGenesQuantity>
+<AnnotatedGenes>CASP3|FOS|TNF</AnnotatedGenes>
+<GenomeFrequency>93/43164 genes: 0.22%</GenomeFrequency>
+</row>
+<row>
+<Pathway>Amoebiasis</Pathway>
+<PathwayId>KEGG:hsa05146</PathwayId>
+<P-value>3.69e-6</P-value>
+<CorrectedP-value>0.00101</CorrectedP-value>
+<AnnotatedGenesQuantity>3</AnnotatedGenesQuantity>
+<AnnotatedGenes>CASP3|TGFB1|TNF</AnnotatedGenes>
+<GenomeFrequency>95/43164 genes: 0.22%</GenomeFrequency>
+</row>
+<row>
+<Pathway>AGE-RAGE signaling pathway in diabetic complications</Pathway>
+<PathwayId>KEGG:hsa04933</PathwayId>
+<P-value>4.18e-6</P-value>
+<CorrectedP-value>0.00114</CorrectedP-value>
+<AnnotatedGenesQuantity>3</AnnotatedGenesQuantity>
+<AnnotatedGenes>CASP3|TGFB1|TNF</AnnotatedGenes>
+<GenomeFrequency>99/43164 genes: 0.23%</GenomeFrequency>
+</row>
+<row>
+<Pathway>Chagas disease (American trypanosomiasis)</Pathway>
+<PathwayId>KEGG:hsa05142</PathwayId>
+<P-value>4.58e-6</P-value>
+<CorrectedP-value>0.00125</CorrectedP-value>
+<AnnotatedGenesQuantity>3</AnnotatedGenesQuantity>
+<AnnotatedGenes>FOS|TGFB1|TNF</AnnotatedGenes>
+<GenomeFrequency>102/43164 genes: 0.24%</GenomeFrequency>
+</row>
+<row>
+<Pathway>TNF signaling pathway</Pathway>
+<PathwayId>KEGG:hsa04668</PathwayId>
+<P-value>5.43e-6</P-value>
+<CorrectedP-value>0.00148</CorrectedP-value>
+<AnnotatedGenesQuantity>3</AnnotatedGenesQuantity>
+<AnnotatedGenes>CASP3|FOS|TNF</AnnotatedGenes>
+<GenomeFrequency>108/43164 genes: 0.25%</GenomeFrequency>
+</row>
+<row>
+<Pathway>Integration of energy metabolism</Pathway>
+<PathwayId>REACT:R-HSA-163685</PathwayId>
+<P-value>5.90e-6</P-value>
+<CorrectedP-value>0.00161</CorrectedP-value>
+<AnnotatedGenesQuantity>3</AnnotatedGenesQuantity>
+<AnnotatedGenes>ADRA2A|CACNA1C|STX1A</AnnotatedGenes>
+<GenomeFrequency>111/43164 genes: 0.26%</GenomeFrequency>
+</row>
+<row>
+<Pathway>Toxoplasmosis</Pathway>
+<PathwayId>KEGG:hsa05145</PathwayId>
+<P-value>6.23e-6</P-value>
+<CorrectedP-value>0.00170</CorrectedP-value>
+<AnnotatedGenesQuantity>3</AnnotatedGenesQuantity>
+<AnnotatedGenes>CASP3|TGFB1|TNF</AnnotatedGenes>
+<GenomeFrequency>113/43164 genes: 0.26%</GenomeFrequency>
+</row>
+<row>
+<Pathway>Interleukin-4 and 13 signaling</Pathway>
+<PathwayId>REACT:R-HSA-6785807</PathwayId>
+<P-value>6.39e-6</P-value>
+<CorrectedP-value>0.00175</CorrectedP-value>
+<AnnotatedGenesQuantity>3</AnnotatedGenesQuantity>
+<AnnotatedGenes>FOS|TGFB1|TNF</AnnotatedGenes>
+<GenomeFrequency>114/43164 genes: 0.26%</GenomeFrequency>
+</row>
+<row>
+<Pathway>Signal Transduction</Pathway>
+<PathwayId>REACT:R-HSA-162582</PathwayId>
+<P-value>6.50e-6</P-value>
+<CorrectedP-value>0.00178</CorrectedP-value>
+<AnnotatedGenesQuantity>7</AnnotatedGenesQuantity>
+<AnnotatedGenes>ADRA2A|CASP3|CNR1|DRD2|TAC1|TGFB1|TNF</AnnotatedGenes>
+<GenomeFrequency>2587/43164 genes: 5.99%</GenomeFrequency>
+</row>
+<row>
+<Pathway>Osteoclast differentiation</Pathway>
+<PathwayId>KEGG:hsa04380</PathwayId>
+<P-value>9.27e-6</P-value>
+<CorrectedP-value>0.00253</CorrectedP-value>
+<AnnotatedGenesQuantity>3</AnnotatedGenesQuantity>
+<AnnotatedGenes>FOS|TGFB1|TNF</AnnotatedGenes>
+<GenomeFrequency>129/43164 genes: 0.30%</GenomeFrequency>
+</row>
+<row>
+<Pathway>GPCR ligand binding</Pathway>
+<PathwayId>REACT:R-HSA-500792</PathwayId>
+<P-value>1.11e-5</P-value>
+<CorrectedP-value>0.00304</CorrectedP-value>
+<AnnotatedGenesQuantity>4</AnnotatedGenesQuantity>
+<AnnotatedGenes>ADRA2A|CNR1|DRD2|TAC1</AnnotatedGenes>
+<GenomeFrequency>454/43164 genes: 1.05%</GenomeFrequency>
+</row>
+<row>
+<Pathway>Apoptosis</Pathway>
+<PathwayId>KEGG:hsa04210</PathwayId>
+<P-value>1.13e-5</P-value>
+<CorrectedP-value>0.00310</CorrectedP-value>
+<AnnotatedGenesQuantity>3</AnnotatedGenesQuantity>
+<AnnotatedGenes>CASP3|FOS|TNF</AnnotatedGenes>
+<GenomeFrequency>138/43164 genes: 0.32%</GenomeFrequency>
+</row>
+<row>
+<Pathway>Parkinson&apos;s disease</Pathway>
+<PathwayId>KEGG:hsa05012</PathwayId>
+<P-value>1.24e-5</P-value>
+<CorrectedP-value>0.00337</CorrectedP-value>
+<AnnotatedGenesQuantity>3</AnnotatedGenesQuantity>
+<AnnotatedGenes>CASP3|DRD2|TH</AnnotatedGenes>
+<GenomeFrequency>142/43164 genes: 0.33%</GenomeFrequency>
+</row>
+<row>
+<Pathway>Non-alcoholic fatty liver disease (NAFLD)</Pathway>
+<PathwayId>KEGG:hsa04932</PathwayId>
+<P-value>1.43e-5</P-value>
+<CorrectedP-value>0.00390</CorrectedP-value>
+<AnnotatedGenesQuantity>3</AnnotatedGenesQuantity>
+<AnnotatedGenes>CASP3|TGFB1|TNF</AnnotatedGenes>
+<GenomeFrequency>149/43164 genes: 0.35%</GenomeFrequency>
+</row>
+<row>
+<Pathway>Oxytocin signaling pathway</Pathway>
+<PathwayId>KEGG:hsa04921</PathwayId>
+<P-value>1.51e-5</P-value>
+<CorrectedP-value>0.00413</CorrectedP-value>
+<AnnotatedGenesQuantity>3</AnnotatedGenesQuantity>
+<AnnotatedGenes>CACNA1C|CACNA2D1|FOS</AnnotatedGenes>
+<GenomeFrequency>152/43164 genes: 0.35%</GenomeFrequency>
+</row>
+<row>
+<Pathway>Alzheimer&apos;s disease</Pathway>
+<PathwayId>KEGG:hsa05010</PathwayId>
+<P-value>2.15e-5</P-value>
+<CorrectedP-value>0.00588</CorrectedP-value>
+<AnnotatedGenesQuantity>3</AnnotatedGenesQuantity>
+<AnnotatedGenes>CACNA1C|CASP3|TNF</AnnotatedGenes>
+<GenomeFrequency>171/43164 genes: 0.40%</GenomeFrequency>
+</row>
+<row>
+<Pathway>Tuberculosis</Pathway>
+<PathwayId>KEGG:hsa05152</PathwayId>
+<P-value>2.43e-5</P-value>
+<CorrectedP-value>0.00663</CorrectedP-value>
+<AnnotatedGenesQuantity>3</AnnotatedGenesQuantity>
+<AnnotatedGenes>CASP3|TGFB1|TNF</AnnotatedGenes>
+<GenomeFrequency>178/43164 genes: 0.41%</GenomeFrequency>
+</row>
+<row>
+<Pathway>Glutamate Neurotransmitter Release Cycle</Pathway>
+<PathwayId>REACT:R-HSA-210500</PathwayId>
+<P-value>2.69e-5</P-value>
+<CorrectedP-value>0.00733</CorrectedP-value>
+<AnnotatedGenesQuantity>2</AnnotatedGenesQuantity>
+<AnnotatedGenes>SLC1A1|STX1A</AnnotatedGenes>
+<GenomeFrequency>24/43164 genes: 0.06%</GenomeFrequency>
+</row>
+<row>
+<Pathway>Herpes simplex infection</Pathway>
+<PathwayId>KEGG:hsa05168</PathwayId>
+<P-value>2.72e-5</P-value>
+<CorrectedP-value>0.00743</CorrectedP-value>
+<AnnotatedGenesQuantity>3</AnnotatedGenesQuantity>
+<AnnotatedGenes>CASP3|FOS|TNF</AnnotatedGenes>
+<GenomeFrequency>185/43164 genes: 0.43%</GenomeFrequency>
+</row>
+<row>
+<Pathway>cAMP signaling pathway</Pathway>
+<PathwayId>KEGG:hsa04024</PathwayId>
+<P-value>3.33e-5</P-value>
+<CorrectedP-value>0.00910</CorrectedP-value>
+<AnnotatedGenesQuantity>3</AnnotatedGenesQuantity>
+<AnnotatedGenes>CACNA1C|DRD2|FOS</AnnotatedGenes>
+<GenomeFrequency>198/43164 genes: 0.46%</GenomeFrequency>
+</row>
+<row>
+<Pathway>Proteoglycans in cancer</Pathway>
+<PathwayId>KEGG:hsa05205</PathwayId>
+<P-value>3.59e-5</P-value>
+<CorrectedP-value>0.00980</CorrectedP-value>
+<AnnotatedGenesQuantity>3</AnnotatedGenesQuantity>
+<AnnotatedGenes>CASP3|TGFB1|TNF</AnnotatedGenes>
+<GenomeFrequency>203/43164 genes: 0.47%</GenomeFrequency>
+</row>
+</table>

@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<table>
+<row>
+<Pathway>Bile secretion</Pathway>
+<PathwayId>KEGG:hsa04976</PathwayId>
+<P-value>7.99e-6</P-value>
+<CorrectedP-value>2.96e-4</CorrectedP-value>
+<AnnotatedGenesQuantity>2</AnnotatedGenesQuantity>
+<AnnotatedGenes>HMGCR|LDLR</AnnotatedGenes>
+<GenomeFrequency>71/43164 genes: 0.16%</GenomeFrequency>
+</row>
+</table>

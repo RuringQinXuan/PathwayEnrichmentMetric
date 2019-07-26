@@ -1,0 +1,20 @@
+My Project
+
+This project is designed for pathway enrichment.
+
+Background Information:
+Pathway enrichment is a process that a set of genes is enriched to a pathway.
+One pathway is a set of genes for a specific biological activity, such as drug and disease.
+
+So if we want to do pathway enrichment, we need a gene set and a list of pathways.
+In this project,
+
+The gene set comes from a list of drug-related PubMed abstract files by text mining method.
+The pathway list comes from KEGG(Kyoto Encyclopedia of Genes and Genomes: https://www.kegg.jp/).
+
+What we want to do is to compare the 4 text mining methods and 7 new pathway enrichment methods.
+To valid this comparison, the drug-pathway is collected from CTD()
+
+
+
+
