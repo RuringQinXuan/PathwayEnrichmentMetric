@@ -1,4 +1,5 @@
 My Project
+<<<<<<< HEAD
 
 This project is designed for pathway enrichment.
 
@@ -18,3 +19,5 @@ To valid this comparison, the drug-pathway is collected from CTD()
 
 
 
+=======
+>>>>>>> a2288e786892b085d9682aeec8ee41b913bcf3b4
